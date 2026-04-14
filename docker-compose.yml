@@ -1,0 +1,134 @@
+version: "3.9"
+
+# ─────────────────────────────────────────────────────────────
+#  FoodFlow Analytics — Docker Compose
+#  Services:
+#    postgres   : Data Warehouse (PostgreSQL 15)
+#    airflow-db : Airflow metadata store (separate Postgres)
+#    airflow    : Airflow webserver + scheduler (all-in-one)
+#
+#  Usage:
+#    docker-compose up -d          # start all services
+#    docker-compose logs -f        # tail logs
+#    docker-compose down -v        # teardown + delete volumes
+# ─────────────────────────────────────────────────────────────
+
+services:
+  # ── Data Warehouse ──────────────────────────────────────────
+  postgres:
+    image: postgres:15-alpine
+    container_name: foodflow_postgres
+    environment:
+      POSTGRES_USER: dw_user
+      POSTGRES_PASSWORD: secret
+      POSTGRES_DB: foodflow_dw
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./01_schema_ddl.sql:/docker-entrypoint-initdb.d/01_schema.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U dw_user -d foodflow_dw"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ── Airflow Metadata DB ─────────────────────────────────────
+  airflow-db:
+    image: postgres:15-alpine
+    container_name: foodflow_airflow_db
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - airflow_db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U airflow"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ── Airflow (Webserver + Scheduler) ─────────────────────────
+  airflow:
+    image: apache/airflow:2.8.4
+    container_name: foodflow_airflow
+    depends_on:
+      airflow-db:
+        condition: service_healthy
+      postgres:
+        condition: service_healthy
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-db:5432/airflow
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__WEBSERVER__SECRET_KEY: "foodflow-dev-secret"
+      AIRFLOW_CONN_FOODFLOW_POSTGRES: >
+        postgresql+psycopg2://dw_user:secret@postgres:5432/foodflow_dw
+      # .env vars forwarded to pipeline scripts
+      DB_HOST: postgres
+      DB_PORT: "5432"
+      DB_NAME: foodflow_dw
+      DB_USER: dw_user
+      DB_PASS: secret
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./scripts:/opt/airflow/foodflow/scripts
+      - ./data:/opt/airflow/foodflow/data
+      - ./outputs:/opt/airflow/foodflow/outputs
+    command: >
+      bash -c "
+        pip install pandas numpy sqlalchemy psycopg2-binary faker prophet &&
+        airflow db init &&
+        airflow users create --username admin --password admin
+          --firstname Admin --lastname User
+          --role Admin --email admin@foodflow.in &&
+        airflow scheduler &
+        airflow webserver
+      "
+
+volumes:
+  postgres_data:
+  airflow_db_data:
+
+  # ── Metabase (BI Dashboard) ───────────────────────────────
+  metabase:
+    image: metabase/metabase:v0.50.14
+    container_name: foodflow_metabase
+    depends_on:
+      postgres:
+        condition: service_healthy
+      metabase-db:
+        condition: service_healthy
+    ports:
+      - "3000:3000"
+    environment:
+      MB_DB_TYPE: postgres
+      MB_DB_DBNAME: metabase
+      MB_DB_PORT: 5432
+      MB_DB_USER: metabase
+      MB_DB_PASS: metabase_secret
+      MB_DB_HOST: metabase-db
+    volumes:
+      - metabase_data:/metabase-data
+
+  metabase-db:
+    image: postgres:15-alpine
+    container_name: foodflow_metabase_db
+    environment:
+      POSTGRES_USER: metabase
+      POSTGRES_PASSWORD: metabase_secret
+      POSTGRES_DB: metabase
+    volumes:
+      - metabase_db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U metabase"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  metabase_data:
+  metabase_db_data:

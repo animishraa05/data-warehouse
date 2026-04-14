@@ -1,0 +1,201 @@
+restaurant_id,name,city,cuisine_type,rating,total_reviews,avg_prep_time_min,is_veg_only,onboarded_date
+REST0001,"De, Lad and Modi Kitchen",Chennai,Fast Food,4.0,443,42,False,2022-09-12
+REST0002,Tank Inc Kitchen,Hyderabad,Continental,2.5,2789,26,False,2022-12-09
+REST0003,Jaggi-Dugal Kitchen,Ahmedabad,Italian,3.4,3517,32,True,2022-02-14
+REST0004,Patla and Sons Kitchen,Ahmedabad,Desserts,4.0,4217,45,False,2020-03-02
+REST0005,Parmar Group Kitchen,Mumbai,Biryani,4.9,4463,27,True,2020-05-15
+REST0006,"Zachariah, Bora and Sarraf Kitchen",Indore,Snacks,3.5,4020,34,False,2020-03-22
+REST0007,Nigam-Gokhale Kitchen,Delhi,North Indian,2.9,4740,21,False,2022-01-28
+REST0008,"Agate, Sinha and Malhotra Kitchen",Bengaluru,Fast Food,3.8,4524,37,False,2022-08-01
+REST0009,Mukherjee-Ramanathan Kitchen,Mumbai,South Indian,3.2,4281,48,True,2020-03-31
+REST0010,Sahota-Virk Kitchen,Bengaluru,Italian,3.0,2827,46,True,2021-03-16
+REST0011,Sarkar PLC Kitchen,Indore,Continental,4.0,3742,35,False,2021-08-26
+REST0012,Gade and Sons Kitchen,Ahmedabad,Desserts,4.8,1451,20,False,2021-02-23
+REST0013,Kala Group Kitchen,Hyderabad,Fast Food,4.6,955,30,False,2021-06-11
+REST0014,Anne-Atwal Kitchen,Pune,South Indian,3.0,579,49,False,2022-09-20
+REST0015,Goel-Wagle Kitchen,Pune,Continental,4.4,4668,34,True,2020-02-28
+REST0016,Upadhyay-Sarma Kitchen,Chennai,Continental,3.1,3771,25,False,2021-10-02
+REST0017,Desai-Krish Kitchen,Mumbai,Fast Food,3.2,436,46,False,2020-11-17
+REST0018,Mody Ltd Kitchen,Indore,North Indian,4.8,2671,28,False,2020-09-28
+REST0019,"Raghavan, Luthra and Bhardwaj Kitchen",Hyderabad,Desserts,4.8,622,38,False,2021-09-07
+REST0020,Chaudry-Kapadia Kitchen,Pune,Chinese,2.9,693,45,False,2022-07-24
+REST0021,Mittal-Nath Kitchen,Chennai,Continental,2.7,4121,31,True,2020-06-05
+REST0022,Dani Inc Kitchen,Delhi,Biryani,3.2,1342,39,True,2020-07-06
+REST0023,Joshi-Dash Kitchen,Ahmedabad,Chinese,4.0,3645,23,False,2020-06-28
+REST0024,Tella Inc Kitchen,Delhi,Snacks,4.7,4692,36,False,2022-07-05
+REST0025,Golla and Sons Kitchen,Ahmedabad,Fast Food,2.8,2535,49,True,2020-03-17
+REST0026,Dhaliwal-Guha Kitchen,Delhi,Continental,3.5,604,31,False,2020-06-30
+REST0027,Agarwal-Karnik Kitchen,Chennai,Biryani,3.2,2208,42,True,2021-03-25
+REST0028,Devan Inc Kitchen,Hyderabad,Snacks,2.5,3443,15,False,2022-05-03
+REST0029,"Shroff, Bhavsar and Kadakia Kitchen",Mumbai,Chinese,4.5,2624,23,True,2020-03-19
+REST0030,"Kunda, Sha and Pandit Kitchen",Ahmedabad,South Indian,4.5,2274,27,False,2022-11-26
+REST0031,Chahal-Chaudhry Kitchen,Indore,Italian,3.1,3659,46,False,2022-06-05
+REST0032,Palla-Uppal Kitchen,Bengaluru,Chinese,2.9,4769,42,True,2020-09-27
+REST0033,Padmanabhan-Sen Kitchen,Hyderabad,Italian,2.9,2038,45,True,2020-09-09
+REST0034,"Khurana, Andra and Master Kitchen",Hyderabad,Biryani,3.7,993,22,False,2022-10-20
+REST0035,"Prashad, Lad and Sahota Kitchen",Chennai,Continental,3.1,4618,22,False,2023-01-01
+REST0036,Basak Group Kitchen,Bengaluru,Italian,3.8,1043,48,True,2022-06-29
+REST0037,Mukherjee-Sundaram Kitchen,Jaipur,Fast Food,3.5,3509,37,False,2021-04-18
+REST0038,Kala-Palla Kitchen,Hyderabad,Biryani,3.0,1171,24,False,2020-02-25
+REST0039,Comar-Rajan Kitchen,Indore,Continental,4.4,3496,39,False,2021-11-04
+REST0040,Padmanabhan PLC Kitchen,Hyderabad,Biryani,2.9,4315,47,False,2020-06-11
+REST0041,Modi-Vig Kitchen,Kolkata,Chinese,4.5,105,18,False,2021-02-02
+REST0042,Oza-Thaker Kitchen,Ahmedabad,Biryani,3.9,1806,21,False,2020-12-18
+REST0043,Shanker PLC Kitchen,Pune,Chinese,4.6,707,47,False,2022-09-12
+REST0044,Nagy PLC Kitchen,Hyderabad,Fast Food,2.5,309,16,True,2021-10-02
+REST0045,Om-Pau Kitchen,Hyderabad,Desserts,4.4,4786,46,False,2020-06-15
+REST0046,"Mitter, Shah and Saran Kitchen",Chennai,Fast Food,2.6,2659,19,True,2021-02-21
+REST0047,Nagy Inc Kitchen,Indore,Snacks,4.9,3959,31,False,2020-05-08
+REST0048,"Sheth, Rajan and Seth Kitchen",Chennai,Chinese,4.3,453,26,False,2020-12-18
+REST0049,Tella-Kashyap Kitchen,Mumbai,Continental,3.3,844,26,False,2020-06-19
+REST0050,"Rajagopalan, Tailor and Dua Kitchen",Ahmedabad,Beverages,3.3,1611,49,False,2022-05-13
+REST0051,Samra-Dar Kitchen,Indore,Desserts,4.7,1233,35,True,2022-06-16
+REST0052,Prasad and Sons Kitchen,Chennai,Fast Food,4.8,2691,35,False,2021-10-04
+REST0053,"Shetty, Nazareth and Mann Kitchen",Bengaluru,Beverages,4.7,2714,16,False,2022-12-28
+REST0054,"Roy, Wali and De Kitchen",Bengaluru,South Indian,4.5,4859,35,False,2021-02-01
+REST0055,"Narain, Pradhan and Dugal Kitchen",Hyderabad,Beverages,4.5,3657,29,False,2021-01-04
+REST0056,Kumer-Banerjee Kitchen,Pune,Snacks,3.9,2007,25,False,2021-05-14
+REST0057,Mohan LLC Kitchen,Chennai,Snacks,2.6,2143,24,False,2020-01-28
+REST0058,Chander-Krishnamurthy Kitchen,Mumbai,Fast Food,2.7,1802,32,True,2020-11-27
+REST0059,"Sant, Rama and Barman Kitchen",Chennai,Beverages,4.1,3612,37,False,2022-05-29
+REST0060,Amble-Kurian Kitchen,Chennai,Italian,3.5,1744,45,False,2022-09-30
+REST0061,"Mann, Sheth and Magar Kitchen",Kolkata,Continental,3.9,905,40,False,2022-01-30
+REST0062,Deol Ltd Kitchen,Pune,South Indian,3.1,1345,16,False,2020-03-29
+REST0063,Bali-More Kitchen,Chennai,Chinese,4.1,4805,21,True,2022-03-20
+REST0064,"Sagar, Sidhu and Konda Kitchen",Delhi,North Indian,3.1,3671,38,False,2020-09-15
+REST0065,Mistry Ltd Kitchen,Delhi,Italian,3.7,4256,46,False,2022-05-27
+REST0066,Sane-Pai Kitchen,Hyderabad,South Indian,3.7,1088,40,True,2021-07-30
+REST0067,Misra LLC Kitchen,Mumbai,South Indian,2.9,4646,37,False,2021-11-26
+REST0068,Kale-Upadhyay Kitchen,Pune,North Indian,4.7,4563,28,False,2021-12-13
+REST0069,Banerjee and Sons Kitchen,Mumbai,Snacks,3.8,4420,43,False,2022-04-29
+REST0070,"Merchant, Tiwari and Dugar Kitchen",Bengaluru,South Indian,4.7,3497,39,False,2020-10-19
+REST0071,Sami Inc Kitchen,Indore,Italian,3.2,3482,45,False,2021-10-17
+REST0072,Pillai-De Kitchen,Pune,Fast Food,2.9,3798,16,False,2020-06-09
+REST0073,"Dhillon, Chaudhry and Kalita Kitchen",Kolkata,Biryani,2.5,2291,16,True,2021-12-07
+REST0074,"Sankaran, Setty and Bains Kitchen",Pune,Biryani,2.7,3580,37,False,2021-02-08
+REST0075,"Sagar, Bhatnagar and Nori Kitchen",Chennai,Biryani,2.9,4944,25,True,2022-05-26
+REST0076,Bath-Hayre Kitchen,Ahmedabad,Italian,2.7,2013,43,True,2020-09-05
+REST0077,Chad and Sons Kitchen,Kolkata,Continental,4.7,3065,49,False,2022-09-28
+REST0078,Kohli Ltd Kitchen,Hyderabad,Chinese,4.8,3617,23,False,2022-04-24
+REST0079,"Chatterjee, Din and Manne Kitchen",Mumbai,North Indian,4.8,3920,46,False,2020-06-23
+REST0080,"Bali, Patel and Pathak Kitchen",Delhi,Desserts,4.9,4914,44,False,2020-06-09
+REST0081,Vig Inc Kitchen,Kolkata,Snacks,3.7,1534,29,True,2020-03-05
+REST0082,Ganesan Group Kitchen,Hyderabad,Biryani,3.8,4284,28,False,2022-04-01
+REST0083,Lad-Agate Kitchen,Bengaluru,Beverages,2.8,2389,31,False,2020-03-16
+REST0084,Sur-Mani Kitchen,Pune,Snacks,2.8,384,36,False,2022-12-24
+REST0085,Gulati LLC Kitchen,Pune,Italian,4.4,1908,44,False,2020-01-11
+REST0086,Randhawa-Balay Kitchen,Delhi,Continental,4.6,1257,31,False,2022-09-24
+REST0087,Chaudry PLC Kitchen,Ahmedabad,Continental,4.5,974,30,True,2020-07-29
+REST0088,Mittal LLC Kitchen,Mumbai,Biryani,4.6,2995,22,False,2020-04-17
+REST0089,"Kumer, Dalal and Morar Kitchen",Indore,Beverages,3.2,4489,45,False,2020-02-25
+REST0090,Roy Group Kitchen,Pune,Desserts,3.7,4802,26,False,2022-01-04
+REST0091,Morar-Dugal Kitchen,Indore,Biryani,3.6,3635,47,True,2022-01-11
+REST0092,Manda PLC Kitchen,Mumbai,North Indian,5.0,4406,26,False,2022-04-14
+REST0093,"Natt, Wason and Gill Kitchen",Bengaluru,Snacks,4.9,4077,39,True,2022-06-03
+REST0094,Chada-Rege Kitchen,Bengaluru,Fast Food,4.0,4314,32,False,2020-10-30
+REST0095,Randhawa-Nadkarni Kitchen,Indore,Snacks,2.8,4805,33,False,2021-03-13
+REST0096,Hora PLC Kitchen,Delhi,Beverages,3.1,4345,17,False,2020-03-05
+REST0097,Brahmbhatt and Sons Kitchen,Indore,Biryani,3.4,4727,49,False,2020-11-05
+REST0098,Bali LLC Kitchen,Chennai,North Indian,4.7,4711,19,False,2020-08-27
+REST0099,Mitra-Dutt Kitchen,Hyderabad,Beverages,2.9,3892,49,False,2021-08-11
+REST0100,Sekhon-Agarwal Kitchen,Kolkata,Chinese,3.0,2448,41,False,2021-06-20
+REST0101,Basu and Sons Kitchen,Delhi,Beverages,3.4,77,35,False,2020-10-09
+REST0102,Zacharia and Sons Kitchen,Hyderabad,Italian,4.8,4000,30,False,2021-01-29
+REST0103,"Master, Mani and De Kitchen",Pune,Beverages,3.8,1948,42,False,2021-05-09
+REST0104,Mahajan and Sons Kitchen,Mumbai,Desserts,4.1,4777,39,False,2020-06-18
+REST0105,"Chahal, Mander and Seth Kitchen",Bengaluru,Biryani,3.5,2477,47,True,2022-04-03
+REST0106,Kala and Sons Kitchen,Mumbai,Italian,3.0,1675,31,False,2022-03-25
+REST0107,"Chowdhury, Chahal and Gandhi Kitchen",Delhi,Beverages,3.1,2625,44,True,2020-09-08
+REST0108,Viswanathan PLC Kitchen,Jaipur,Italian,4.5,2086,18,True,2020-02-17
+REST0109,"Talwar, Jhaveri and Aggarwal Kitchen",Indore,North Indian,4.7,1360,16,True,2021-04-29
+REST0110,Mallick-Zacharia Kitchen,Chennai,Fast Food,3.7,3405,23,False,2021-03-30
+REST0111,Sane and Sons Kitchen,Hyderabad,Italian,3.4,3770,45,False,2021-10-13
+REST0112,Tank-Sibal Kitchen,Hyderabad,Snacks,4.5,4952,39,True,2021-11-16
+REST0113,Sawhney LLC Kitchen,Ahmedabad,Chinese,4.2,2324,19,False,2021-10-29
+REST0114,Dhar LLC Kitchen,Bengaluru,Continental,2.6,2124,38,False,2021-05-16
+REST0115,"Reddy, Konda and Narang Kitchen",Hyderabad,Chinese,3.4,138,38,False,2021-01-24
+REST0116,Ratta Inc Kitchen,Delhi,Beverages,4.2,3854,43,False,2022-04-05
+REST0117,Uppal LLC Kitchen,Kolkata,Fast Food,3.9,171,45,True,2022-01-02
+REST0118,Dhar-Bhardwaj Kitchen,Jaipur,Chinese,4.9,82,33,False,2020-03-06
+REST0119,Sarma-Parsa Kitchen,Hyderabad,Continental,4.7,4748,37,False,2021-03-12
+REST0120,Thaker and Sons Kitchen,Kolkata,Desserts,2.6,745,49,False,2022-05-10
+REST0121,Goyal-Seth Kitchen,Hyderabad,Desserts,4.3,3891,20,False,2021-01-10
+REST0122,"Ramaswamy, Chada and Chandran Kitchen",Delhi,Fast Food,3.3,574,20,False,2020-04-23
+REST0123,Mutti-Sha Kitchen,Kolkata,Continental,4.2,296,44,False,2020-08-30
+REST0124,Bava PLC Kitchen,Pune,Continental,4.0,3976,15,False,2020-01-04
+REST0125,Ghosh and Sons Kitchen,Hyderabad,North Indian,3.8,3151,22,False,2021-05-26
+REST0126,Dutta Ltd Kitchen,Pune,South Indian,4.6,2146,42,True,2020-08-19
+REST0127,Saraf LLC Kitchen,Ahmedabad,Italian,4.3,2012,39,False,2022-12-06
+REST0128,Hora PLC Kitchen,Bengaluru,Fast Food,4.7,3009,47,False,2020-01-27
+REST0129,"Batta, Goda and Walla Kitchen",Delhi,Biryani,3.2,2277,28,False,2022-05-28
+REST0130,Ghosh Ltd Kitchen,Chennai,North Indian,3.4,1443,25,False,2022-11-11
+REST0131,Mohan-Khanna Kitchen,Delhi,Desserts,4.1,1957,16,True,2020-11-12
+REST0132,Hans and Sons Kitchen,Indore,North Indian,4.9,2073,44,True,2022-03-10
+REST0133,Gala-Pathak Kitchen,Chennai,Beverages,3.4,4883,44,False,2022-09-15
+REST0134,"Setty, Mohanty and Walla Kitchen",Indore,Italian,2.6,2528,18,False,2022-09-08
+REST0135,"Deshpande, Hayre and Agrawal Kitchen",Kolkata,Biryani,3.6,4509,27,False,2021-11-18
+REST0136,Kumer and Sons Kitchen,Ahmedabad,Fast Food,3.9,1031,21,False,2021-07-04
+REST0137,Chauhan Ltd Kitchen,Kolkata,Beverages,4.5,3273,17,False,2022-02-06
+REST0138,"Atwal, Goda and Bora Kitchen",Hyderabad,South Indian,4.3,276,23,True,2021-05-25
+REST0139,Morar Ltd Kitchen,Bengaluru,Biryani,4.9,1316,28,False,2021-08-06
+REST0140,Khanna-Sem Kitchen,Delhi,Continental,4.5,2107,25,True,2022-03-08
+REST0141,Wali Ltd Kitchen,Mumbai,Biryani,3.2,2301,28,True,2022-08-27
+REST0142,Ram-Krishnamurthy Kitchen,Delhi,North Indian,4.1,2991,33,False,2021-05-07
+REST0143,Goswami-Parmer Kitchen,Delhi,Snacks,4.2,206,22,False,2021-11-10
+REST0144,Rege-Chokshi Kitchen,Chennai,Beverages,5.0,2123,21,False,2022-10-27
+REST0145,"Kadakia, Parmer and Chandra Kitchen",Jaipur,North Indian,2.8,4113,21,False,2020-12-28
+REST0146,Vyas-Khatri Kitchen,Mumbai,Continental,3.0,810,17,False,2020-06-19
+REST0147,Gour and Sons Kitchen,Hyderabad,Desserts,2.9,823,17,True,2022-06-06
+REST0148,Bhat Ltd Kitchen,Indore,North Indian,4.0,1602,32,False,2021-09-29
+REST0149,Sethi and Sons Kitchen,Pune,Biryani,2.8,1007,47,False,2020-10-27
+REST0150,Bains and Sons Kitchen,Indore,South Indian,4.1,303,42,False,2021-09-02
+REST0151,Mannan PLC Kitchen,Bengaluru,Biryani,4.5,1619,30,False,2020-02-20
+REST0152,"Deshmukh, Raghavan and Viswanathan Kitchen",Ahmedabad,Biryani,3.6,3268,29,False,2021-05-22
+REST0153,Sane-Dua Kitchen,Bengaluru,Beverages,3.9,4263,43,True,2022-09-27
+REST0154,Swaminathan LLC Kitchen,Ahmedabad,Fast Food,4.8,3286,32,False,2020-11-11
+REST0155,Varkey Inc Kitchen,Delhi,Italian,3.9,4695,33,False,2020-10-30
+REST0156,"Sura, Parekh and Prashad Kitchen",Chennai,Biryani,3.0,857,43,True,2020-08-31
+REST0157,Kala Ltd Kitchen,Hyderabad,Biryani,3.4,4966,20,False,2021-04-01
+REST0158,Rai-Shah Kitchen,Jaipur,Italian,3.8,1831,41,False,2022-09-13
+REST0159,Hayre and Sons Kitchen,Bengaluru,South Indian,2.9,1271,21,False,2022-12-06
+REST0160,Lall LLC Kitchen,Chennai,Beverages,4.0,3713,41,False,2021-08-05
+REST0161,Rout-Ahluwalia Kitchen,Indore,Desserts,5.0,3250,33,False,2021-11-12
+REST0162,Dayal-Thaker Kitchen,Jaipur,Continental,4.1,929,31,False,2020-07-08
+REST0163,Karan-Nair Kitchen,Kolkata,Continental,3.4,50,25,False,2021-09-27
+REST0164,Srivastava Group Kitchen,Delhi,North Indian,3.3,216,19,False,2020-12-09
+REST0165,"Aggarwal, Pandey and Nagi Kitchen",Mumbai,Beverages,4.8,2113,16,False,2021-11-25
+REST0166,Ranganathan and Sons Kitchen,Mumbai,Snacks,4.7,2754,26,False,2021-12-01
+REST0167,Trivedi-Patil Kitchen,Pune,Desserts,3.7,161,25,False,2021-05-09
+REST0168,Jha PLC Kitchen,Delhi,Continental,3.4,3489,24,False,2020-06-26
+REST0169,Puri Inc Kitchen,Pune,Snacks,4.3,1175,42,False,2022-01-03
+REST0170,Tiwari-Bava Kitchen,Mumbai,Fast Food,3.3,2691,21,False,2022-08-02
+REST0171,Nadig PLC Kitchen,Hyderabad,Snacks,2.8,1479,28,False,2021-12-15
+REST0172,Banik Group Kitchen,Indore,Snacks,3.3,2093,27,False,2022-01-11
+REST0173,"Pillai, Ghose and Nayar Kitchen",Hyderabad,Desserts,3.6,4652,19,True,2020-02-14
+REST0174,Raghavan-Kar Kitchen,Chennai,Fast Food,3.1,1684,22,False,2022-05-02
+REST0175,Bhatnagar-Gour Kitchen,Indore,Snacks,3.0,720,15,True,2020-11-20
+REST0176,Sekhon Ltd Kitchen,Mumbai,Italian,2.5,3161,19,False,2022-10-10
+REST0177,Som-Ghose Kitchen,Pune,Chinese,4.1,1740,25,True,2020-08-07
+REST0178,Madan-Shroff Kitchen,Delhi,Biryani,4.0,4007,24,False,2021-06-09
+REST0179,Bali-Comar Kitchen,Delhi,South Indian,3.0,1014,29,False,2021-07-09
+REST0180,Mane-Pall Kitchen,Ahmedabad,Biryani,4.9,330,43,False,2022-04-10
+REST0181,"Pandya, Saha and Agate Kitchen",Jaipur,North Indian,3.5,4496,39,False,2022-02-06
+REST0182,Johal Ltd Kitchen,Kolkata,Snacks,2.6,2016,20,True,2021-07-28
+REST0183,"Gill, Chokshi and Master Kitchen",Mumbai,Continental,3.0,2858,25,False,2022-12-21
+REST0184,Agarwal LLC Kitchen,Mumbai,Beverages,4.2,2014,31,False,2021-02-24
+REST0185,Dube-Loyal Kitchen,Pune,North Indian,3.0,4873,29,False,2020-05-21
+REST0186,Iyer-Shah Kitchen,Ahmedabad,Desserts,2.6,3440,30,True,2022-02-18
+REST0187,"Sarin, Hayre and Banerjee Kitchen",Bengaluru,Beverages,4.0,872,16,False,2022-10-12
+REST0188,Puri-Minhas Kitchen,Jaipur,Beverages,3.8,1487,33,False,2022-02-21
+REST0189,Som-Rege Kitchen,Hyderabad,Desserts,4.4,2111,35,True,2021-03-12
+REST0190,"Bala, Pandey and Khare Kitchen",Hyderabad,Italian,4.4,3915,25,False,2022-09-19
+REST0191,Ghose LLC Kitchen,Bengaluru,Biryani,4.9,4344,17,False,2021-04-25
+REST0192,"Rastogi, Manne and Zacharia Kitchen",Ahmedabad,North Indian,2.6,4823,48,False,2020-04-02
+REST0193,Dhaliwal PLC Kitchen,Jaipur,Biryani,2.6,4086,32,False,2020-12-29
+REST0194,Murthy Group Kitchen,Mumbai,Fast Food,5.0,1514,29,False,2022-08-05
+REST0195,Varty-Mohanty Kitchen,Delhi,Continental,4.1,127,39,False,2021-03-22
+REST0196,Raman-Thakur Kitchen,Mumbai,North Indian,4.3,2209,29,False,2020-01-21
+REST0197,Talwar Ltd Kitchen,Hyderabad,Desserts,2.7,4680,44,False,2021-10-08
+REST0198,Reddy and Sons Kitchen,Indore,Snacks,2.7,3237,31,False,2021-12-21
+REST0199,"Tella, Sen and Gade Kitchen",Pune,North Indian,2.9,1215,32,False,2020-01-31
+REST0200,Ratta-Sodhi Kitchen,Pune,North Indian,3.6,839,45,True,2022-08-15

@@ -1,0 +1,25 @@
+# FoodFlow Analytics — Python Dependencies
+# Install: pip install -r requirements.txt
+
+# ── Core Data Engineering ──────────────────────────────────────
+pandas==2.2.3
+numpy==1.26.4
+sqlalchemy==2.0.27
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
+
+# ── Data Generation ───────────────────────────────────────────
+Faker==23.3.0
+
+# ── Machine Learning ──────────────────────────────────────────
+prophet==1.1.5
+matplotlib==3.8.3
+scikit-learn==1.4.0
+
+# ── Pipeline Orchestration ────────────────────────────────────
+apache-airflow==2.8.4
+apache-airflow-providers-postgres==5.10.2
+
+# ── Utilities ─────────────────────────────────────────────────
+tqdm==4.66.2          # progress bars for large file processing
+loguru==0.7.2         # enhanced logging

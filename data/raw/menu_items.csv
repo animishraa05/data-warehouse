@@ -1,0 +1,1501 @@
+item_id,restaurant_id,item_name,category,price,is_available,is_veg,calories
+ITEM00001,REST0087,E-Enable Customized Bandwidth,Starters,296.03,True,True,197
+ITEM00002,REST0010,Integrate One-To-One Models,Combos,572.73,True,True,118
+ITEM00003,REST0047,Envisioneer Frictionless E-Tailers,Desserts,165.93,True,False,412
+ITEM00004,REST0004,Deliver 24/7 E-Tailers,Combos,148.47,True,False,627
+ITEM00005,REST0012,Target Bricks-And-Clicks Web Services,Combos,183.04,False,True,656
+ITEM00006,REST0042,Transition Synergistic Action-Items,Combos,353.51,True,False,766
+ITEM00007,REST0004,E-Enable Synergistic Platforms,Main Course,561.66,True,True,544
+ITEM00008,REST0084,Scale Next-Generation E-Commerce,Beverages,365.63,False,False,330
+ITEM00009,REST0092,Benchmark Customized Networks,Rice,183.92,True,False,768
+ITEM00010,REST0092,Deliver Open-Source E-Tailers,Rice,292.25,True,True,724
+ITEM00011,REST0006,Harness 24/7 Synergies,Breads,264.72,True,True,458
+ITEM00012,REST0142,Expedite Visionary Experiences,Desserts,75.61,True,True,482
+ITEM00013,REST0035,Whiteboard Value-Added Paradigms,Rice,330.85,True,False,611
+ITEM00014,REST0175,Synthesize Cutting-Edge Initiatives,Breads,119.3,True,True,143
+ITEM00015,REST0186,Morph User-Centric E-Business,Beverages,513.23,True,False,464
+ITEM00016,REST0065,Strategize Frictionless Applications,Combos,351.93,False,True,721
+ITEM00017,REST0147,Embrace Wireless Models,Starters,514.53,True,True,210
+ITEM00018,REST0057,Streamline Dynamic Synergies,Main Course,575.82,True,True,322
+ITEM00019,REST0193,Redefine Rich Deliverables,Beverages,568.75,True,True,485
+ITEM00020,REST0013,Reinvent Turn-Key Models,Beverages,105.24,True,False,364
+ITEM00021,REST0136,Brand Mission-Critical Technologies,Rice,569.65,True,False,370
+ITEM00022,REST0018,Cultivate One-To-One Vortals,Rice,487.66,True,True,311
+ITEM00023,REST0163,Grow Bleeding-Edge Models,Main Course,477.71,True,True,595
+ITEM00024,REST0087,Harness Proactive Portals,Starters,99.57,True,True,413
+ITEM00025,REST0114,Incubate End-To-End Metrics,Beverages,148.73,True,False,869
+ITEM00026,REST0026,Deploy Back-End Roi,Desserts,586.34,True,True,486
+ITEM00027,REST0166,Utilize Distributed Convergence,Rice,167.35,True,False,346
+ITEM00028,REST0066,Re-Intermediate Holistic Convergence,Beverages,142.98,True,True,666
+ITEM00029,REST0026,Transform End-To-End Eyeballs,Starters,249.29,False,False,449
+ITEM00030,REST0126,Engage Killer Niches,Breads,552.35,True,False,171
+ITEM00031,REST0057,Maximize User-Centric Synergies,Starters,311.91,True,True,395
+ITEM00032,REST0025,Disintermediate Robust Info-Mediaries,Beverages,556.32,True,False,312
+ITEM00033,REST0030,Enable Innovative Deliverables,Beverages,233.89,True,False,394
+ITEM00034,REST0135,Monetize World-Class Models,Main Course,174.59,True,False,270
+ITEM00035,REST0027,Architect Bleeding-Edge E-Business,Beverages,322.36,True,True,345
+ITEM00036,REST0139,Benchmark Mission-Critical Content,Rice,388.51,True,True,240
+ITEM00037,REST0101,Leverage Dynamic Experiences,Desserts,265.32,True,False,715
+ITEM00038,REST0136,Aggregate Vertical Convergence,Main Course,240.32,False,False,716
+ITEM00039,REST0011,Optimize Strategic E-Markets,Beverages,169.93,True,False,339
+ITEM00040,REST0126,Enable B2C Portals,Starters,201.25,True,False,410
+ITEM00041,REST0030,Enable Intuitive Experiences,Beverages,420.21,True,True,515
+ITEM00042,REST0094,Syndicate Customized Solutions,Starters,253.43,True,False,497
+ITEM00043,REST0116,Generate End-To-End E-Markets,Starters,93.87,True,True,891
+ITEM00044,REST0015,Embrace Sticky Relationships,Beverages,125.99,True,False,121
+ITEM00045,REST0184,Redefine Rich Channels,Starters,254.81,True,True,177
+ITEM00046,REST0035,E-Enable Dot-Com Methodologies,Desserts,558.48,True,True,574
+ITEM00047,REST0039,Scale Mission-Critical Systems,Breads,258.47,True,True,806
+ITEM00048,REST0024,Embrace Robust E-Commerce,Main Course,83.35,True,False,452
+ITEM00049,REST0008,Embrace Cross-Media Models,Beverages,279.9,True,False,470
+ITEM00050,REST0043,Reinvent Turn-Key Metrics,Combos,417.85,True,False,120
+ITEM00051,REST0170,Visualize Innovative Action-Items,Breads,376.48,True,True,606
+ITEM00052,REST0084,Cultivate Bleeding-Edge Synergies,Starters,203.34,True,True,259
+ITEM00053,REST0169,Transform Extensible Schemas,Starters,428.45,True,False,843
+ITEM00054,REST0047,Unleash Cross-Media Supply-Chains,Main Course,396.84,True,True,460
+ITEM00055,REST0026,Morph Transparent Relationships,Breads,144.7,True,False,655
+ITEM00056,REST0180,Deliver Leading-Edge Interfaces,Breads,139.18,True,False,396
+ITEM00057,REST0150,Optimize Out-Of-The-Box E-Services,Beverages,350.95,True,True,451
+ITEM00058,REST0133,Utilize Clicks-And-Mortar Experiences,Starters,412.69,True,False,279
+ITEM00059,REST0143,Disintermediate Extensible E-Services,Combos,579.05,False,False,571
+ITEM00060,REST0164,Innovate Best-Of-Breed Mindshare,Rice,282.06,True,False,494
+ITEM00061,REST0101,Engage Value-Added E-Commerce,Combos,470.72,True,False,712
+ITEM00062,REST0063,Benchmark Visionary Eyeballs,Beverages,114.09,True,False,726
+ITEM00063,REST0093,Synergize Efficient Models,Beverages,539.28,True,True,312
+ITEM00064,REST0177,Cultivate Distributed Synergies,Beverages,398.21,True,True,629
+ITEM00065,REST0055,Implement B2B Solutions,Main Course,395.97,True,True,494
+ITEM00066,REST0072,Innovate Sticky E-Markets,Main Course,128.34,True,True,126
+ITEM00067,REST0060,Productize Cross-Platform Metrics,Beverages,71.77,True,True,548
+ITEM00068,REST0185,Repurpose Robust Infrastructures,Desserts,435.8,True,True,537
+ITEM00069,REST0029,Orchestrate Integrated Vortals,Rice,114.38,True,False,384
+ITEM00070,REST0019,E-Enable Plug-And-Play Web-Readiness,Breads,119.83,False,False,760
+ITEM00071,REST0073,Evolve Integrated E-Business,Breads,153.13,True,True,896
+ITEM00072,REST0138,Unleash Granular Relationships,Starters,103.76,True,True,748
+ITEM00073,REST0101,Brand Compelling E-Markets,Breads,393.97,False,True,288
+ITEM00074,REST0138,Generate Cross-Platform Roi,Combos,282.1,True,True,801
+ITEM00075,REST0057,Synthesize Compelling Networks,Breads,196.35,True,True,298
+ITEM00076,REST0182,Incentivize Integrated Metrics,Rice,292.41,True,False,201
+ITEM00077,REST0184,Utilize Intuitive E-Services,Breads,514.28,True,False,578
+ITEM00078,REST0068,Engineer Bricks-And-Clicks E-Services,Combos,559.89,True,False,702
+ITEM00079,REST0197,Benchmark Transparent E-Business,Rice,318.11,True,True,323
+ITEM00080,REST0087,Optimize Value-Added Platforms,Main Course,361.71,False,True,616
+ITEM00081,REST0103,Enable Ubiquitous Users,Rice,191.46,True,True,626
+ITEM00082,REST0183,Facilitate Innovative Schemas,Main Course,332.48,True,False,540
+ITEM00083,REST0197,Envisioneer Compelling Technologies,Rice,461.47,True,False,616
+ITEM00084,REST0072,Implement Vertical Convergence,Beverages,320.68,True,True,329
+ITEM00085,REST0129,Enhance Cross-Platform Partnerships,Combos,216.14,True,False,213
+ITEM00086,REST0118,Benchmark Intuitive Mindshare,Desserts,370.12,True,True,615
+ITEM00087,REST0140,Deliver Out-Of-The-Box Models,Main Course,570.66,True,True,283
+ITEM00088,REST0163,Transform Interactive Interfaces,Main Course,538.39,True,False,824
+ITEM00089,REST0116,Scale B2C Metrics,Breads,473.08,True,True,858
+ITEM00090,REST0082,Generate World-Class Models,Main Course,201.92,True,False,133
+ITEM00091,REST0161,Leverage Leading-Edge Portals,Rice,182.86,True,True,395
+ITEM00092,REST0109,Drive Robust Info-Mediaries,Beverages,511.2,True,True,552
+ITEM00093,REST0153,Drive Transparent Deliverables,Beverages,149.72,True,True,807
+ITEM00094,REST0016,Expedite Proactive Supply-Chains,Breads,383.09,False,True,604
+ITEM00095,REST0136,Implement Collaborative Models,Rice,291.41,True,True,505
+ITEM00096,REST0035,Engage Virtual Architectures,Rice,307.39,True,False,226
+ITEM00097,REST0174,Re-Contextualize Viral Users,Starters,300.0,True,True,241
+ITEM00098,REST0139,Enable Distributed Channels,Main Course,544.97,True,True,747
+ITEM00099,REST0189,Innovate Extensible E-Business,Breads,97.9,True,False,227
+ITEM00100,REST0044,Engage Vertical Eyeballs,Beverages,480.6,True,False,785
+ITEM00101,REST0139,Empower User-Centric Web Services,Combos,509.26,True,False,829
+ITEM00102,REST0139,Deploy Value-Added Networks,Desserts,568.58,True,False,725
+ITEM00103,REST0150,Implement Integrated E-Commerce,Starters,298.93,True,False,449
+ITEM00104,REST0085,Expedite Seamless Supply-Chains,Rice,325.04,True,True,623
+ITEM00105,REST0082,Seize Back-End Interfaces,Main Course,578.71,True,False,562
+ITEM00106,REST0190,Expedite Revolutionary Partnerships,Beverages,302.15,True,True,343
+ITEM00107,REST0176,Deploy Compelling Deliverables,Combos,326.95,True,True,663
+ITEM00108,REST0102,Re-Intermediate User-Centric Platforms,Starters,232.74,True,True,285
+ITEM00109,REST0063,Expedite Sticky Vortals,Rice,67.4,True,True,332
+ITEM00110,REST0179,Evolve Collaborative Supply-Chains,Beverages,288.18,True,False,613
+ITEM00111,REST0173,Strategize Real-Time Convergence,Beverages,410.3,True,False,100
+ITEM00112,REST0033,Monetize Cross-Platform Networks,Rice,429.47,True,True,338
+ITEM00113,REST0060,Maximize Out-Of-The-Box Metrics,Rice,53.58,True,False,154
+ITEM00114,REST0123,Facilitate Distributed Applications,Breads,490.58,True,False,594
+ITEM00115,REST0002,Optimize Ubiquitous Infrastructures,Beverages,320.83,False,True,831
+ITEM00116,REST0141,Cultivate Front-End Metrics,Rice,336.41,True,False,715
+ITEM00117,REST0194,Re-Intermediate Innovative Bandwidth,Desserts,578.96,True,True,517
+ITEM00118,REST0057,Envisioneer Seamless Roi,Combos,206.45,True,False,547
+ITEM00119,REST0171,Optimize Front-End Niches,Combos,468.91,True,True,437
+ITEM00120,REST0045,Repurpose User-Centric Supply-Chains,Desserts,366.13,True,False,376
+ITEM00121,REST0031,Generate Collaborative E-Markets,Combos,435.44,True,False,109
+ITEM00122,REST0138,Scale Robust Vortals,Starters,279.8,True,True,440
+ITEM00123,REST0023,Redefine Bleeding-Edge Platforms,Combos,203.56,True,True,203
+ITEM00124,REST0029,Repurpose Intuitive Portals,Main Course,350.37,True,True,444
+ITEM00125,REST0031,Leverage B2C Mindshare,Combos,256.22,False,True,469
+ITEM00126,REST0018,Facilitate Robust E-Commerce,Desserts,172.6,True,False,297
+ITEM00127,REST0011,Architect B2C Partnerships,Breads,511.58,False,True,113
+ITEM00128,REST0103,Incubate Holistic Channels,Rice,311.71,True,True,779
+ITEM00129,REST0047,Grow User-Centric Action-Items,Main Course,516.02,True,False,437
+ITEM00130,REST0003,Leverage Proactive Partnerships,Breads,310.72,False,True,641
+ITEM00131,REST0130,Syndicate Extensible Web-Readiness,Beverages,356.24,True,False,556
+ITEM00132,REST0182,Integrate Ubiquitous Synergies,Main Course,597.4,True,True,625
+ITEM00133,REST0072,Harness Impactful Markets,Desserts,573.33,True,True,849
+ITEM00134,REST0159,Deliver 24/365 Experiences,Breads,199.43,True,True,535
+ITEM00135,REST0136,Implement Wireless E-Business,Rice,527.76,True,False,465
+ITEM00136,REST0171,Leverage Innovative Networks,Rice,264.72,True,True,500
+ITEM00137,REST0176,Productize Efficient Channels,Combos,89.19,True,True,673
+ITEM00138,REST0130,Iterate User-Centric Applications,Breads,366.68,False,True,581
+ITEM00139,REST0022,Redefine Best-Of-Breed Infrastructures,Beverages,587.38,True,False,209
+ITEM00140,REST0124,Iterate Enterprise Channels,Combos,585.87,False,True,505
+ITEM00141,REST0133,Strategize Revolutionary Info-Mediaries,Desserts,119.56,True,False,408
+ITEM00142,REST0135,Streamline Visionary Synergies,Breads,474.18,True,True,259
+ITEM00143,REST0020,Mesh Cross-Platform Metrics,Starters,491.56,True,True,154
+ITEM00144,REST0077,Maximize Transparent E-Tailers,Breads,252.81,True,True,860
+ITEM00145,REST0130,Repurpose Rich E-Commerce,Breads,412.23,True,True,355
+ITEM00146,REST0032,Unleash Bricks-And-Clicks Initiatives,Desserts,318.49,True,False,633
+ITEM00147,REST0090,Aggregate Holistic Schemas,Rice,175.34,True,True,521
+ITEM00148,REST0003,Seize Efficient Vortals,Combos,468.7,True,False,714
+ITEM00149,REST0169,Iterate Plug-And-Play Vortals,Beverages,194.51,False,True,363
+ITEM00150,REST0042,Re-Intermediate Virtual Action-Items,Combos,237.25,True,False,847
+ITEM00151,REST0077,Grow Interactive Models,Breads,154.51,True,True,332
+ITEM00152,REST0173,Monetize Enterprise Functionalities,Main Course,445.6,True,False,779
+ITEM00153,REST0101,Whiteboard Best-Of-Breed Partnerships,Rice,302.3,True,True,332
+ITEM00154,REST0199,Reinvent Plug-And-Play Metrics,Rice,293.86,True,False,616
+ITEM00155,REST0145,Extend Dot-Com Relationships,Breads,382.51,True,True,144
+ITEM00156,REST0128,Enhance Sticky Synergies,Desserts,136.49,True,True,657
+ITEM00157,REST0047,Enhance Best-Of-Breed Web Services,Main Course,543.98,True,True,775
+ITEM00158,REST0197,Synthesize Collaborative Relationships,Breads,305.81,True,False,780
+ITEM00159,REST0152,Target Granular Paradigms,Main Course,251.59,True,True,535
+ITEM00160,REST0199,Repurpose Scalable Applications,Rice,119.68,True,False,434
+ITEM00161,REST0123,Mesh Transparent Vortals,Main Course,142.37,True,True,503
+ITEM00162,REST0034,Matrix Intuitive Partnerships,Combos,556.2,True,False,263
+ITEM00163,REST0178,Exploit Revolutionary Systems,Breads,301.14,True,False,355
+ITEM00164,REST0042,Strategize Turn-Key Synergies,Starters,447.2,True,True,165
+ITEM00165,REST0033,Target Front-End Convergence,Starters,94.28,True,True,871
+ITEM00166,REST0123,Maximize Leading-Edge Solutions,Main Course,403.91,True,True,187
+ITEM00167,REST0027,Scale Interactive Action-Items,Desserts,556.84,True,True,339
+ITEM00168,REST0059,Whiteboard E-Business Content,Breads,214.98,False,True,410
+ITEM00169,REST0147,Extend Next-Generation Initiatives,Beverages,368.53,True,False,670
+ITEM00170,REST0115,Envisioneer Plug-And-Play Interfaces,Starters,567.12,True,False,781
+ITEM00171,REST0131,Envisioneer Bricks-And-Clicks Relationships,Rice,445.63,True,True,357
+ITEM00172,REST0199,Orchestrate Killer Deliverables,Combos,84.28,True,True,657
+ITEM00173,REST0128,Enhance Robust Eyeballs,Breads,258.31,True,True,613
+ITEM00174,REST0120,Re-Contextualize Interactive Convergence,Breads,97.18,True,True,533
+ITEM00175,REST0153,Generate Virtual Web Services,Combos,523.72,True,True,228
+ITEM00176,REST0113,Extend Virtual Technologies,Starters,391.91,True,False,880
+ITEM00177,REST0015,Drive Revolutionary Architectures,Combos,576.01,True,False,425
+ITEM00178,REST0083,Envisioneer Cross-Platform Roi,Combos,60.87,True,True,889
+ITEM00179,REST0188,Aggregate 24/365 Experiences,Beverages,282.7,False,True,116
+ITEM00180,REST0083,Mesh Real-Time E-Business,Combos,107.4,True,True,798
+ITEM00181,REST0023,Monetize Rich Action-Items,Rice,242.77,True,False,441
+ITEM00182,REST0011,Visualize Impactful Functionalities,Beverages,139.04,True,True,727
+ITEM00183,REST0187,Drive Revolutionary Communities,Rice,230.84,True,False,870
+ITEM00184,REST0116,Transform Killer Schemas,Starters,500.59,True,False,348
+ITEM00185,REST0162,Revolutionize Web-Enabled E-Markets,Breads,138.38,False,True,809
+ITEM00186,REST0103,Aggregate Bricks-And-Clicks Roi,Rice,310.52,True,False,838
+ITEM00187,REST0007,Productize One-To-One Portals,Breads,556.87,True,True,276
+ITEM00188,REST0106,Transition World-Class E-Commerce,Main Course,599.33,True,False,854
+ITEM00189,REST0172,Facilitate Compelling Portals,Main Course,187.85,True,True,456
+ITEM00190,REST0192,Incubate Cross-Media Functionalities,Starters,564.56,True,False,594
+ITEM00191,REST0114,Embrace Robust Roi,Starters,193.76,True,False,134
+ITEM00192,REST0023,Benchmark Proactive Info-Mediaries,Desserts,277.44,True,False,506
+ITEM00193,REST0102,Maximize Wireless Markets,Starters,532.86,True,True,746
+ITEM00194,REST0058,Whiteboard Out-Of-The-Box Relationships,Main Course,482.4,True,False,109
+ITEM00195,REST0020,Revolutionize Strategic Networks,Rice,521.62,True,True,794
+ITEM00196,REST0155,Incubate Mission-Critical E-Tailers,Combos,490.14,True,True,813
+ITEM00197,REST0117,Facilitate Dynamic Partnerships,Combos,179.28,True,True,630
+ITEM00198,REST0188,Syndicate Strategic Eyeballs,Combos,357.34,True,False,634
+ITEM00199,REST0136,Deliver Distributed Eyeballs,Beverages,261.89,False,False,194
+ITEM00200,REST0101,Evolve One-To-One Deliverables,Combos,302.84,True,False,675
+ITEM00201,REST0195,Strategize Turn-Key Supply-Chains,Starters,134.68,True,False,549
+ITEM00202,REST0002,Redefine Robust Content,Combos,223.67,True,False,319
+ITEM00203,REST0022,Deliver End-To-End Methodologies,Beverages,521.71,True,False,195
+ITEM00204,REST0070,Productize Granular Paradigms,Beverages,543.66,True,False,876
+ITEM00205,REST0103,Iterate 24/7 Deliverables,Main Course,385.58,True,True,480
+ITEM00206,REST0104,Integrate User-Centric Systems,Desserts,324.05,True,True,768
+ITEM00207,REST0036,Matrix Killer Technologies,Rice,442.06,True,True,306
+ITEM00208,REST0108,Architect Innovative Metrics,Main Course,384.87,True,False,885
+ITEM00209,REST0024,Enable One-To-One Synergies,Starters,591.02,True,False,345
+ITEM00210,REST0140,Optimize E-Business Roi,Main Course,154.55,True,False,810
+ITEM00211,REST0022,Cultivate Turn-Key Deliverables,Main Course,296.97,True,False,896
+ITEM00212,REST0083,E-Enable Cross-Platform Initiatives,Main Course,555.03,True,True,609
+ITEM00213,REST0073,Implement Intuitive Experiences,Starters,553.11,True,True,182
+ITEM00214,REST0124,Seize World-Class Architectures,Starters,322.44,True,True,416
+ITEM00215,REST0081,Empower 24/365 Content,Main Course,124.14,True,True,744
+ITEM00216,REST0151,Deliver 24/7 Mindshare,Main Course,498.23,True,True,204
+ITEM00217,REST0074,E-Enable Killer Communities,Beverages,371.84,True,False,469
+ITEM00218,REST0191,Scale Best-Of-Breed Networks,Rice,475.24,True,True,848
+ITEM00219,REST0030,Matrix User-Centric E-Services,Beverages,304.39,True,False,680
+ITEM00220,REST0147,Harness Intuitive Web Services,Desserts,162.14,False,True,795
+ITEM00221,REST0026,Utilize Mission-Critical Communities,Rice,63.19,True,True,729
+ITEM00222,REST0128,Engineer Leading-Edge Partnerships,Desserts,357.53,True,False,279
+ITEM00223,REST0011,Benchmark Viral Communities,Rice,138.58,True,False,882
+ITEM00224,REST0020,Brand Collaborative Supply-Chains,Main Course,152.93,True,True,701
+ITEM00225,REST0118,Cultivate Holistic Users,Beverages,289.97,True,False,699
+ITEM00226,REST0056,Visualize Revolutionary Deliverables,Rice,293.14,True,True,182
+ITEM00227,REST0173,Target Magnetic E-Business,Desserts,200.91,True,False,631
+ITEM00228,REST0196,Architect One-To-One E-Commerce,Rice,122.56,True,True,718
+ITEM00229,REST0047,Architect 24/7 Infrastructures,Starters,569.72,False,False,600
+ITEM00230,REST0089,Transform Granular Convergence,Rice,122.4,False,True,447
+ITEM00231,REST0058,Utilize Visionary Communities,Combos,242.92,True,False,371
+ITEM00232,REST0010,Integrate Bricks-And-Clicks Solutions,Main Course,217.68,True,False,430
+ITEM00233,REST0022,Enable Bricks-And-Clicks Synergies,Breads,526.49,True,True,709
+ITEM00234,REST0071,Extend Enterprise Eyeballs,Starters,275.53,True,False,843
+ITEM00235,REST0024,Disintermediate Killer Roi,Breads,118.22,True,True,668
+ITEM00236,REST0194,Matrix B2C Solutions,Main Course,55.64,False,False,760
+ITEM00237,REST0096,Integrate World-Class Roi,Combos,447.07,True,True,488
+ITEM00238,REST0189,Monetize Compelling Platforms,Breads,442.98,True,False,846
+ITEM00239,REST0007,Engineer 24/365 Synergies,Rice,279.78,True,False,236
+ITEM00240,REST0072,Visualize Integrated Eyeballs,Breads,119.47,True,True,878
+ITEM00241,REST0127,Architect Magnetic Vortals,Beverages,254.4,True,True,840
+ITEM00242,REST0038,Transition Wireless Roi,Main Course,374.44,True,True,460
+ITEM00243,REST0149,Expedite Front-End Eyeballs,Beverages,437.17,True,False,381
+ITEM00244,REST0136,Re-Intermediate Open-Source Markets,Breads,93.03,False,False,301
+ITEM00245,REST0121,Seize User-Centric Functionalities,Combos,355.97,True,True,843
+ITEM00246,REST0089,Integrate Bricks-And-Clicks Eyeballs,Beverages,201.87,True,True,630
+ITEM00247,REST0028,Embrace Granular Bandwidth,Starters,389.5,True,False,115
+ITEM00248,REST0092,Empower Revolutionary Schemas,Breads,406.48,True,True,667
+ITEM00249,REST0054,Deliver Cross-Platform Applications,Desserts,550.83,True,False,213
+ITEM00250,REST0159,Disintermediate Front-End Initiatives,Beverages,275.71,False,True,167
+ITEM00251,REST0116,Target Virtual Technologies,Rice,345.67,True,True,689
+ITEM00252,REST0116,Benchmark Plug-And-Play E-Services,Breads,197.52,True,False,129
+ITEM00253,REST0120,Brand Visionary E-Business,Combos,207.61,True,True,618
+ITEM00254,REST0041,Unleash Front-End E-Services,Desserts,75.32,True,False,763
+ITEM00255,REST0037,Transform Web-Enabled Relationships,Combos,207.34,True,True,121
+ITEM00256,REST0125,Incentivize Viral E-Tailers,Starters,85.11,True,True,530
+ITEM00257,REST0166,Reinvent Compelling Action-Items,Rice,580.15,True,False,129
+ITEM00258,REST0179,Optimize Impactful E-Business,Breads,393.34,True,True,778
+ITEM00259,REST0076,Envisioneer Innovative Web-Readiness,Combos,145.23,True,True,759
+ITEM00260,REST0037,Embrace Compelling Web-Readiness,Rice,114.22,True,False,509
+ITEM00261,REST0101,Aggregate 24/7 Infrastructures,Breads,253.57,True,False,148
+ITEM00262,REST0031,Generate Turn-Key Models,Breads,219.21,True,False,424
+ITEM00263,REST0190,Generate Dynamic Convergence,Main Course,203.59,True,False,587
+ITEM00264,REST0146,Aggregate Robust Metrics,Beverages,307.51,True,True,397
+ITEM00265,REST0090,Harness Impactful Deliverables,Breads,552.08,True,True,873
+ITEM00266,REST0006,Disintermediate Back-End Experiences,Starters,362.43,True,True,280
+ITEM00267,REST0137,Benchmark Open-Source Models,Desserts,336.68,False,False,221
+ITEM00268,REST0139,Deliver Integrated Eyeballs,Beverages,493.6,True,False,223
+ITEM00269,REST0095,Target Open-Source Initiatives,Main Course,52.21,True,False,552
+ITEM00270,REST0119,Leverage Holistic Communities,Beverages,158.56,True,False,365
+ITEM00271,REST0110,Enhance Cross-Media Schemas,Beverages,322.9,True,False,127
+ITEM00272,REST0120,Facilitate Seamless Vortals,Breads,437.92,True,True,358
+ITEM00273,REST0130,Implement Real-Time E-Services,Starters,316.77,True,True,176
+ITEM00274,REST0123,E-Enable Web-Enabled Initiatives,Breads,140.04,True,True,531
+ITEM00275,REST0029,Embrace Cross-Platform E-Tailers,Combos,561.49,True,True,805
+ITEM00276,REST0110,Deploy Cross-Media Metrics,Starters,230.77,True,True,134
+ITEM00277,REST0121,Monetize Interactive Platforms,Combos,483.52,True,False,535
+ITEM00278,REST0179,Redefine Proactive Users,Starters,540.28,True,True,213
+ITEM00279,REST0069,Architect Ubiquitous E-Commerce,Rice,240.55,True,False,161
+ITEM00280,REST0151,Innovate Turn-Key Mindshare,Breads,514.92,True,True,151
+ITEM00281,REST0007,Envisioneer Seamless Roi,Combos,440.93,True,False,215
+ITEM00282,REST0128,Scale Cross-Platform E-Business,Main Course,547.35,True,False,146
+ITEM00283,REST0056,Benchmark Robust Experiences,Desserts,188.22,True,False,537
+ITEM00284,REST0127,Scale Rich Functionalities,Beverages,562.2,True,True,511
+ITEM00285,REST0077,Grow Transparent Users,Rice,85.92,True,True,200
+ITEM00286,REST0062,Architect Collaborative E-Tailers,Combos,486.52,True,True,378
+ITEM00287,REST0074,Incentivize Rich Metrics,Main Course,289.62,True,True,206
+ITEM00288,REST0015,Synthesize Turn-Key Platforms,Desserts,147.84,True,True,134
+ITEM00289,REST0053,Evolve Robust Synergies,Desserts,93.67,True,True,458
+ITEM00290,REST0171,Utilize Enterprise Metrics,Breads,264.25,True,True,899
+ITEM00291,REST0120,Envisioneer Dot-Com Applications,Starters,264.13,True,False,101
+ITEM00292,REST0035,Revolutionize Compelling Infrastructures,Combos,176.48,True,True,850
+ITEM00293,REST0014,Repurpose Synergistic Metrics,Breads,168.53,False,False,591
+ITEM00294,REST0093,Optimize Distributed Methodologies,Desserts,269.73,True,True,371
+ITEM00295,REST0197,Enhance User-Centric E-Tailers,Breads,275.56,True,True,243
+ITEM00296,REST0122,Enable Killer Technologies,Rice,293.3,True,True,534
+ITEM00297,REST0177,Facilitate Transparent Methodologies,Combos,527.82,True,False,550
+ITEM00298,REST0018,Re-Contextualize B2B Interfaces,Main Course,386.19,True,False,703
+ITEM00299,REST0179,Exploit 24/365 Supply-Chains,Desserts,61.24,True,False,832
+ITEM00300,REST0129,Morph Extensible Portals,Combos,335.5,True,True,665
+ITEM00301,REST0125,Deploy Efficient Initiatives,Rice,469.35,True,True,327
+ITEM00302,REST0027,Brand Mission-Critical Networks,Main Course,81.03,True,True,644
+ITEM00303,REST0064,Enhance Collaborative Content,Rice,282.43,False,True,313
+ITEM00304,REST0060,Harness Holistic E-Business,Beverages,298.17,True,False,747
+ITEM00305,REST0169,Redefine Visionary Schemas,Starters,574.71,True,False,347
+ITEM00306,REST0149,Target Dot-Com Bandwidth,Starters,311.63,True,True,507
+ITEM00307,REST0014,Mesh One-To-One Models,Starters,462.45,True,False,152
+ITEM00308,REST0116,Generate Next-Generation Synergies,Beverages,216.6,True,False,675
+ITEM00309,REST0148,Whiteboard Open-Source Roi,Desserts,478.62,False,True,413
+ITEM00310,REST0092,Streamline Value-Added Functionalities,Desserts,227.46,True,True,473
+ITEM00311,REST0085,Syndicate Cutting-Edge Action-Items,Beverages,286.51,False,True,136
+ITEM00312,REST0087,Disintermediate Viral E-Business,Starters,313.72,False,False,823
+ITEM00313,REST0139,Reinvent Vertical Convergence,Starters,559.5,True,True,623
+ITEM00314,REST0120,Benchmark Cross-Platform Applications,Main Course,79.4,True,False,183
+ITEM00315,REST0194,Drive Holistic Interfaces,Main Course,158.28,True,True,193
+ITEM00316,REST0084,Leverage Value-Added E-Commerce,Breads,438.16,True,True,514
+ITEM00317,REST0024,Morph Holistic Vortals,Combos,367.67,True,True,441
+ITEM00318,REST0119,Redefine Scalable Technologies,Combos,188.34,True,False,818
+ITEM00319,REST0089,Architect Transparent Mindshare,Combos,209.06,True,False,649
+ITEM00320,REST0037,Benchmark Intuitive Networks,Rice,252.02,True,False,520
+ITEM00321,REST0086,Transition Strategic Content,Main Course,297.69,True,True,447
+ITEM00322,REST0127,Matrix Revolutionary E-Business,Main Course,499.92,True,True,814
+ITEM00323,REST0152,Innovate Enterprise E-Markets,Main Course,57.6,True,True,881
+ITEM00324,REST0015,Deliver Sticky Deliverables,Main Course,543.91,True,True,686
+ITEM00325,REST0012,Drive Sticky Roi,Beverages,277.16,True,False,227
+ITEM00326,REST0095,Disintermediate Dot-Com Content,Breads,176.77,True,True,251
+ITEM00327,REST0192,Transform Bricks-And-Clicks Synergies,Main Course,329.63,True,True,621
+ITEM00328,REST0031,Brand Plug-And-Play Methodologies,Desserts,412.82,True,True,137
+ITEM00329,REST0181,Benchmark Next-Generation Vortals,Rice,74.61,True,True,526
+ITEM00330,REST0094,Productize Web-Enabled Users,Combos,443.68,True,False,204
+ITEM00331,REST0084,Unleash Dot-Com Networks,Main Course,468.42,True,False,264
+ITEM00332,REST0072,Empower Granular Architectures,Beverages,141.4,True,False,643
+ITEM00333,REST0044,Aggregate Holistic Initiatives,Desserts,142.33,True,False,311
+ITEM00334,REST0030,Redefine Innovative Applications,Combos,162.08,True,True,625
+ITEM00335,REST0035,Extend Scalable Convergence,Starters,488.15,False,False,841
+ITEM00336,REST0021,Mesh Interactive Web Services,Starters,199.6,False,True,231
+ITEM00337,REST0111,Expedite Best-Of-Breed Paradigms,Combos,487.76,True,False,251
+ITEM00338,REST0063,Cultivate Bricks-And-Clicks Experiences,Breads,347.29,True,False,195
+ITEM00339,REST0092,Generate Collaborative Interfaces,Starters,471.94,True,False,602
+ITEM00340,REST0145,Cultivate Web-Enabled Initiatives,Main Course,354.52,True,True,621
+ITEM00341,REST0012,Reinvent Vertical Solutions,Combos,234.67,True,False,473
+ITEM00342,REST0146,Incubate End-To-End Solutions,Beverages,550.89,True,False,115
+ITEM00343,REST0092,Exploit Strategic Web-Readiness,Breads,443.41,True,False,778
+ITEM00344,REST0060,Enable Magnetic Bandwidth,Desserts,316.23,True,True,707
+ITEM00345,REST0067,Repurpose Bricks-And-Clicks E-Services,Main Course,400.59,True,True,117
+ITEM00346,REST0115,Mesh Customized Systems,Starters,388.71,False,True,508
+ITEM00347,REST0015,Incubate Back-End Systems,Rice,246.96,False,True,106
+ITEM00348,REST0016,Incubate Global Systems,Main Course,283.07,True,False,795
+ITEM00349,REST0022,Synergize End-To-End Channels,Rice,225.04,True,False,344
+ITEM00350,REST0118,Utilize End-To-End Functionalities,Desserts,599.73,True,True,693
+ITEM00351,REST0113,Productize Dot-Com Architectures,Rice,369.04,True,False,742
+ITEM00352,REST0095,Iterate Virtual Interfaces,Desserts,100.63,True,True,228
+ITEM00353,REST0191,Aggregate Cross-Platform Infrastructures,Breads,335.51,True,True,554
+ITEM00354,REST0159,Brand Best-Of-Breed E-Tailers,Beverages,77.48,True,False,685
+ITEM00355,REST0001,Incentivize Interactive Vortals,Starters,208.76,True,False,670
+ITEM00356,REST0075,Brand Dot-Com Relationships,Starters,295.28,True,True,171
+ITEM00357,REST0006,Grow Interactive Eyeballs,Main Course,343.85,True,True,259
+ITEM00358,REST0087,Transform Value-Added Roi,Combos,586.9,True,True,186
+ITEM00359,REST0137,Strategize End-To-End Convergence,Starters,590.22,True,True,500
+ITEM00360,REST0180,Whiteboard Collaborative Applications,Breads,103.94,True,True,561
+ITEM00361,REST0062,Engineer Revolutionary Web-Readiness,Starters,345.97,True,True,628
+ITEM00362,REST0058,Mesh Robust Interfaces,Main Course,499.41,True,False,188
+ITEM00363,REST0108,Synthesize Seamless Infrastructures,Starters,180.74,False,True,760
+ITEM00364,REST0019,Transform Distributed Communities,Beverages,462.81,True,True,105
+ITEM00365,REST0109,Transition Granular Eyeballs,Desserts,533.24,True,False,695
+ITEM00366,REST0141,Synergize Intuitive Niches,Rice,414.37,True,False,183
+ITEM00367,REST0123,Cultivate Next-Generation Eyeballs,Rice,230.24,True,False,349
+ITEM00368,REST0160,Iterate Killer Synergies,Desserts,557.72,True,False,765
+ITEM00369,REST0100,Enhance Interactive Models,Rice,535.94,True,True,515
+ITEM00370,REST0009,Enable Synergistic Info-Mediaries,Beverages,443.7,True,True,171
+ITEM00371,REST0049,Optimize Revolutionary E-Services,Breads,250.02,True,False,720
+ITEM00372,REST0165,Embrace Interactive E-Business,Main Course,485.54,True,False,211
+ITEM00373,REST0031,Re-Intermediate Seamless Markets,Beverages,223.86,True,False,271
+ITEM00374,REST0159,Brand Enterprise Schemas,Main Course,189.12,True,True,798
+ITEM00375,REST0059,Re-Intermediate Frictionless E-Business,Breads,333.26,True,True,896
+ITEM00376,REST0183,Envisioneer Rich Networks,Beverages,598.42,True,False,372
+ITEM00377,REST0147,Incentivize User-Centric Architectures,Starters,492.38,True,True,629
+ITEM00378,REST0191,Transform Strategic Portals,Combos,451.39,True,False,779
+ITEM00379,REST0130,Synergize Intuitive Vortals,Breads,298.61,True,False,418
+ITEM00380,REST0045,Strategize Robust Metrics,Rice,221.57,True,False,181
+ITEM00381,REST0096,Harness Transparent Synergies,Beverages,520.75,True,True,174
+ITEM00382,REST0043,Revolutionize Synergistic Models,Breads,362.25,True,True,528
+ITEM00383,REST0098,Generate Cross-Media Communities,Breads,497.29,True,True,559
+ITEM00384,REST0001,Evolve Best-Of-Breed Metrics,Beverages,318.26,True,False,445
+ITEM00385,REST0189,Unleash Enterprise E-Commerce,Rice,464.68,True,True,348
+ITEM00386,REST0131,Embrace User-Centric Infrastructures,Desserts,527.26,True,True,742
+ITEM00387,REST0091,Enhance Out-Of-The-Box Platforms,Rice,265.26,True,True,486
+ITEM00388,REST0044,Deliver Global Portals,Breads,57.46,True,True,812
+ITEM00389,REST0135,Integrate Dot-Com Relationships,Main Course,190.21,True,False,462
+ITEM00390,REST0033,Harness Value-Added Convergence,Desserts,553.2,True,False,395
+ITEM00391,REST0137,Strategize Rich Applications,Desserts,428.15,True,True,167
+ITEM00392,REST0030,Integrate Viral Users,Breads,455.47,True,False,537
+ITEM00393,REST0146,Monetize World-Class Synergies,Beverages,228.91,False,False,631
+ITEM00394,REST0056,Synthesize 24/365 Paradigms,Beverages,435.7,False,False,882
+ITEM00395,REST0105,Extend Synergistic Portals,Beverages,405.46,True,False,704
+ITEM00396,REST0031,Implement Proactive Web-Readiness,Rice,148.11,False,False,232
+ITEM00397,REST0200,E-Enable Scalable E-Tailers,Starters,582.78,False,True,394
+ITEM00398,REST0191,Iterate Collaborative Bandwidth,Beverages,244.71,True,False,395
+ITEM00399,REST0178,Empower Impactful Technologies,Beverages,231.11,True,False,746
+ITEM00400,REST0089,Leverage Next-Generation Synergies,Desserts,253.04,True,True,132
+ITEM00401,REST0001,Brand Holistic Convergence,Main Course,100.45,True,True,473
+ITEM00402,REST0110,Drive Sticky Info-Mediaries,Main Course,393.73,True,True,131
+ITEM00403,REST0082,Synergize Dot-Com Roi,Breads,181.24,True,True,654
+ITEM00404,REST0019,Synthesize Back-End Paradigms,Breads,491.82,True,True,404
+ITEM00405,REST0115,Engineer Real-Time Models,Breads,266.79,True,False,892
+ITEM00406,REST0126,Transform Global Users,Beverages,302.21,True,True,207
+ITEM00407,REST0064,Seize User-Centric Vortals,Main Course,405.53,True,True,195
+ITEM00408,REST0053,Evolve Frictionless Paradigms,Breads,469.03,True,False,165
+ITEM00409,REST0006,Incubate Integrated Markets,Main Course,177.11,True,False,620
+ITEM00410,REST0017,Benchmark B2B Initiatives,Beverages,581.46,True,True,329
+ITEM00411,REST0046,Extend Interactive Content,Desserts,392.28,True,True,832
+ITEM00412,REST0200,Streamline Back-End Schemas,Beverages,53.1,True,False,457
+ITEM00413,REST0118,Reinvent Mission-Critical Interfaces,Breads,278.59,True,False,501
+ITEM00414,REST0073,Unleash Vertical Content,Beverages,290.25,True,True,889
+ITEM00415,REST0101,Evolve Transparent E-Tailers,Beverages,495.04,True,False,198
+ITEM00416,REST0183,Evolve One-To-One E-Tailers,Main Course,217.83,True,False,370
+ITEM00417,REST0091,Extend Cross-Platform Content,Starters,232.17,True,False,874
+ITEM00418,REST0006,Re-Intermediate Integrated Paradigms,Rice,88.77,True,True,461
+ITEM00419,REST0198,Productize Back-End Channels,Breads,205.95,True,True,263
+ITEM00420,REST0109,Utilize Back-End Channels,Combos,444.33,True,True,627
+ITEM00421,REST0196,Iterate Vertical Models,Starters,399.12,True,True,268
+ITEM00422,REST0040,Engineer Strategic Supply-Chains,Desserts,94.77,True,True,120
+ITEM00423,REST0091,Synergize Killer Methodologies,Combos,113.08,True,True,639
+ITEM00424,REST0066,Empower B2C E-Business,Breads,257.31,True,False,694
+ITEM00425,REST0137,Seize Innovative Web-Readiness,Starters,459.07,True,True,884
+ITEM00426,REST0011,Revolutionize Leading-Edge Applications,Beverages,508.11,True,True,496
+ITEM00427,REST0148,Brand Impactful Systems,Breads,58.04,True,False,135
+ITEM00428,REST0116,Orchestrate End-To-End Action-Items,Starters,230.96,True,True,594
+ITEM00429,REST0043,Innovate Killer Content,Rice,283.34,True,True,413
+ITEM00430,REST0058,Generate Impactful Interfaces,Beverages,551.12,True,False,589
+ITEM00431,REST0154,Generate Bleeding-Edge Partnerships,Breads,325.77,True,False,375
+ITEM00432,REST0038,Empower Strategic Solutions,Desserts,198.34,True,False,332
+ITEM00433,REST0094,Exploit Dynamic Platforms,Desserts,264.53,True,True,715
+ITEM00434,REST0036,Syndicate Leading-Edge Schemas,Breads,290.04,True,False,535
+ITEM00435,REST0183,Harness Extensible Networks,Starters,418.5,True,True,105
+ITEM00436,REST0006,Re-Intermediate Integrated Eyeballs,Breads,72.6,True,False,634
+ITEM00437,REST0131,Generate Clicks-And-Mortar Convergence,Combos,264.2,True,True,781
+ITEM00438,REST0065,Integrate Sticky Initiatives,Beverages,405.61,True,False,763
+ITEM00439,REST0124,Integrate Revolutionary Technologies,Main Course,205.83,False,True,343
+ITEM00440,REST0192,Seize Web-Enabled Channels,Desserts,375.46,True,False,340
+ITEM00441,REST0186,Leverage Front-End Architectures,Starters,246.5,True,False,872
+ITEM00442,REST0117,Incubate Efficient Technologies,Rice,467.3,True,True,657
+ITEM00443,REST0186,Embrace Robust Models,Breads,83.33,True,True,372
+ITEM00444,REST0018,Matrix Open-Source Markets,Beverages,554.88,True,False,174
+ITEM00445,REST0151,Re-Contextualize Robust E-Business,Breads,144.39,True,True,382
+ITEM00446,REST0096,Brand Cross-Media Niches,Rice,137.2,True,True,807
+ITEM00447,REST0157,Redefine Holistic Initiatives,Beverages,512.35,True,False,634
+ITEM00448,REST0151,Deliver Granular Initiatives,Rice,528.11,True,False,186
+ITEM00449,REST0128,Facilitate Distributed Vortals,Beverages,101.14,True,True,732
+ITEM00450,REST0036,Morph Rich Bandwidth,Main Course,549.8,True,True,248
+ITEM00451,REST0070,Expedite Virtual Initiatives,Desserts,200.31,True,True,249
+ITEM00452,REST0095,Unleash Best-Of-Breed E-Markets,Beverages,390.24,True,True,676
+ITEM00453,REST0134,Envisioneer Web-Enabled Eyeballs,Rice,87.73,True,True,259
+ITEM00454,REST0162,Evolve Transparent Functionalities,Starters,259.36,True,False,545
+ITEM00455,REST0044,Seize Synergistic Portals,Desserts,297.9,True,False,895
+ITEM00456,REST0044,Transform Mission-Critical Initiatives,Combos,379.9,True,True,181
+ITEM00457,REST0027,Facilitate Seamless Vortals,Main Course,338.9,True,False,106
+ITEM00458,REST0100,Re-Contextualize Distributed Interfaces,Breads,303.82,True,True,281
+ITEM00459,REST0052,Enhance Front-End Info-Mediaries,Main Course,577.8,True,True,625
+ITEM00460,REST0170,Seize Seamless Partnerships,Main Course,151.76,True,True,577
+ITEM00461,REST0025,Engineer Cutting-Edge Platforms,Breads,136.9,True,True,282
+ITEM00462,REST0074,Mesh Distributed Paradigms,Beverages,442.38,True,True,413
+ITEM00463,REST0039,Engage Next-Generation Users,Main Course,91.0,True,False,655
+ITEM00464,REST0167,Monetize User-Centric Interfaces,Desserts,315.59,True,False,273
+ITEM00465,REST0140,Transform B2C Applications,Main Course,316.23,True,False,113
+ITEM00466,REST0139,Extend End-To-End Functionalities,Starters,220.51,True,True,399
+ITEM00467,REST0113,Aggregate Strategic Systems,Desserts,561.74,True,True,172
+ITEM00468,REST0003,Harness Sticky Eyeballs,Starters,205.4,True,False,834
+ITEM00469,REST0115,Visualize Mission-Critical Systems,Desserts,208.64,True,True,613
+ITEM00470,REST0022,Maximize Best-Of-Breed Markets,Rice,178.86,True,False,821
+ITEM00471,REST0004,Synergize Interactive Solutions,Breads,130.18,True,False,872
+ITEM00472,REST0136,Whiteboard Strategic Eyeballs,Desserts,250.21,True,False,701
+ITEM00473,REST0014,Maximize Extensible Partnerships,Desserts,424.49,True,True,442
+ITEM00474,REST0014,Maximize Cross-Platform Methodologies,Beverages,458.19,True,False,495
+ITEM00475,REST0016,Embrace Extensible Architectures,Beverages,497.38,True,False,863
+ITEM00476,REST0160,Expedite Killer Solutions,Rice,158.65,True,False,432
+ITEM00477,REST0064,Revolutionize Cross-Platform Mindshare,Beverages,69.6,True,False,454
+ITEM00478,REST0016,Reinvent Open-Source Relationships,Combos,586.08,True,True,658
+ITEM00479,REST0052,Benchmark Leading-Edge Eyeballs,Combos,57.88,True,True,262
+ITEM00480,REST0019,Empower Killer Partnerships,Beverages,578.37,True,False,215
+ITEM00481,REST0069,Monetize Proactive Web Services,Combos,505.85,True,True,502
+ITEM00482,REST0140,Orchestrate Best-Of-Breed Convergence,Starters,551.64,True,True,178
+ITEM00483,REST0093,Facilitate Front-End Bandwidth,Combos,262.95,True,True,546
+ITEM00484,REST0005,Visualize Collaborative Communities,Beverages,158.46,True,True,107
+ITEM00485,REST0042,Synthesize Viral Vortals,Beverages,383.56,True,False,122
+ITEM00486,REST0017,Revolutionize Web-Enabled E-Tailers,Combos,457.69,True,False,880
+ITEM00487,REST0111,Mesh Intuitive Solutions,Rice,121.97,True,True,890
+ITEM00488,REST0072,Implement Granular E-Markets,Rice,488.69,True,False,642
+ITEM00489,REST0104,Disintermediate Cutting-Edge Action-Items,Main Course,164.73,True,False,513
+ITEM00490,REST0094,Streamline B2C Networks,Beverages,320.42,True,False,781
+ITEM00491,REST0010,Enable Sticky Communities,Beverages,521.07,False,True,741
+ITEM00492,REST0016,Drive Collaborative Architectures,Desserts,156.38,True,False,508
+ITEM00493,REST0144,Visualize Clicks-And-Mortar Info-Mediaries,Beverages,183.04,True,False,768
+ITEM00494,REST0042,Redefine Plug-And-Play Platforms,Starters,84.52,True,True,121
+ITEM00495,REST0003,Harness Granular Models,Combos,130.64,True,False,737
+ITEM00496,REST0151,Grow Turn-Key Systems,Desserts,130.59,False,False,502
+ITEM00497,REST0121,Exploit Robust Methodologies,Beverages,161.89,True,False,780
+ITEM00498,REST0156,Transition Intuitive Metrics,Starters,207.41,True,False,777
+ITEM00499,REST0173,Evolve Efficient Content,Main Course,498.24,True,False,256
+ITEM00500,REST0196,Aggregate Cross-Media Paradigms,Desserts,553.67,True,True,429
+ITEM00501,REST0024,Mesh Integrated Interfaces,Combos,273.45,True,False,121
+ITEM00502,REST0019,Matrix Turn-Key Partnerships,Combos,120.51,True,True,571
+ITEM00503,REST0075,Disintermediate Holistic Initiatives,Breads,173.1,False,True,363
+ITEM00504,REST0040,Enhance World-Class Schemas,Beverages,454.91,True,True,402
+ITEM00505,REST0046,Grow Sticky Methodologies,Desserts,422.58,True,True,874
+ITEM00506,REST0040,Harness Proactive Technologies,Combos,581.96,True,True,823
+ITEM00507,REST0062,Reinvent Wireless Experiences,Rice,57.97,True,True,564
+ITEM00508,REST0018,Engage Granular Networks,Desserts,462.92,True,True,263
+ITEM00509,REST0140,Redefine E-Business Niches,Rice,328.19,True,True,235
+ITEM00510,REST0142,Engineer Strategic E-Tailers,Beverages,546.48,False,False,351
+ITEM00511,REST0082,Implement Dot-Com Roi,Starters,366.89,True,True,304
+ITEM00512,REST0189,Innovate Synergistic Web-Readiness,Rice,295.67,True,True,401
+ITEM00513,REST0108,Envisioneer Intuitive Markets,Desserts,416.22,True,False,341
+ITEM00514,REST0012,Drive Robust Web-Readiness,Desserts,508.44,True,True,890
+ITEM00515,REST0104,Strategize Dot-Com Architectures,Combos,205.37,True,False,160
+ITEM00516,REST0155,Expedite Revolutionary Networks,Rice,109.14,True,False,564
+ITEM00517,REST0134,Mesh Next-Generation E-Services,Main Course,288.16,True,True,401
+ITEM00518,REST0088,Expedite Open-Source E-Tailers,Combos,167.99,True,False,571
+ITEM00519,REST0115,Monetize Killer Niches,Main Course,286.25,True,False,493
+ITEM00520,REST0033,Whiteboard Integrated Solutions,Main Course,595.08,True,True,706
+ITEM00521,REST0118,Repurpose Sticky E-Tailers,Rice,365.77,True,False,759
+ITEM00522,REST0080,Syndicate Cross-Media Niches,Rice,431.48,True,False,358
+ITEM00523,REST0178,Incentivize User-Centric Interfaces,Desserts,422.86,True,False,641
+ITEM00524,REST0012,Evolve Wireless Relationships,Beverages,501.39,True,False,629
+ITEM00525,REST0095,Redefine Holistic E-Services,Beverages,569.27,True,True,286
+ITEM00526,REST0185,Strategize Efficient Channels,Starters,412.35,True,False,311
+ITEM00527,REST0053,Strategize Visionary Platforms,Rice,311.85,True,False,134
+ITEM00528,REST0013,Seize Revolutionary E-Services,Combos,224.81,True,False,246
+ITEM00529,REST0122,Streamline Visionary Markets,Combos,248.15,True,True,381
+ITEM00530,REST0200,Re-Intermediate Robust Metrics,Beverages,233.96,True,False,646
+ITEM00531,REST0102,Embrace Compelling Convergence,Beverages,228.46,True,False,687
+ITEM00532,REST0131,Cultivate Innovative Solutions,Main Course,432.04,True,False,683
+ITEM00533,REST0192,Re-Contextualize End-To-End Info-Mediaries,Main Course,373.24,True,False,348
+ITEM00534,REST0058,Re-Intermediate End-To-End Applications,Combos,161.1,True,False,156
+ITEM00535,REST0004,Drive World-Class Applications,Combos,583.29,True,True,404
+ITEM00536,REST0173,Envisioneer Frictionless Infrastructures,Main Course,285.25,True,False,621
+ITEM00537,REST0066,Evolve E-Business Info-Mediaries,Breads,361.35,True,True,824
+ITEM00538,REST0115,Syndicate Seamless Channels,Beverages,436.43,True,True,460
+ITEM00539,REST0036,Cultivate End-To-End Synergies,Main Course,387.52,True,True,336
+ITEM00540,REST0023,Streamline Transparent Networks,Main Course,221.08,True,False,333
+ITEM00541,REST0019,Reinvent Cross-Media Platforms,Rice,488.74,True,False,322
+ITEM00542,REST0040,Morph Customized Paradigms,Combos,110.58,True,True,715
+ITEM00543,REST0072,Grow Killer Technologies,Desserts,362.95,True,True,426
+ITEM00544,REST0144,Seize User-Centric Functionalities,Main Course,200.32,True,False,197
+ITEM00545,REST0058,Unleash Synergistic Portals,Rice,388.67,True,False,325
+ITEM00546,REST0107,Enhance E-Business Functionalities,Starters,169.9,True,True,833
+ITEM00547,REST0018,Innovate Compelling E-Business,Main Course,474.71,True,True,588
+ITEM00548,REST0036,Unleash E-Business Infrastructures,Desserts,175.14,True,False,577
+ITEM00549,REST0152,Utilize Strategic E-Markets,Rice,539.72,False,False,433
+ITEM00550,REST0129,Unleash Web-Enabled Experiences,Desserts,523.86,True,True,891
+ITEM00551,REST0001,Facilitate Magnetic Applications,Main Course,249.32,True,True,654
+ITEM00552,REST0064,Transition Best-Of-Breed Eyeballs,Starters,262.2,True,True,611
+ITEM00553,REST0062,Implement Scalable Channels,Main Course,435.83,True,True,481
+ITEM00554,REST0110,Target Scalable Users,Rice,99.71,True,False,522
+ITEM00555,REST0164,Scale Vertical Relationships,Starters,94.51,True,False,447
+ITEM00556,REST0075,Unleash Sticky Interfaces,Starters,124.98,True,False,252
+ITEM00557,REST0146,Seize Mission-Critical Mindshare,Starters,359.36,True,False,551
+ITEM00558,REST0016,Exploit Strategic Bandwidth,Breads,131.95,True,False,389
+ITEM00559,REST0017,Drive Distributed E-Tailers,Rice,202.69,False,True,835
+ITEM00560,REST0024,Implement Holistic Roi,Breads,405.8,True,True,218
+ITEM00561,REST0098,Repurpose Global Paradigms,Desserts,58.59,True,False,313
+ITEM00562,REST0196,Morph Bleeding-Edge Systems,Starters,149.13,True,True,664
+ITEM00563,REST0130,Maximize Leading-Edge Methodologies,Breads,561.46,True,False,831
+ITEM00564,REST0138,Architect Strategic Models,Main Course,414.97,True,True,538
+ITEM00565,REST0181,Cultivate End-To-End Web Services,Breads,218.05,True,False,854
+ITEM00566,REST0179,Engage Revolutionary E-Commerce,Beverages,74.92,True,False,664
+ITEM00567,REST0197,Re-Contextualize Back-End Initiatives,Desserts,372.33,True,True,728
+ITEM00568,REST0014,Extend Granular Content,Starters,172.58,True,False,546
+ITEM00569,REST0112,Reinvent Dot-Com Web Services,Starters,578.1,True,True,141
+ITEM00570,REST0066,Implement Value-Added Schemas,Combos,427.83,True,True,494
+ITEM00571,REST0082,Implement Vertical Infrastructures,Desserts,585.77,False,False,346
+ITEM00572,REST0093,Harness Back-End Infrastructures,Desserts,516.89,True,True,390
+ITEM00573,REST0181,Matrix Impactful E-Business,Rice,315.67,True,False,347
+ITEM00574,REST0192,Seize Viral Metrics,Main Course,418.26,True,True,712
+ITEM00575,REST0072,Scale Front-End Networks,Combos,496.66,True,False,698
+ITEM00576,REST0101,Embrace Global Solutions,Desserts,368.0,True,False,548
+ITEM00577,REST0049,Redefine Impactful Systems,Combos,83.82,True,True,183
+ITEM00578,REST0090,Embrace 24/7 Markets,Desserts,308.75,True,True,872
+ITEM00579,REST0190,Unleash Open-Source Methodologies,Combos,121.82,True,False,320
+ITEM00580,REST0037,Leverage Revolutionary E-Business,Rice,443.17,True,True,765
+ITEM00581,REST0177,Re-Intermediate Distributed Methodologies,Desserts,424.35,True,True,150
+ITEM00582,REST0196,Repurpose Value-Added Web Services,Breads,596.1,True,False,649
+ITEM00583,REST0161,Deliver Clicks-And-Mortar Action-Items,Beverages,395.85,True,True,870
+ITEM00584,REST0150,Transition Visionary Mindshare,Beverages,490.08,True,False,286
+ITEM00585,REST0070,Leverage Value-Added Content,Beverages,197.56,True,False,624
+ITEM00586,REST0033,Utilize B2C Vortals,Desserts,237.01,True,True,322
+ITEM00587,REST0028,Monetize Rich Applications,Combos,554.36,True,True,564
+ITEM00588,REST0088,Synthesize Sticky Schemas,Beverages,465.36,True,True,518
+ITEM00589,REST0004,Revolutionize Customized Applications,Main Course,410.4,True,False,186
+ITEM00590,REST0066,Synergize Seamless E-Commerce,Breads,189.72,True,True,358
+ITEM00591,REST0077,Morph Transparent Relationships,Beverages,434.22,True,True,280
+ITEM00592,REST0110,Empower Cross-Media Architectures,Starters,537.72,True,True,410
+ITEM00593,REST0049,Scale Cross-Media Supply-Chains,Desserts,176.94,True,True,272
+ITEM00594,REST0128,Drive Compelling Architectures,Breads,438.37,True,False,421
+ITEM00595,REST0139,Redefine Visionary Interfaces,Main Course,266.53,True,True,806
+ITEM00596,REST0035,Exploit Leading-Edge Mindshare,Beverages,115.32,True,True,439
+ITEM00597,REST0167,Engineer Bricks-And-Clicks Niches,Main Course,469.9,True,True,595
+ITEM00598,REST0138,Synergize Holistic Supply-Chains,Desserts,141.93,True,True,344
+ITEM00599,REST0074,Target Wireless Users,Beverages,189.09,True,True,604
+ITEM00600,REST0200,Engage Leading-Edge Systems,Starters,480.62,False,True,428
+ITEM00601,REST0069,Empower Rich Technologies,Breads,458.17,True,True,295
+ITEM00602,REST0151,Streamline Ubiquitous Applications,Combos,189.8,True,False,161
+ITEM00603,REST0034,Monetize Collaborative Eyeballs,Starters,567.53,True,True,124
+ITEM00604,REST0124,Facilitate B2B Platforms,Beverages,168.41,True,False,663
+ITEM00605,REST0111,Extend Killer Niches,Rice,596.49,True,True,661
+ITEM00606,REST0032,Redefine 24/365 Info-Mediaries,Breads,455.84,True,False,477
+ITEM00607,REST0016,Orchestrate Web-Enabled Interfaces,Main Course,265.88,True,True,394
+ITEM00608,REST0068,Redefine Revolutionary E-Markets,Beverages,121.69,True,False,151
+ITEM00609,REST0054,Morph Out-Of-The-Box Partnerships,Starters,226.28,True,False,139
+ITEM00610,REST0124,Morph Mission-Critical Relationships,Desserts,156.56,True,True,843
+ITEM00611,REST0156,Harness Vertical Methodologies,Combos,392.01,True,True,671
+ITEM00612,REST0112,Productize E-Business Systems,Rice,246.27,True,False,827
+ITEM00613,REST0060,Exploit Integrated Synergies,Combos,212.25,True,False,556
+ITEM00614,REST0078,Envisioneer Collaborative Technologies,Desserts,466.42,True,True,808
+ITEM00615,REST0076,Cultivate User-Centric Platforms,Beverages,176.83,True,True,887
+ITEM00616,REST0060,Seize Mission-Critical Technologies,Main Course,372.79,True,True,101
+ITEM00617,REST0085,Whiteboard Innovative Users,Starters,157.03,True,True,568
+ITEM00618,REST0112,Syndicate One-To-One Functionalities,Breads,443.14,True,True,205
+ITEM00619,REST0080,E-Enable Distributed Methodologies,Rice,393.82,True,True,315
+ITEM00620,REST0118,Brand Revolutionary E-Tailers,Beverages,488.98,True,True,876
+ITEM00621,REST0172,Synergize Global Communities,Beverages,87.67,True,True,778
+ITEM00622,REST0002,Innovate Innovative Relationships,Beverages,165.56,True,False,858
+ITEM00623,REST0023,Transition Value-Added Synergies,Beverages,134.95,True,False,513
+ITEM00624,REST0046,Repurpose Value-Added Synergies,Starters,154.81,True,True,309
+ITEM00625,REST0073,Leverage Value-Added Deliverables,Breads,106.66,True,False,157
+ITEM00626,REST0054,Synergize Plug-And-Play Functionalities,Main Course,359.15,True,True,142
+ITEM00627,REST0071,Exploit Revolutionary Models,Rice,376.39,True,True,237
+ITEM00628,REST0125,Enable Holistic Architectures,Combos,513.92,True,False,720
+ITEM00629,REST0081,Target Enterprise Initiatives,Beverages,279.76,True,False,588
+ITEM00630,REST0009,Streamline Web-Enabled Deliverables,Desserts,342.81,True,False,659
+ITEM00631,REST0070,Optimize Collaborative Relationships,Beverages,595.22,True,True,737
+ITEM00632,REST0172,Incentivize Compelling Convergence,Breads,342.51,True,True,568
+ITEM00633,REST0084,Re-Intermediate Mission-Critical Systems,Breads,365.47,True,False,825
+ITEM00634,REST0074,Strategize B2B Convergence,Starters,597.75,False,True,739
+ITEM00635,REST0073,Grow Sticky Relationships,Starters,596.77,True,True,488
+ITEM00636,REST0012,Mesh Value-Added Experiences,Desserts,283.22,True,False,297
+ITEM00637,REST0032,Orchestrate Back-End Channels,Desserts,399.22,True,True,301
+ITEM00638,REST0162,Scale B2B Web-Readiness,Starters,314.44,True,True,291
+ITEM00639,REST0083,Enable Killer Functionalities,Rice,446.39,True,True,206
+ITEM00640,REST0033,Engineer Bleeding-Edge Niches,Desserts,566.11,False,True,805
+ITEM00641,REST0064,Engineer Robust Functionalities,Starters,220.31,True,True,426
+ITEM00642,REST0048,Target World-Class Schemas,Beverages,500.38,True,True,849
+ITEM00643,REST0016,Aggregate Frictionless Technologies,Starters,410.17,True,True,743
+ITEM00644,REST0178,Harness Killer Networks,Combos,204.1,True,False,456
+ITEM00645,REST0114,Utilize Clicks-And-Mortar Applications,Rice,488.51,False,True,694
+ITEM00646,REST0151,Reinvent Synergistic Portals,Starters,284.92,True,False,600
+ITEM00647,REST0026,Innovate Leading-Edge Infrastructures,Starters,116.22,True,True,383
+ITEM00648,REST0054,Seize Magnetic Bandwidth,Beverages,596.38,True,True,567
+ITEM00649,REST0172,Re-Intermediate 24/365 Roi,Desserts,284.11,True,True,607
+ITEM00650,REST0037,Generate Revolutionary Models,Beverages,347.85,True,True,833
+ITEM00651,REST0009,Incentivize Customized Models,Combos,494.38,True,True,205
+ITEM00652,REST0013,Iterate Robust Niches,Combos,578.48,True,True,393
+ITEM00653,REST0060,Disintermediate E-Business Roi,Beverages,530.09,True,False,165
+ITEM00654,REST0106,Utilize Proactive E-Tailers,Starters,338.78,True,True,294
+ITEM00655,REST0126,Re-Contextualize Scalable Web Services,Beverages,350.13,True,False,287
+ITEM00656,REST0080,Integrate Web-Enabled Infrastructures,Breads,204.49,True,False,146
+ITEM00657,REST0128,Leverage Cross-Platform Systems,Main Course,304.54,True,True,461
+ITEM00658,REST0130,Streamline Back-End Systems,Main Course,570.76,True,False,636
+ITEM00659,REST0060,Grow Web-Enabled Relationships,Beverages,449.82,True,False,677
+ITEM00660,REST0185,Re-Intermediate Plug-And-Play Schemas,Desserts,56.53,True,False,586
+ITEM00661,REST0115,Orchestrate Impactful Partnerships,Rice,114.08,True,True,678
+ITEM00662,REST0043,Transition Best-Of-Breed E-Markets,Combos,558.1,True,False,808
+ITEM00663,REST0147,Re-Contextualize Out-Of-The-Box Communities,Beverages,516.8,True,False,345
+ITEM00664,REST0124,Scale Best-Of-Breed Communities,Desserts,317.39,True,False,711
+ITEM00665,REST0139,E-Enable Plug-And-Play Channels,Beverages,389.34,True,True,277
+ITEM00666,REST0047,Productize User-Centric Partnerships,Starters,209.31,True,False,214
+ITEM00667,REST0063,Engage Next-Generation Content,Combos,486.06,True,False,779
+ITEM00668,REST0135,Orchestrate B2C Niches,Combos,381.82,True,False,730
+ITEM00669,REST0094,Enable E-Business Experiences,Desserts,432.15,True,True,264
+ITEM00670,REST0123,Re-Intermediate Viral Web-Readiness,Combos,256.2,True,False,318
+ITEM00671,REST0031,Grow Rich E-Markets,Rice,286.74,True,True,296
+ITEM00672,REST0055,Extend Out-Of-The-Box Models,Beverages,164.23,True,True,500
+ITEM00673,REST0153,Incentivize Visionary E-Tailers,Breads,571.43,True,False,848
+ITEM00674,REST0200,Visualize Dot-Com Functionalities,Desserts,570.61,True,False,780
+ITEM00675,REST0030,Re-Intermediate Out-Of-The-Box Action-Items,Main Course,499.76,True,False,175
+ITEM00676,REST0036,Iterate Granular Roi,Desserts,564.56,True,False,525
+ITEM00677,REST0050,Disintermediate Robust Markets,Breads,415.93,True,True,386
+ITEM00678,REST0142,Productize Back-End Initiatives,Combos,179.06,True,False,644
+ITEM00679,REST0029,Iterate Scalable E-Markets,Breads,468.12,False,True,398
+ITEM00680,REST0155,Incentivize Front-End Deliverables,Combos,228.9,True,False,841
+ITEM00681,REST0117,Whiteboard Value-Added Mindshare,Breads,292.26,True,False,806
+ITEM00682,REST0178,Enhance End-To-End Mindshare,Rice,200.89,True,True,393
+ITEM00683,REST0036,Productize Ubiquitous Networks,Rice,282.99,True,True,546
+ITEM00684,REST0162,Mesh Wireless Synergies,Desserts,423.62,True,True,513
+ITEM00685,REST0021,Target User-Centric Markets,Rice,110.84,True,True,530
+ITEM00686,REST0038,Transform Cross-Media Partnerships,Main Course,107.86,True,True,889
+ITEM00687,REST0075,Embrace Dynamic E-Business,Combos,426.07,True,True,329
+ITEM00688,REST0178,Facilitate Holistic Initiatives,Starters,478.77,True,False,195
+ITEM00689,REST0126,Enable Next-Generation Bandwidth,Desserts,353.31,True,False,538
+ITEM00690,REST0037,Exploit Plug-And-Play Synergies,Beverages,149.9,True,True,270
+ITEM00691,REST0120,Innovate Distributed Roi,Beverages,286.92,True,False,416
+ITEM00692,REST0147,Redefine Killer E-Tailers,Desserts,467.0,True,True,643
+ITEM00693,REST0118,Unleash Leading-Edge Interfaces,Starters,427.15,False,True,590
+ITEM00694,REST0001,Syndicate Virtual Schemas,Beverages,110.43,True,True,487
+ITEM00695,REST0168,Whiteboard Strategic Web-Readiness,Desserts,583.03,True,False,656
+ITEM00696,REST0055,Visualize Open-Source Channels,Desserts,172.85,True,True,171
+ITEM00697,REST0154,Incubate Turn-Key Metrics,Breads,171.21,True,True,631
+ITEM00698,REST0171,Expedite Viral E-Tailers,Main Course,302.92,True,True,338
+ITEM00699,REST0059,Streamline Innovative Partnerships,Beverages,229.98,True,False,810
+ITEM00700,REST0051,Transform One-To-One Interfaces,Main Course,591.19,True,False,676
+ITEM00701,REST0107,Incentivize Efficient Methodologies,Combos,92.07,True,True,799
+ITEM00702,REST0143,Enhance E-Business Niches,Desserts,218.54,True,True,188
+ITEM00703,REST0008,Iterate Value-Added Vortals,Starters,260.5,True,False,812
+ITEM00704,REST0094,Aggregate B2B Users,Desserts,321.4,True,True,634
+ITEM00705,REST0142,Synthesize Holistic E-Tailers,Beverages,59.02,True,True,741
+ITEM00706,REST0097,Orchestrate Robust Functionalities,Main Course,95.3,True,True,253
+ITEM00707,REST0007,Architect Clicks-And-Mortar Functionalities,Breads,191.8,True,False,689
+ITEM00708,REST0018,Engineer Revolutionary E-Tailers,Breads,354.7,True,False,289
+ITEM00709,REST0012,Embrace Turn-Key Models,Desserts,472.27,True,True,514
+ITEM00710,REST0002,Enable Clicks-And-Mortar Schemas,Starters,427.57,True,True,253
+ITEM00711,REST0178,Visualize Robust E-Services,Combos,361.86,True,False,724
+ITEM00712,REST0093,Drive Out-Of-The-Box Mindshare,Rice,268.48,True,True,438
+ITEM00713,REST0149,Brand Holistic Experiences,Beverages,528.88,True,False,728
+ITEM00714,REST0007,Re-Contextualize 24/365 Systems,Desserts,302.87,True,True,616
+ITEM00715,REST0012,Whiteboard Global Channels,Breads,214.59,True,False,134
+ITEM00716,REST0084,Deploy One-To-One E-Services,Breads,396.13,True,True,883
+ITEM00717,REST0057,Incentivize Virtual Web Services,Starters,430.66,True,False,770
+ITEM00718,REST0078,Engineer Killer Action-Items,Breads,269.16,True,True,821
+ITEM00719,REST0074,Synergize Web-Enabled Technologies,Beverages,65.48,True,True,625
+ITEM00720,REST0023,Optimize Compelling Supply-Chains,Starters,101.77,True,True,636
+ITEM00721,REST0030,Reinvent 24/365 E-Services,Main Course,515.08,True,False,317
+ITEM00722,REST0111,Grow Web-Enabled Initiatives,Starters,81.1,True,True,353
+ITEM00723,REST0058,Envisioneer Granular E-Markets,Combos,375.61,True,True,302
+ITEM00724,REST0095,Matrix Dot-Com Architectures,Beverages,151.04,True,False,200
+ITEM00725,REST0052,Unleash Bricks-And-Clicks Deliverables,Combos,175.91,True,False,460
+ITEM00726,REST0056,Transform Open-Source Web Services,Beverages,200.33,True,False,840
+ITEM00727,REST0010,Cultivate Collaborative Action-Items,Main Course,71.06,False,True,810
+ITEM00728,REST0147,Revolutionize Bricks-And-Clicks Web-Readiness,Desserts,147.48,True,True,277
+ITEM00729,REST0147,E-Enable Clicks-And-Mortar Infrastructures,Starters,407.77,True,False,375
+ITEM00730,REST0108,Syndicate Next-Generation Communities,Beverages,324.29,True,True,411
+ITEM00731,REST0087,Evolve Cutting-Edge Technologies,Beverages,488.53,True,False,741
+ITEM00732,REST0187,Transition Compelling Communities,Main Course,83.68,True,True,509
+ITEM00733,REST0172,Integrate Cross-Media Bandwidth,Rice,538.89,True,True,890
+ITEM00734,REST0187,Engage Global Content,Starters,598.02,False,True,387
+ITEM00735,REST0084,Repurpose Viral Partnerships,Beverages,58.66,True,True,752
+ITEM00736,REST0004,Strategize Bricks-And-Clicks Roi,Breads,582.2,True,True,624
+ITEM00737,REST0097,Productize E-Business Users,Main Course,179.72,True,True,500
+ITEM00738,REST0112,Engineer Vertical Communities,Rice,430.9,False,False,316
+ITEM00739,REST0193,Drive Collaborative Web Services,Rice,210.87,True,True,797
+ITEM00740,REST0141,Extend Interactive Relationships,Main Course,337.0,True,True,569
+ITEM00741,REST0067,Re-Intermediate Strategic Mindshare,Rice,330.73,True,True,126
+ITEM00742,REST0140,Engineer Mission-Critical Bandwidth,Beverages,248.61,True,False,829
+ITEM00743,REST0093,Embrace Bleeding-Edge Info-Mediaries,Rice,444.65,False,True,521
+ITEM00744,REST0183,Visualize Vertical Channels,Starters,379.8,True,True,113
+ITEM00745,REST0189,Drive Out-Of-The-Box Convergence,Breads,329.55,True,False,600
+ITEM00746,REST0095,Benchmark Best-Of-Breed Methodologies,Beverages,590.56,True,True,753
+ITEM00747,REST0041,Orchestrate Transparent Functionalities,Main Course,567.01,True,False,424
+ITEM00748,REST0164,Extend Leading-Edge Web Services,Breads,575.49,True,False,423
+ITEM00749,REST0002,Engineer Wireless E-Commerce,Desserts,534.73,True,False,666
+ITEM00750,REST0022,Deliver Efficient Channels,Beverages,190.34,True,True,802
+ITEM00751,REST0150,Synergize Granular Niches,Breads,242.49,True,True,384
+ITEM00752,REST0041,Maximize Proactive Technologies,Rice,177.08,True,True,188
+ITEM00753,REST0095,Harness 24/7 E-Markets,Desserts,592.4,True,True,144
+ITEM00754,REST0116,Synergize B2B Channels,Main Course,133.96,True,True,743
+ITEM00755,REST0120,Expedite Clicks-And-Mortar Info-Mediaries,Main Course,251.58,True,False,597
+ITEM00756,REST0014,Re-Contextualize Leading-Edge Infrastructures,Starters,159.47,True,True,597
+ITEM00757,REST0093,Deliver Integrated Functionalities,Rice,172.9,True,True,677
+ITEM00758,REST0035,Maximize Viral Supply-Chains,Starters,185.9,True,True,890
+ITEM00759,REST0178,Redefine Bleeding-Edge Convergence,Starters,401.82,True,False,759
+ITEM00760,REST0009,Morph Revolutionary Models,Rice,91.83,True,True,244
+ITEM00761,REST0118,Syndicate Front-End E-Tailers,Beverages,364.89,False,True,617
+ITEM00762,REST0096,Cultivate Innovative Initiatives,Desserts,500.61,True,False,181
+ITEM00763,REST0059,Synthesize B2C Users,Combos,471.59,True,False,734
+ITEM00764,REST0056,Seize Holistic Functionalities,Starters,133.14,True,True,266
+ITEM00765,REST0010,Transform Compelling Synergies,Breads,553.1,True,True,848
+ITEM00766,REST0025,Maximize Frictionless E-Business,Desserts,473.55,True,True,204
+ITEM00767,REST0173,Matrix Value-Added Metrics,Beverages,52.92,True,False,587
+ITEM00768,REST0011,Enhance Innovative Content,Rice,455.56,True,False,849
+ITEM00769,REST0101,Synthesize Compelling Communities,Main Course,455.58,True,True,409
+ITEM00770,REST0009,Disintermediate Robust Deliverables,Beverages,323.25,True,False,181
+ITEM00771,REST0135,Harness Back-End Supply-Chains,Starters,75.29,False,True,193
+ITEM00772,REST0071,Transform Dot-Com Vortals,Breads,368.95,True,False,420
+ITEM00773,REST0162,Re-Contextualize Cutting-Edge Convergence,Desserts,471.16,True,True,442
+ITEM00774,REST0083,Deliver Web-Enabled Communities,Rice,198.98,True,True,896
+ITEM00775,REST0020,Orchestrate World-Class Partnerships,Main Course,416.89,True,False,460
+ITEM00776,REST0114,Revolutionize Global Niches,Desserts,244.66,True,True,165
+ITEM00777,REST0089,Envisioneer Back-End Metrics,Breads,365.62,False,False,723
+ITEM00778,REST0005,Maximize Viral Models,Combos,261.51,True,True,528
+ITEM00779,REST0112,Incentivize Transparent E-Tailers,Main Course,217.07,True,True,500
+ITEM00780,REST0055,Target Granular Metrics,Rice,520.75,True,False,270
+ITEM00781,REST0089,Transition Intuitive E-Business,Desserts,464.61,True,True,858
+ITEM00782,REST0015,Deliver 24/365 Models,Beverages,240.0,True,True,677
+ITEM00783,REST0176,Orchestrate World-Class Deliverables,Starters,289.05,True,True,167
+ITEM00784,REST0004,Productize User-Centric Markets,Rice,430.44,False,False,591
+ITEM00785,REST0078,Productize Enterprise Info-Mediaries,Breads,496.09,True,False,133
+ITEM00786,REST0120,Empower Revolutionary Info-Mediaries,Beverages,426.39,True,True,100
+ITEM00787,REST0113,Strategize Cross-Platform Interfaces,Desserts,347.51,True,True,250
+ITEM00788,REST0021,Optimize B2C Vortals,Main Course,574.91,True,True,883
+ITEM00789,REST0137,Re-Intermediate B2C Experiences,Beverages,475.78,True,True,357
+ITEM00790,REST0066,Synergize B2B Channels,Beverages,113.58,True,False,849
+ITEM00791,REST0107,Exploit Compelling Bandwidth,Breads,356.98,True,False,727
+ITEM00792,REST0163,Architect Robust Vortals,Starters,275.26,True,True,687
+ITEM00793,REST0112,Facilitate Revolutionary Deliverables,Combos,487.21,True,True,894
+ITEM00794,REST0117,Extend Cross-Media Eyeballs,Beverages,74.56,True,False,118
+ITEM00795,REST0179,Drive Leading-Edge Eyeballs,Beverages,275.9,True,True,895
+ITEM00796,REST0128,Re-Contextualize Web-Enabled Applications,Starters,225.05,True,False,134
+ITEM00797,REST0102,Iterate Ubiquitous Metrics,Starters,127.65,True,True,470
+ITEM00798,REST0078,Incentivize Leading-Edge Channels,Main Course,258.34,True,False,590
+ITEM00799,REST0037,Seize One-To-One Infrastructures,Desserts,420.04,True,False,340
+ITEM00800,REST0006,Matrix Strategic Technologies,Main Course,248.92,True,False,106
+ITEM00801,REST0082,Transition Scalable Content,Starters,369.0,False,False,648
+ITEM00802,REST0086,Re-Intermediate Distributed Markets,Combos,376.05,True,True,470
+ITEM00803,REST0082,Matrix Cross-Platform Technologies,Rice,372.91,False,True,764
+ITEM00804,REST0051,Envisioneer Dot-Com Initiatives,Starters,341.24,False,False,856
+ITEM00805,REST0066,Grow Interactive Solutions,Main Course,114.34,True,True,349
+ITEM00806,REST0096,Transform Turn-Key E-Business,Breads,170.15,True,False,214
+ITEM00807,REST0145,Scale Impactful Web-Readiness,Breads,490.04,True,False,652
+ITEM00808,REST0065,Grow Bricks-And-Clicks Functionalities,Desserts,326.3,True,True,436
+ITEM00809,REST0009,Target Bleeding-Edge Channels,Beverages,438.34,True,False,673
+ITEM00810,REST0141,Integrate Turn-Key Roi,Combos,363.45,True,False,780
+ITEM00811,REST0101,Generate 24/7 Web-Readiness,Breads,71.28,True,True,241
+ITEM00812,REST0186,Grow Ubiquitous Initiatives,Main Course,487.92,True,True,584
+ITEM00813,REST0158,Engineer Frictionless Synergies,Breads,85.38,True,False,537
+ITEM00814,REST0031,Re-Contextualize Cutting-Edge Functionalities,Combos,568.75,False,False,869
+ITEM00815,REST0151,Productize Killer Relationships,Combos,168.46,True,False,187
+ITEM00816,REST0063,Grow Extensible E-Commerce,Rice,331.82,True,False,562
+ITEM00817,REST0156,Deploy Cross-Media Synergies,Starters,84.97,True,True,147
+ITEM00818,REST0059,Scale Customized Metrics,Starters,542.21,True,False,580
+ITEM00819,REST0010,Benchmark Granular Roi,Main Course,588.97,True,True,623
+ITEM00820,REST0089,Drive Interactive Content,Beverages,130.46,True,True,310
+ITEM00821,REST0124,Repurpose Frictionless Bandwidth,Combos,212.68,True,True,343
+ITEM00822,REST0100,Transition Collaborative Models,Starters,58.73,True,True,338
+ITEM00823,REST0090,Re-Contextualize Real-Time Deliverables,Breads,482.83,True,True,296
+ITEM00824,REST0026,Optimize Synergistic Schemas,Combos,221.31,True,True,868
+ITEM00825,REST0077,Engineer Customized Users,Rice,373.86,True,True,334
+ITEM00826,REST0017,Enable Bricks-And-Clicks Technologies,Beverages,71.57,True,True,286
+ITEM00827,REST0168,Leverage Virtual E-Services,Beverages,443.5,True,False,812
+ITEM00828,REST0068,Envisioneer Scalable Applications,Beverages,341.17,True,True,714
+ITEM00829,REST0023,Iterate One-To-One Content,Starters,448.74,True,True,389
+ITEM00830,REST0163,Drive Real-Time Networks,Desserts,484.26,True,False,320
+ITEM00831,REST0009,Iterate B2C Action-Items,Beverages,99.08,True,True,596
+ITEM00832,REST0045,Matrix Real-Time Users,Main Course,367.95,True,True,595
+ITEM00833,REST0165,Deliver Cutting-Edge Experiences,Breads,407.47,True,False,401
+ITEM00834,REST0197,Monetize World-Class Networks,Desserts,334.2,True,True,286
+ITEM00835,REST0147,Architect Web-Enabled E-Business,Rice,150.33,False,True,549
+ITEM00836,REST0075,Implement 24/7 Supply-Chains,Breads,487.58,True,False,511
+ITEM00837,REST0027,Benchmark Cross-Platform Portals,Main Course,598.6,True,False,710
+ITEM00838,REST0141,Facilitate Real-Time Systems,Main Course,583.1,True,False,344
+ITEM00839,REST0185,Whiteboard Dynamic Methodologies,Combos,477.64,True,True,412
+ITEM00840,REST0188,Innovate Enterprise E-Services,Desserts,279.96,True,False,595
+ITEM00841,REST0140,Extend E-Business Networks,Breads,235.52,False,False,121
+ITEM00842,REST0009,Revolutionize 24/7 Schemas,Starters,87.7,True,True,167
+ITEM00843,REST0092,Drive Innovative Markets,Combos,278.96,True,True,491
+ITEM00844,REST0077,Benchmark Distributed E-Markets,Main Course,135.83,True,False,415
+ITEM00845,REST0084,Disintermediate Proactive Technologies,Beverages,189.88,True,True,164
+ITEM00846,REST0077,Synergize Scalable Synergies,Rice,540.54,True,True,828
+ITEM00847,REST0155,Transform Visionary Niches,Rice,582.69,False,True,640
+ITEM00848,REST0191,Disintermediate Seamless Methodologies,Main Course,571.71,True,True,804
+ITEM00849,REST0029,E-Enable Next-Generation Roi,Beverages,156.35,True,True,667
+ITEM00850,REST0150,Engineer Open-Source Schemas,Breads,545.49,True,True,311
+ITEM00851,REST0073,Repurpose E-Business Initiatives,Rice,127.83,True,True,849
+ITEM00852,REST0088,Optimize Strategic E-Commerce,Beverages,329.21,True,False,299
+ITEM00853,REST0106,Exploit Collaborative Markets,Beverages,404.01,True,True,277
+ITEM00854,REST0147,Incentivize Integrated Supply-Chains,Starters,304.36,True,True,522
+ITEM00855,REST0038,Iterate Open-Source E-Markets,Main Course,573.51,True,False,764
+ITEM00856,REST0095,Re-Contextualize End-To-End Infrastructures,Beverages,233.27,True,False,561
+ITEM00857,REST0039,Aggregate Cross-Platform Solutions,Combos,340.06,True,True,143
+ITEM00858,REST0143,Envisioneer Innovative Markets,Breads,91.5,True,True,530
+ITEM00859,REST0054,Monetize Bleeding-Edge Applications,Rice,518.72,True,False,267
+ITEM00860,REST0160,Drive Bleeding-Edge Bandwidth,Combos,277.35,True,False,386
+ITEM00861,REST0110,Revolutionize Killer Schemas,Starters,435.29,True,True,808
+ITEM00862,REST0112,Synthesize Cross-Media Info-Mediaries,Breads,425.24,True,True,436
+ITEM00863,REST0174,Transition Scalable Eyeballs,Rice,421.94,True,False,685
+ITEM00864,REST0189,Synthesize Open-Source Web Services,Main Course,328.82,True,True,270
+ITEM00865,REST0052,Grow Bricks-And-Clicks Web-Readiness,Breads,202.64,True,False,282
+ITEM00866,REST0162,Reinvent Revolutionary Networks,Rice,393.8,True,False,115
+ITEM00867,REST0035,Optimize Leading-Edge Methodologies,Starters,578.99,True,True,595
+ITEM00868,REST0198,Streamline Back-End Niches,Combos,508.67,True,True,679
+ITEM00869,REST0037,Redefine Enterprise Systems,Rice,109.82,True,False,653
+ITEM00870,REST0078,Harness User-Centric Schemas,Beverages,62.75,True,False,209
+ITEM00871,REST0061,Synthesize Back-End Relationships,Starters,324.43,True,False,652
+ITEM00872,REST0111,Benchmark One-To-One Platforms,Breads,476.71,False,False,405
+ITEM00873,REST0114,Visualize End-To-End Niches,Desserts,222.65,True,True,105
+ITEM00874,REST0177,Productize Mission-Critical Portals,Main Course,435.68,True,False,792
+ITEM00875,REST0009,Orchestrate World-Class Platforms,Combos,562.56,True,True,372
+ITEM00876,REST0019,Leverage Compelling Infrastructures,Starters,302.44,True,False,460
+ITEM00877,REST0121,Expedite Interactive Roi,Combos,184.29,True,True,284
+ITEM00878,REST0105,Re-Contextualize Viral Solutions,Starters,554.77,True,False,755
+ITEM00879,REST0156,Scale Synergistic Interfaces,Starters,309.75,True,False,199
+ITEM00880,REST0080,Reinvent Magnetic Metrics,Rice,274.31,True,False,189
+ITEM00881,REST0026,Visualize Dynamic Users,Beverages,244.35,True,False,345
+ITEM00882,REST0166,Embrace Front-End Infrastructures,Desserts,282.66,True,True,338
+ITEM00883,REST0040,E-Enable Intuitive Web-Readiness,Main Course,420.51,True,True,823
+ITEM00884,REST0025,Enhance Sticky Models,Combos,288.55,True,True,180
+ITEM00885,REST0099,Morph User-Centric Eyeballs,Main Course,228.32,True,False,214
+ITEM00886,REST0118,Morph Rich Platforms,Beverages,459.0,True,True,375
+ITEM00887,REST0069,Maximize Robust Architectures,Rice,161.63,True,True,179
+ITEM00888,REST0071,Enhance Strategic Platforms,Rice,161.06,True,False,667
+ITEM00889,REST0151,Scale Next-Generation E-Commerce,Beverages,433.04,True,False,278
+ITEM00890,REST0089,Re-Intermediate World-Class E-Markets,Combos,526.69,True,False,408
+ITEM00891,REST0065,Utilize Bricks-And-Clicks Synergies,Beverages,182.67,True,True,660
+ITEM00892,REST0150,Productize Leading-Edge E-Markets,Breads,155.12,True,False,608
+ITEM00893,REST0064,Repurpose B2C Initiatives,Rice,418.67,True,True,359
+ITEM00894,REST0196,Facilitate Clicks-And-Mortar Info-Mediaries,Combos,391.44,True,False,885
+ITEM00895,REST0058,Seize Synergistic E-Services,Starters,295.99,True,True,391
+ITEM00896,REST0156,Facilitate Bricks-And-Clicks Bandwidth,Main Course,102.72,True,False,390
+ITEM00897,REST0112,Drive World-Class Niches,Rice,100.48,True,True,641
+ITEM00898,REST0123,Architect B2C Synergies,Beverages,477.54,True,True,863
+ITEM00899,REST0097,Orchestrate Revolutionary Relationships,Starters,298.47,True,False,162
+ITEM00900,REST0196,Transition End-To-End Portals,Breads,521.88,True,True,693
+ITEM00901,REST0106,Productize Magnetic Markets,Desserts,366.1,True,True,504
+ITEM00902,REST0004,Engage Dynamic Networks,Breads,390.31,False,True,579
+ITEM00903,REST0129,Scale Extensible Functionalities,Starters,563.81,True,False,424
+ITEM00904,REST0026,Drive Customized Action-Items,Combos,140.54,True,True,480
+ITEM00905,REST0033,Implement Customized Action-Items,Combos,348.66,True,False,780
+ITEM00906,REST0027,Iterate Virtual Portals,Starters,81.98,True,False,409
+ITEM00907,REST0042,Synergize Bleeding-Edge Methodologies,Combos,247.41,True,False,442
+ITEM00908,REST0197,Maximize Integrated E-Tailers,Beverages,131.45,True,True,769
+ITEM00909,REST0071,Grow Sticky Channels,Combos,153.31,True,False,574
+ITEM00910,REST0064,Iterate Front-End Bandwidth,Desserts,564.14,True,True,155
+ITEM00911,REST0025,Whiteboard Granular Models,Beverages,385.88,True,True,524
+ITEM00912,REST0072,Orchestrate Intuitive Niches,Main Course,540.69,True,False,241
+ITEM00913,REST0105,Incentivize Scalable E-Business,Combos,293.94,True,False,760
+ITEM00914,REST0132,Utilize Frictionless Metrics,Desserts,378.7,True,True,475
+ITEM00915,REST0012,Optimize Cross-Platform Supply-Chains,Desserts,67.65,False,True,325
+ITEM00916,REST0058,Enable Holistic Synergies,Main Course,308.23,False,False,573
+ITEM00917,REST0095,Redefine Rich Technologies,Breads,360.23,True,False,124
+ITEM00918,REST0139,Disintermediate B2C Applications,Starters,59.23,True,True,789
+ITEM00919,REST0101,Mesh Dynamic Markets,Breads,484.22,True,True,464
+ITEM00920,REST0108,Empower B2C Web-Readiness,Combos,212.48,True,True,194
+ITEM00921,REST0059,Target Real-Time E-Services,Combos,298.87,True,False,607
+ITEM00922,REST0117,Matrix Collaborative Vortals,Beverages,344.6,True,True,664
+ITEM00923,REST0164,Incubate Scalable Architectures,Rice,595.71,True,False,681
+ITEM00924,REST0109,Redefine Customized Solutions,Combos,104.55,False,False,275
+ITEM00925,REST0022,Brand Magnetic Web-Readiness,Combos,355.4,True,False,743
+ITEM00926,REST0065,Morph Mission-Critical Bandwidth,Beverages,341.83,True,False,507
+ITEM00927,REST0050,Enhance Ubiquitous Bandwidth,Rice,87.9,True,True,589
+ITEM00928,REST0004,Reinvent Best-Of-Breed Communities,Starters,398.67,True,True,558
+ITEM00929,REST0200,Streamline Clicks-And-Mortar Networks,Starters,207.77,False,False,512
+ITEM00930,REST0180,Aggregate Out-Of-The-Box Bandwidth,Desserts,107.07,True,True,437
+ITEM00931,REST0102,Aggregate Sticky Applications,Starters,148.25,True,True,430
+ITEM00932,REST0043,Generate 24/365 Networks,Main Course,502.98,False,True,312
+ITEM00933,REST0105,Deploy Turn-Key E-Business,Main Course,107.27,True,False,822
+ITEM00934,REST0174,Leverage Clicks-And-Mortar Solutions,Rice,306.81,False,False,444
+ITEM00935,REST0004,Productize Clicks-And-Mortar Interfaces,Breads,157.4,True,True,675
+ITEM00936,REST0141,Exploit Extensible Roi,Desserts,139.28,True,True,646
+ITEM00937,REST0166,Deploy Viral Architectures,Breads,163.14,True,False,623
+ITEM00938,REST0173,Enable Cross-Media Metrics,Rice,321.03,False,False,445
+ITEM00939,REST0153,Architect B2B Web Services,Main Course,180.78,True,True,347
+ITEM00940,REST0067,Mesh Value-Added Supply-Chains,Beverages,103.2,True,False,723
+ITEM00941,REST0055,Benchmark Real-Time E-Services,Combos,490.77,True,False,424
+ITEM00942,REST0096,Engage Strategic Vortals,Desserts,346.9,True,False,566
+ITEM00943,REST0167,Harness Out-Of-The-Box E-Markets,Rice,136.27,True,False,190
+ITEM00944,REST0065,Engineer Bricks-And-Clicks Web Services,Breads,309.29,True,False,393
+ITEM00945,REST0075,Whiteboard 24/365 E-Services,Rice,87.6,True,False,640
+ITEM00946,REST0130,Seize Customized Partnerships,Rice,369.24,True,True,623
+ITEM00947,REST0197,Re-Intermediate Impactful Schemas,Starters,237.17,True,True,758
+ITEM00948,REST0120,Redefine Interactive Applications,Main Course,106.94,True,False,748
+ITEM00949,REST0086,Seize Transparent Eyeballs,Desserts,151.0,True,True,768
+ITEM00950,REST0062,Strategize Real-Time Paradigms,Starters,240.14,True,True,358
+ITEM00951,REST0174,Re-Contextualize Frictionless Infrastructures,Main Course,493.52,True,False,186
+ITEM00952,REST0112,Implement Mission-Critical Solutions,Rice,145.57,True,False,257
+ITEM00953,REST0159,E-Enable Frictionless Portals,Main Course,110.32,True,True,593
+ITEM00954,REST0163,Seize Bricks-And-Clicks Convergence,Breads,333.77,True,True,285
+ITEM00955,REST0126,Iterate Clicks-And-Mortar Niches,Desserts,357.28,True,True,443
+ITEM00956,REST0173,Whiteboard Dot-Com Content,Starters,99.63,True,True,840
+ITEM00957,REST0077,Deploy Synergistic Users,Desserts,206.47,True,False,615
+ITEM00958,REST0182,Implement B2B Content,Rice,194.52,True,False,668
+ITEM00959,REST0199,E-Enable Rich Vortals,Breads,152.42,True,False,608
+ITEM00960,REST0197,Re-Intermediate Sticky Portals,Main Course,223.6,True,True,639
+ITEM00961,REST0122,Aggregate Distributed Networks,Combos,70.41,True,True,115
+ITEM00962,REST0157,Target Intuitive Web Services,Main Course,408.35,True,False,624
+ITEM00963,REST0200,Exploit Granular Content,Breads,593.67,True,True,299
+ITEM00964,REST0008,Disintermediate One-To-One Eyeballs,Combos,398.73,True,True,283
+ITEM00965,REST0054,Mesh Extensible Paradigms,Main Course,248.59,True,False,408
+ITEM00966,REST0135,Incentivize Rich Info-Mediaries,Starters,417.35,True,False,607
+ITEM00967,REST0083,Generate Scalable Experiences,Beverages,364.33,True,True,380
+ITEM00968,REST0103,Matrix Value-Added Synergies,Main Course,515.72,True,False,257
+ITEM00969,REST0151,Integrate Cross-Platform Experiences,Rice,392.03,True,True,459
+ITEM00970,REST0100,Implement Web-Enabled E-Markets,Main Course,398.74,True,False,358
+ITEM00971,REST0032,Expedite Holistic Users,Desserts,171.92,True,False,256
+ITEM00972,REST0062,Redefine B2B Schemas,Rice,278.59,True,True,524
+ITEM00973,REST0173,Architect Global Metrics,Main Course,239.43,True,True,705
+ITEM00974,REST0196,Syndicate Rich E-Commerce,Main Course,56.28,True,False,878
+ITEM00975,REST0030,Unleash Distributed Methodologies,Rice,222.3,False,True,120
+ITEM00976,REST0106,Engineer Back-End Info-Mediaries,Starters,317.33,True,False,738
+ITEM00977,REST0039,Grow Collaborative Paradigms,Combos,379.92,True,False,446
+ITEM00978,REST0133,Scale Clicks-And-Mortar E-Markets,Combos,564.01,True,False,449
+ITEM00979,REST0195,Transform Impactful E-Markets,Beverages,181.51,True,False,484
+ITEM00980,REST0022,Benchmark Plug-And-Play Schemas,Beverages,133.84,True,True,537
+ITEM00981,REST0156,Incentivize Best-Of-Breed Deliverables,Combos,528.2,True,True,555
+ITEM00982,REST0150,Revolutionize Intuitive Synergies,Starters,568.02,True,False,723
+ITEM00983,REST0128,Re-Intermediate Dynamic Models,Main Course,318.37,True,True,845
+ITEM00984,REST0029,Envisioneer Visionary Methodologies,Beverages,113.37,True,False,645
+ITEM00985,REST0171,Expedite Ubiquitous Eyeballs,Starters,316.96,True,True,179
+ITEM00986,REST0042,Strategize End-To-End Web Services,Starters,110.19,True,True,551
+ITEM00987,REST0060,Enable Back-End E-Commerce,Beverages,535.75,True,True,694
+ITEM00988,REST0119,Implement Cross-Platform Supply-Chains,Combos,439.48,True,False,640
+ITEM00989,REST0077,Reinvent Seamless Content,Rice,182.63,True,True,588
+ITEM00990,REST0199,Redefine Bricks-And-Clicks Niches,Breads,537.68,True,True,742
+ITEM00991,REST0196,Whiteboard B2C Experiences,Combos,400.85,True,True,622
+ITEM00992,REST0187,Benchmark Best-Of-Breed Functionalities,Rice,574.29,True,True,491
+ITEM00993,REST0096,Revolutionize Synergistic Interfaces,Combos,589.26,True,False,673
+ITEM00994,REST0086,Streamline Proactive Platforms,Main Course,51.8,True,False,458
+ITEM00995,REST0112,Embrace Dot-Com Eyeballs,Rice,116.12,True,True,132
+ITEM00996,REST0084,Brand Proactive Info-Mediaries,Desserts,350.81,True,True,235
+ITEM00997,REST0006,Embrace Holistic Partnerships,Breads,575.72,False,False,699
+ITEM00998,REST0073,Deploy Magnetic Schemas,Combos,596.83,True,False,509
+ITEM00999,REST0156,Expedite Distributed Web Services,Breads,362.07,True,True,628
+ITEM01000,REST0077,Enable Collaborative Initiatives,Starters,145.59,True,True,190
+ITEM01001,REST0031,Facilitate Killer Content,Desserts,139.68,True,True,512
+ITEM01002,REST0039,Incentivize Seamless E-Services,Main Course,470.12,True,True,398
+ITEM01003,REST0050,Morph Seamless Networks,Starters,375.57,True,False,586
+ITEM01004,REST0078,Exploit B2B E-Tailers,Rice,351.83,True,True,864
+ITEM01005,REST0126,Incentivize Global Functionalities,Rice,306.17,True,False,172
+ITEM01006,REST0165,Engage Real-Time E-Business,Beverages,448.82,True,True,817
+ITEM01007,REST0109,Leverage Back-End Functionalities,Starters,521.93,False,True,360
+ITEM01008,REST0088,Generate Clicks-And-Mortar Communities,Desserts,216.63,True,False,789
+ITEM01009,REST0200,Scale Integrated Experiences,Starters,171.5,True,True,411
+ITEM01010,REST0015,Brand Back-End E-Services,Starters,418.61,True,False,831
+ITEM01011,REST0051,Envisioneer 24/365 E-Tailers,Starters,553.1,True,False,784
+ITEM01012,REST0198,Leverage Wireless Niches,Breads,241.49,True,False,264
+ITEM01013,REST0023,Incentivize Next-Generation Web Services,Beverages,199.85,True,True,434
+ITEM01014,REST0153,Architect Sticky Supply-Chains,Combos,174.36,True,True,601
+ITEM01015,REST0174,Whiteboard Rich Supply-Chains,Main Course,189.97,True,True,831
+ITEM01016,REST0151,Target 24/7 Synergies,Main Course,124.21,True,True,260
+ITEM01017,REST0010,Redefine Clicks-And-Mortar Action-Items,Main Course,378.23,True,True,489
+ITEM01018,REST0073,Redefine Cross-Platform Convergence,Breads,204.45,True,True,859
+ITEM01019,REST0113,Architect Holistic Web Services,Beverages,388.22,False,True,170
+ITEM01020,REST0077,Synthesize Open-Source Models,Desserts,95.67,True,True,191
+ITEM01021,REST0032,Facilitate Scalable Info-Mediaries,Beverages,113.5,True,False,460
+ITEM01022,REST0113,Deliver Vertical Mindshare,Breads,344.88,True,False,420
+ITEM01023,REST0179,Scale Seamless Platforms,Desserts,331.34,True,True,344
+ITEM01024,REST0169,Visualize E-Business Infrastructures,Starters,199.33,True,False,123
+ITEM01025,REST0065,Transform Scalable Infrastructures,Rice,504.92,True,True,656
+ITEM01026,REST0193,Drive Ubiquitous Roi,Starters,152.88,True,True,800
+ITEM01027,REST0101,Incentivize Collaborative Functionalities,Main Course,248.36,True,True,502
+ITEM01028,REST0168,Leverage Magnetic Functionalities,Starters,355.53,True,False,472
+ITEM01029,REST0018,Cultivate Sticky Experiences,Breads,526.97,True,True,385
+ITEM01030,REST0164,Disintermediate Wireless Communities,Main Course,280.2,True,True,540
+ITEM01031,REST0031,Incubate Killer Users,Rice,269.23,True,False,694
+ITEM01032,REST0054,Mesh Collaborative Schemas,Desserts,368.75,False,True,833
+ITEM01033,REST0063,Unleash Sticky E-Commerce,Desserts,224.18,True,False,451
+ITEM01034,REST0001,Optimize End-To-End Web Services,Main Course,440.05,True,True,318
+ITEM01035,REST0180,Re-Contextualize Frictionless Roi,Combos,186.78,True,False,584
+ITEM01036,REST0185,Revolutionize Intuitive E-Commerce,Combos,502.76,True,False,542
+ITEM01037,REST0009,Transform Scalable Initiatives,Starters,199.79,True,False,317
+ITEM01038,REST0120,Productize Interactive Action-Items,Combos,595.99,True,False,801
+ITEM01039,REST0092,Enable Viral Markets,Beverages,224.05,True,False,166
+ITEM01040,REST0090,Matrix Synergistic Action-Items,Beverages,533.35,True,True,130
+ITEM01041,REST0116,Evolve Ubiquitous Channels,Desserts,268.55,True,False,421
+ITEM01042,REST0056,Harness Visionary Metrics,Beverages,185.33,True,False,349
+ITEM01043,REST0175,Optimize Customized Interfaces,Main Course,174.39,True,True,665
+ITEM01044,REST0003,Expedite Real-Time Content,Beverages,517.61,True,False,109
+ITEM01045,REST0130,Facilitate Strategic Initiatives,Breads,219.81,True,True,777
+ITEM01046,REST0054,Matrix Wireless Convergence,Desserts,236.21,True,True,384
+ITEM01047,REST0037,Innovate Ubiquitous Interfaces,Rice,158.35,True,True,252
+ITEM01048,REST0184,Implement Front-End Mindshare,Beverages,578.73,True,False,643
+ITEM01049,REST0159,Transform Enterprise Paradigms,Breads,184.61,True,False,628
+ITEM01050,REST0097,Architect Plug-And-Play Supply-Chains,Breads,186.09,True,False,470
+ITEM01051,REST0012,Synthesize Ubiquitous Roi,Main Course,569.14,True,True,400
+ITEM01052,REST0186,Re-Intermediate Collaborative Interfaces,Desserts,545.49,True,False,245
+ITEM01053,REST0195,Strategize Customized Technologies,Main Course,186.9,True,False,686
+ITEM01054,REST0112,Enhance Value-Added Experiences,Rice,525.6,True,True,735
+ITEM01055,REST0154,Target Leading-Edge Deliverables,Rice,187.4,True,False,151
+ITEM01056,REST0078,Enhance Virtual Infrastructures,Starters,96.46,True,True,503
+ITEM01057,REST0140,Utilize Extensible Deliverables,Rice,501.2,True,True,801
+ITEM01058,REST0090,Productize Extensible E-Commerce,Desserts,474.36,True,False,240
+ITEM01059,REST0144,Transition Real-Time Web Services,Combos,212.07,True,True,187
+ITEM01060,REST0181,Unleash Mission-Critical Roi,Combos,99.58,False,False,526
+ITEM01061,REST0072,Deploy End-To-End Relationships,Desserts,163.54,True,False,183
+ITEM01062,REST0177,Embrace Cutting-Edge Convergence,Main Course,474.08,True,True,342
+ITEM01063,REST0177,Drive Cross-Platform Schemas,Breads,580.61,True,True,205
+ITEM01064,REST0092,Enhance Distributed E-Business,Starters,192.45,True,False,703
+ITEM01065,REST0007,Evolve Rich Portals,Combos,500.04,True,True,454
+ITEM01066,REST0015,Deliver 24/365 Experiences,Combos,175.36,True,False,120
+ITEM01067,REST0105,E-Enable Synergistic Mindshare,Rice,423.78,True,False,105
+ITEM01068,REST0164,Revolutionize Sticky E-Commerce,Breads,95.99,True,False,320
+ITEM01069,REST0072,Cultivate 24/365 E-Business,Main Course,371.91,True,False,186
+ITEM01070,REST0074,Streamline Vertical E-Markets,Beverages,198.05,True,True,791
+ITEM01071,REST0143,Reinvent Global Infrastructures,Starters,559.22,True,True,552
+ITEM01072,REST0062,Redefine 24/365 Experiences,Desserts,209.36,True,True,441
+ITEM01073,REST0146,Deliver Compelling Supply-Chains,Breads,269.14,True,False,492
+ITEM01074,REST0046,Reinvent B2C Solutions,Main Course,512.37,True,True,451
+ITEM01075,REST0105,Cultivate Cross-Media Content,Main Course,291.05,True,False,345
+ITEM01076,REST0109,Disintermediate Back-End Models,Starters,181.13,True,False,785
+ITEM01077,REST0061,Optimize Bricks-And-Clicks E-Markets,Starters,351.15,True,True,212
+ITEM01078,REST0121,Expedite Dynamic E-Services,Rice,512.0,True,True,682
+ITEM01079,REST0043,Engineer Visionary Communities,Rice,288.25,True,False,257
+ITEM01080,REST0172,Mesh Visionary Paradigms,Desserts,123.09,False,True,336
+ITEM01081,REST0099,Exploit Strategic Niches,Desserts,260.7,False,False,798
+ITEM01082,REST0194,Brand Revolutionary Roi,Starters,574.96,True,False,342
+ITEM01083,REST0055,Architect Dot-Com Convergence,Starters,89.61,True,False,265
+ITEM01084,REST0167,Harness Extensible Portals,Breads,274.64,True,False,133
+ITEM01085,REST0133,Incentivize Global Portals,Rice,406.42,True,False,354
+ITEM01086,REST0185,Re-Contextualize World-Class Action-Items,Main Course,93.18,True,False,401
+ITEM01087,REST0112,Maximize Collaborative Metrics,Combos,239.72,True,True,319
+ITEM01088,REST0143,Embrace 24/7 Channels,Combos,567.32,False,False,131
+ITEM01089,REST0091,Architect Visionary Models,Combos,66.85,True,True,868
+ITEM01090,REST0016,Deploy Value-Added Web-Readiness,Rice,463.46,True,True,608
+ITEM01091,REST0057,Syndicate Next-Generation Applications,Rice,512.76,True,False,581
+ITEM01092,REST0102,Synergize Granular Mindshare,Starters,202.38,True,False,332
+ITEM01093,REST0025,Embrace Viral Vortals,Combos,168.09,True,False,314
+ITEM01094,REST0022,Syndicate Web-Enabled Vortals,Starters,553.15,True,True,341
+ITEM01095,REST0159,Syndicate Distributed Paradigms,Rice,470.2,True,True,344
+ITEM01096,REST0123,Engage Real-Time Platforms,Beverages,112.36,True,True,119
+ITEM01097,REST0162,Re-Intermediate Extensible Paradigms,Beverages,166.71,True,True,309
+ITEM01098,REST0087,Enhance Viral Roi,Desserts,391.75,True,False,821
+ITEM01099,REST0144,Evolve Customized Schemas,Rice,280.68,True,True,525
+ITEM01100,REST0198,Syndicate World-Class Action-Items,Combos,327.3,True,True,171
+ITEM01101,REST0187,Generate Leading-Edge Bandwidth,Beverages,573.35,False,False,773
+ITEM01102,REST0143,Redefine 24/7 Systems,Desserts,281.13,True,True,277
+ITEM01103,REST0082,Extend Cross-Platform Architectures,Desserts,534.93,True,False,622
+ITEM01104,REST0102,Exploit Frictionless Mindshare,Rice,413.41,True,False,398
+ITEM01105,REST0141,Brand Collaborative Portals,Desserts,116.89,True,False,365
+ITEM01106,REST0024,Cultivate Cutting-Edge Methodologies,Starters,459.48,True,True,619
+ITEM01107,REST0141,Iterate Wireless E-Markets,Starters,336.11,True,True,594
+ITEM01108,REST0193,Incentivize Turn-Key Architectures,Starters,173.8,False,True,374
+ITEM01109,REST0036,Expedite Efficient Eyeballs,Main Course,209.25,False,False,804
+ITEM01110,REST0049,Re-Contextualize Proactive Synergies,Starters,356.53,True,True,870
+ITEM01111,REST0082,Synergize Dynamic Metrics,Combos,380.94,False,True,152
+ITEM01112,REST0048,Monetize 24/7 Relationships,Starters,582.5,False,False,707
+ITEM01113,REST0097,Reinvent Cutting-Edge Technologies,Rice,520.1,True,True,499
+ITEM01114,REST0102,Enhance Integrated Interfaces,Beverages,163.21,True,False,513
+ITEM01115,REST0171,Redefine One-To-One E-Business,Combos,475.7,True,False,703
+ITEM01116,REST0006,Seize Cross-Platform Networks,Beverages,54.56,True,False,755
+ITEM01117,REST0068,Transition Out-Of-The-Box Architectures,Starters,121.39,True,False,588
+ITEM01118,REST0014,Benchmark Leading-Edge Web-Readiness,Starters,159.84,True,True,601
+ITEM01119,REST0030,Productize Cross-Media Roi,Starters,378.46,True,False,406
+ITEM01120,REST0110,Mesh Bleeding-Edge E-Business,Desserts,157.08,False,False,516
+ITEM01121,REST0008,Optimize Rich Initiatives,Rice,250.9,True,True,608
+ITEM01122,REST0182,Deploy Granular Systems,Rice,183.53,True,True,629
+ITEM01123,REST0066,Repurpose Bricks-And-Clicks Bandwidth,Rice,235.58,True,True,737
+ITEM01124,REST0132,Benchmark Interactive Synergies,Beverages,568.35,True,True,765
+ITEM01125,REST0084,Syndicate Integrated Deliverables,Combos,598.56,True,False,105
+ITEM01126,REST0188,Synergize Compelling Eyeballs,Combos,427.15,True,False,521
+ITEM01127,REST0120,Visualize Customized Partnerships,Main Course,364.77,True,False,550
+ITEM01128,REST0053,Strategize Holistic Experiences,Beverages,439.65,True,True,526
+ITEM01129,REST0099,Streamline Distributed Methodologies,Rice,474.41,True,True,489
+ITEM01130,REST0074,E-Enable Open-Source Methodologies,Breads,456.46,True,False,433
+ITEM01131,REST0143,Generate Distributed Channels,Main Course,95.04,True,True,547
+ITEM01132,REST0100,Evolve Front-End Convergence,Starters,220.66,True,False,437
+ITEM01133,REST0129,Iterate Interactive Info-Mediaries,Desserts,238.89,True,False,187
+ITEM01134,REST0150,Drive Visionary Methodologies,Beverages,253.09,True,False,368
+ITEM01135,REST0015,E-Enable One-To-One Convergence,Desserts,239.37,True,True,164
+ITEM01136,REST0022,Innovate Impactful Platforms,Main Course,482.9,True,True,777
+ITEM01137,REST0178,Reinvent World-Class Supply-Chains,Combos,461.18,True,True,163
+ITEM01138,REST0048,Drive Web-Enabled E-Commerce,Breads,52.53,True,True,369
+ITEM01139,REST0117,Extend Value-Added E-Commerce,Main Course,213.01,True,False,756
+ITEM01140,REST0073,Re-Contextualize Revolutionary Info-Mediaries,Beverages,393.02,True,True,476
+ITEM01141,REST0120,Brand Seamless Communities,Rice,116.15,True,True,880
+ITEM01142,REST0179,Disintermediate Magnetic Architectures,Starters,89.16,True,False,428
+ITEM01143,REST0017,Harness Intuitive Supply-Chains,Rice,505.62,True,True,617
+ITEM01144,REST0106,Scale Dot-Com Solutions,Rice,298.98,False,False,732
+ITEM01145,REST0083,Benchmark Innovative Channels,Beverages,520.63,False,True,520
+ITEM01146,REST0104,Envisioneer Revolutionary Communities,Rice,502.95,True,False,412
+ITEM01147,REST0091,Envisioneer Next-Generation Functionalities,Rice,541.35,True,False,408
+ITEM01148,REST0179,Harness Clicks-And-Mortar Deliverables,Beverages,76.55,True,False,743
+ITEM01149,REST0165,Re-Contextualize Magnetic Markets,Beverages,152.37,True,True,288
+ITEM01150,REST0049,Envisioneer Synergistic Action-Items,Breads,212.88,True,True,820
+ITEM01151,REST0059,Cultivate Next-Generation Info-Mediaries,Rice,124.93,True,False,141
+ITEM01152,REST0138,Enhance Ubiquitous Communities,Main Course,317.01,True,False,689
+ITEM01153,REST0030,Harness Back-End Technologies,Combos,489.44,True,False,419
+ITEM01154,REST0085,Envisioneer Mission-Critical Convergence,Starters,573.15,True,True,756
+ITEM01155,REST0021,Incentivize Innovative Methodologies,Desserts,539.27,False,True,544
+ITEM01156,REST0034,Reinvent Cutting-Edge Solutions,Starters,301.54,True,False,473
+ITEM01157,REST0073,Disintermediate Dot-Com Eyeballs,Beverages,400.07,True,True,385
+ITEM01158,REST0098,Matrix Proactive Vortals,Desserts,176.88,True,True,270
+ITEM01159,REST0178,Aggregate B2C Portals,Beverages,271.65,True,True,704
+ITEM01160,REST0076,E-Enable Holistic Communities,Combos,529.15,False,False,362
+ITEM01161,REST0175,Engage 24/365 E-Commerce,Combos,66.06,True,True,634
+ITEM01162,REST0085,Implement Clicks-And-Mortar Content,Breads,343.02,True,True,241
+ITEM01163,REST0084,Seize Plug-And-Play Info-Mediaries,Rice,530.04,True,True,247
+ITEM01164,REST0134,Engage Intuitive Systems,Beverages,117.11,True,True,539
+ITEM01165,REST0178,Synthesize Back-End Channels,Combos,590.4,True,False,727
+ITEM01166,REST0109,Re-Contextualize Leading-Edge Niches,Beverages,56.82,True,True,692
+ITEM01167,REST0063,Productize Magnetic Partnerships,Starters,537.37,True,True,515
+ITEM01168,REST0012,Implement Strategic Mindshare,Rice,244.52,True,False,124
+ITEM01169,REST0169,Integrate Compelling Convergence,Breads,122.98,True,True,726
+ITEM01170,REST0159,Embrace Killer Solutions,Combos,136.55,True,True,193
+ITEM01171,REST0002,Monetize Rich Infrastructures,Beverages,435.65,True,False,404
+ITEM01172,REST0144,Iterate Proactive Channels,Beverages,528.9,True,False,284
+ITEM01173,REST0129,Implement Leading-Edge Schemas,Beverages,402.59,True,True,382
+ITEM01174,REST0132,Morph Efficient Interfaces,Starters,560.8,True,True,254
+ITEM01175,REST0047,Integrate Revolutionary Deliverables,Combos,513.36,True,True,785
+ITEM01176,REST0193,Innovate User-Centric E-Markets,Beverages,54.97,True,False,784
+ITEM01177,REST0052,Drive Impactful Relationships,Beverages,418.19,False,False,765
+ITEM01178,REST0047,Unleash Virtual Platforms,Starters,217.55,True,True,113
+ITEM01179,REST0099,Synergize Best-Of-Breed E-Business,Beverages,299.98,True,False,739
+ITEM01180,REST0050,Strategize Rich Vortals,Rice,101.72,True,True,440
+ITEM01181,REST0045,Incentivize Clicks-And-Mortar Markets,Rice,205.15,True,True,703
+ITEM01182,REST0042,Re-Contextualize Distributed Info-Mediaries,Starters,397.98,True,True,882
+ITEM01183,REST0184,Innovate 24/365 Applications,Rice,170.11,True,True,833
+ITEM01184,REST0071,Synergize Dynamic Experiences,Desserts,406.15,False,False,572
+ITEM01185,REST0057,Generate End-To-End Interfaces,Desserts,557.67,True,False,207
+ITEM01186,REST0033,Envisioneer Killer Users,Desserts,52.72,True,True,430
+ITEM01187,REST0156,Monetize Scalable Schemas,Breads,482.17,True,True,639
+ITEM01188,REST0114,Visualize Visionary Markets,Beverages,402.73,True,False,538
+ITEM01189,REST0044,Whiteboard Scalable Markets,Breads,75.65,True,True,808
+ITEM01190,REST0114,Brand Turn-Key Bandwidth,Rice,484.59,True,True,811
+ITEM01191,REST0056,Engineer Collaborative Action-Items,Starters,173.49,True,False,765
+ITEM01192,REST0044,Incubate Mission-Critical Interfaces,Desserts,196.2,True,True,483
+ITEM01193,REST0096,Target Impactful Systems,Starters,101.43,True,True,681
+ITEM01194,REST0073,Revolutionize Revolutionary Info-Mediaries,Breads,343.91,True,True,259
+ITEM01195,REST0034,Morph Collaborative Mindshare,Rice,324.02,True,True,531
+ITEM01196,REST0014,Engage Customized Communities,Combos,240.95,True,False,495
+ITEM01197,REST0196,Enhance Granular Eyeballs,Beverages,142.81,True,True,714
+ITEM01198,REST0157,Productize Plug-And-Play Communities,Combos,510.87,True,False,587
+ITEM01199,REST0125,Re-Intermediate Robust Deliverables,Rice,532.01,True,True,847
+ITEM01200,REST0079,Cultivate Next-Generation Mindshare,Desserts,347.32,True,False,288
+ITEM01201,REST0145,Deliver Vertical E-Commerce,Rice,184.32,True,True,517
+ITEM01202,REST0083,Seize Rich Solutions,Starters,102.86,True,False,442
+ITEM01203,REST0137,Repurpose Synergistic Vortals,Main Course,527.7,True,False,460
+ITEM01204,REST0027,Visualize Killer Systems,Desserts,102.83,True,False,208
+ITEM01205,REST0177,Incubate Efficient Interfaces,Combos,57.25,True,False,400
+ITEM01206,REST0165,Benchmark Turn-Key Paradigms,Beverages,308.17,True,True,467
+ITEM01207,REST0156,Facilitate One-To-One Infrastructures,Desserts,452.2,True,False,354
+ITEM01208,REST0050,Incubate Transparent Methodologies,Desserts,301.65,True,False,415
+ITEM01209,REST0055,Whiteboard Web-Enabled Methodologies,Beverages,78.28,True,False,804
+ITEM01210,REST0132,Target World-Class Info-Mediaries,Combos,429.52,True,False,170
+ITEM01211,REST0098,Transition Collaborative Action-Items,Desserts,403.28,True,True,368
+ITEM01212,REST0147,Expedite Innovative Action-Items,Starters,424.84,True,True,600
+ITEM01213,REST0037,Engineer Dynamic Web-Readiness,Rice,166.16,True,False,308
+ITEM01214,REST0132,Re-Contextualize Extensible Communities,Starters,487.63,True,False,577
+ITEM01215,REST0037,Synergize Distributed Niches,Rice,313.54,True,True,275
+ITEM01216,REST0179,Orchestrate Efficient Web Services,Main Course,344.99,True,False,338
+ITEM01217,REST0160,Facilitate Integrated Relationships,Desserts,350.21,True,False,709
+ITEM01218,REST0173,Visualize Proactive Experiences,Main Course,207.74,True,False,541
+ITEM01219,REST0112,Facilitate Enterprise Convergence,Breads,187.57,True,True,700
+ITEM01220,REST0012,Brand Synergistic Content,Combos,52.62,True,True,863
+ITEM01221,REST0169,Aggregate Ubiquitous Infrastructures,Rice,268.14,True,True,591
+ITEM01222,REST0056,Visualize Plug-And-Play Initiatives,Starters,316.81,True,False,198
+ITEM01223,REST0080,Evolve Intuitive E-Services,Starters,458.54,True,False,428
+ITEM01224,REST0014,Re-Intermediate Magnetic Web-Readiness,Desserts,86.64,True,False,425
+ITEM01225,REST0054,Engineer Integrated Roi,Starters,558.19,True,False,544
+ITEM01226,REST0191,Innovate Intuitive Deliverables,Breads,195.18,False,False,765
+ITEM01227,REST0065,Engineer Cutting-Edge Architectures,Beverages,251.7,True,False,394
+ITEM01228,REST0116,Innovate Ubiquitous Architectures,Starters,76.6,True,True,541
+ITEM01229,REST0058,Streamline Plug-And-Play Architectures,Desserts,409.23,True,True,894
+ITEM01230,REST0096,Deploy Web-Enabled Interfaces,Main Course,439.91,True,True,130
+ITEM01231,REST0021,Optimize Rich Niches,Combos,560.84,True,True,230
+ITEM01232,REST0004,Aggregate Sticky Schemas,Starters,235.26,True,True,827
+ITEM01233,REST0073,Embrace Vertical Mindshare,Starters,191.55,True,True,626
+ITEM01234,REST0127,Incentivize Granular Technologies,Starters,449.35,True,True,537
+ITEM01235,REST0046,Syndicate Visionary Action-Items,Desserts,438.74,True,True,425
+ITEM01236,REST0012,Reinvent Collaborative Technologies,Combos,565.42,True,True,366
+ITEM01237,REST0128,Engineer Web-Enabled Mindshare,Beverages,162.93,True,False,385
+ITEM01238,REST0030,Optimize Vertical Models,Starters,437.91,True,False,390
+ITEM01239,REST0094,Reinvent Efficient Deliverables,Beverages,86.78,True,False,467
+ITEM01240,REST0060,Unleash Back-End Methodologies,Beverages,314.2,True,False,585
+ITEM01241,REST0100,Iterate Turn-Key Platforms,Combos,115.66,False,False,654
+ITEM01242,REST0071,Enable 24/365 Schemas,Combos,409.23,True,False,267
+ITEM01243,REST0081,Reinvent Cutting-Edge Interfaces,Breads,380.81,True,True,570
+ITEM01244,REST0193,Embrace Cross-Platform E-Business,Main Course,76.86,True,True,866
+ITEM01245,REST0142,Expedite B2B Bandwidth,Starters,225.79,True,True,269
+ITEM01246,REST0111,Redefine Mission-Critical E-Commerce,Starters,267.27,False,False,870
+ITEM01247,REST0044,Synergize Extensible Eyeballs,Starters,186.43,True,True,445
+ITEM01248,REST0108,Scale Back-End Portals,Beverages,71.27,True,True,177
+ITEM01249,REST0102,Deploy Holistic Functionalities,Combos,225.35,True,True,184
+ITEM01250,REST0154,E-Enable Enterprise Deliverables,Rice,485.94,True,False,760
+ITEM01251,REST0091,Transform Cross-Platform Infrastructures,Main Course,248.06,True,False,300
+ITEM01252,REST0109,Synthesize 24/7 Vortals,Desserts,227.85,True,True,688
+ITEM01253,REST0016,Monetize Best-Of-Breed Deliverables,Starters,567.96,True,True,460
+ITEM01254,REST0110,Incubate Scalable Paradigms,Rice,72.9,True,False,861
+ITEM01255,REST0007,Reinvent Magnetic Web-Readiness,Rice,472.01,True,False,664
+ITEM01256,REST0160,Optimize Out-Of-The-Box Channels,Combos,315.7,True,True,401
+ITEM01257,REST0089,Grow User-Centric Paradigms,Rice,569.45,True,False,392
+ITEM01258,REST0095,Matrix Plug-And-Play E-Services,Main Course,266.41,True,True,393
+ITEM01259,REST0016,Unleash Front-End Channels,Rice,439.42,True,True,208
+ITEM01260,REST0105,Whiteboard B2B Schemas,Desserts,88.46,True,True,464
+ITEM01261,REST0122,Reinvent Real-Time Technologies,Starters,560.82,True,False,699
+ITEM01262,REST0089,Matrix Proactive Relationships,Desserts,239.5,True,True,777
+ITEM01263,REST0062,Implement Next-Generation Systems,Starters,338.2,True,True,593
+ITEM01264,REST0030,Strategize End-To-End Systems,Breads,126.16,True,False,366
+ITEM01265,REST0199,Enable Innovative Methodologies,Beverages,570.06,True,False,192
+ITEM01266,REST0140,Monetize Clicks-And-Mortar Eyeballs,Rice,420.13,True,False,784
+ITEM01267,REST0067,Visualize Bleeding-Edge Supply-Chains,Desserts,79.67,True,True,163
+ITEM01268,REST0046,Incentivize Plug-And-Play E-Commerce,Beverages,135.36,False,True,527
+ITEM01269,REST0043,Engage Virtual Systems,Beverages,269.91,True,False,737
+ITEM01270,REST0183,Empower Value-Added Action-Items,Beverages,169.22,True,False,467
+ITEM01271,REST0045,Disintermediate Leading-Edge Eyeballs,Beverages,217.54,True,False,841
+ITEM01272,REST0188,Incubate Viral Technologies,Beverages,598.62,True,False,204
+ITEM01273,REST0199,Innovate Efficient Partnerships,Starters,412.26,True,False,308
+ITEM01274,REST0080,Generate Rich Channels,Main Course,557.22,False,True,673
+ITEM01275,REST0032,Seize Transparent Models,Rice,289.69,True,True,851
+ITEM01276,REST0008,Facilitate Next-Generation Supply-Chains,Rice,440.66,False,True,573
+ITEM01277,REST0113,Innovate Best-Of-Breed Vortals,Starters,302.83,True,True,160
+ITEM01278,REST0062,Unleash Turn-Key Content,Desserts,230.52,True,False,445
+ITEM01279,REST0020,Transition B2C Systems,Starters,335.55,True,True,111
+ITEM01280,REST0146,Aggregate Wireless E-Commerce,Combos,285.02,False,False,565
+ITEM01281,REST0101,Seize Viral Systems,Beverages,589.3,True,False,748
+ITEM01282,REST0006,Evolve Best-Of-Breed Interfaces,Main Course,322.89,False,False,294
+ITEM01283,REST0084,Aggregate Value-Added Interfaces,Rice,496.11,True,False,173
+ITEM01284,REST0108,Integrate Transparent Info-Mediaries,Desserts,416.75,True,False,485
+ITEM01285,REST0157,Leverage Dynamic Metrics,Breads,313.79,True,False,235
+ITEM01286,REST0004,Iterate Distributed Users,Starters,310.78,True,False,654
+ITEM01287,REST0071,Facilitate Back-End Technologies,Breads,238.04,True,False,535
+ITEM01288,REST0171,Transform Wireless Roi,Rice,108.84,True,False,138
+ITEM01289,REST0084,Maximize Interactive E-Commerce,Starters,468.81,False,False,642
+ITEM01290,REST0162,Facilitate Granular Web Services,Rice,554.95,True,True,753
+ITEM01291,REST0100,Optimize Seamless Models,Starters,169.88,False,True,419
+ITEM01292,REST0071,Engage Impactful Info-Mediaries,Desserts,559.12,True,True,655
+ITEM01293,REST0033,Target Real-Time Relationships,Rice,177.77,True,True,799
+ITEM01294,REST0143,Monetize Wireless Networks,Combos,341.54,True,True,452
+ITEM01295,REST0120,Productize Clicks-And-Mortar Action-Items,Breads,238.99,True,False,613
+ITEM01296,REST0168,Productize World-Class Vortals,Main Course,112.98,True,False,582
+ITEM01297,REST0093,Transition Magnetic Paradigms,Desserts,79.06,False,True,515
+ITEM01298,REST0133,Evolve Synergistic Solutions,Combos,250.94,True,False,469
+ITEM01299,REST0178,Redefine Enterprise Content,Desserts,76.04,False,False,442
+ITEM01300,REST0099,Enable Cross-Media Action-Items,Starters,107.31,True,False,424
+ITEM01301,REST0066,Generate User-Centric Methodologies,Breads,128.26,True,False,466
+ITEM01302,REST0054,Mesh Cutting-Edge E-Business,Rice,51.05,True,True,435
+ITEM01303,REST0174,Drive Dot-Com Eyeballs,Breads,134.29,True,True,395
+ITEM01304,REST0080,Incentivize Real-Time Deliverables,Desserts,367.5,True,False,123
+ITEM01305,REST0139,Visualize Distributed Methodologies,Starters,500.74,True,True,541
+ITEM01306,REST0124,Benchmark Customized E-Commerce,Breads,156.39,True,True,203
+ITEM01307,REST0177,Aggregate Cross-Media Interfaces,Combos,94.48,True,False,511
+ITEM01308,REST0151,Revolutionize Extensible Infrastructures,Rice,451.23,True,False,673
+ITEM01309,REST0055,Repurpose Best-Of-Breed Communities,Beverages,54.49,True,True,764
+ITEM01310,REST0005,Orchestrate Rich Relationships,Desserts,453.79,True,True,874
+ITEM01311,REST0192,Strategize Sticky Architectures,Main Course,122.11,True,True,393
+ITEM01312,REST0035,Whiteboard 24/365 Deliverables,Main Course,175.56,True,True,342
+ITEM01313,REST0093,Re-Intermediate Sticky Mindshare,Desserts,116.04,True,False,441
+ITEM01314,REST0119,Redefine Transparent Schemas,Beverages,186.04,True,True,732
+ITEM01315,REST0197,Envisioneer Enterprise Channels,Starters,489.0,True,False,272
+ITEM01316,REST0054,Innovate Collaborative Niches,Breads,122.9,True,False,515
+ITEM01317,REST0003,Integrate B2B Interfaces,Breads,596.79,True,False,202
+ITEM01318,REST0006,Deploy Wireless Interfaces,Beverages,229.9,True,False,259
+ITEM01319,REST0087,Syndicate One-To-One Action-Items,Combos,557.08,False,True,356
+ITEM01320,REST0110,Empower Leading-Edge Networks,Beverages,154.52,False,False,813
+ITEM01321,REST0056,Unleash Strategic Roi,Rice,153.34,True,False,656
+ITEM01322,REST0002,Whiteboard Value-Added Action-Items,Rice,360.93,True,False,675
+ITEM01323,REST0082,Orchestrate Cutting-Edge E-Commerce,Main Course,77.83,True,True,295
+ITEM01324,REST0094,Extend Wireless E-Tailers,Starters,490.55,True,True,490
+ITEM01325,REST0166,Harness Impactful Communities,Starters,291.79,True,True,169
+ITEM01326,REST0184,Seize Bleeding-Edge Interfaces,Combos,434.56,True,False,792
+ITEM01327,REST0005,Repurpose Collaborative Technologies,Beverages,146.05,True,False,346
+ITEM01328,REST0174,Engage Rich Convergence,Main Course,403.3,True,False,428
+ITEM01329,REST0139,E-Enable Global Vortals,Main Course,376.74,True,False,257
+ITEM01330,REST0193,Incentivize Killer Synergies,Rice,465.61,True,True,797
+ITEM01331,REST0138,Monetize E-Business Web-Readiness,Breads,213.57,True,False,842
+ITEM01332,REST0041,Target Integrated Mindshare,Combos,563.24,False,True,684
+ITEM01333,REST0116,Empower Impactful Supply-Chains,Starters,578.72,True,True,154
+ITEM01334,REST0044,Whiteboard Mission-Critical Metrics,Combos,527.47,True,False,585
+ITEM01335,REST0090,Harness B2B Paradigms,Main Course,364.62,True,True,342
+ITEM01336,REST0033,Unleash Back-End Users,Rice,281.16,True,True,452
+ITEM01337,REST0056,Visualize Innovative Portals,Rice,81.9,True,False,509
+ITEM01338,REST0140,Cultivate Extensible Architectures,Rice,570.98,True,False,826
+ITEM01339,REST0002,Brand Bleeding-Edge Networks,Combos,573.48,True,True,114
+ITEM01340,REST0001,Syndicate Sticky Portals,Breads,60.28,True,True,246
+ITEM01341,REST0193,Deploy Open-Source Applications,Main Course,246.29,True,True,589
+ITEM01342,REST0121,Embrace Transparent Roi,Beverages,534.02,False,False,755
+ITEM01343,REST0125,Cultivate Open-Source Convergence,Beverages,94.47,True,True,124
+ITEM01344,REST0033,Productize Virtual Users,Rice,158.11,True,True,710
+ITEM01345,REST0103,Transform Cutting-Edge Solutions,Rice,588.27,True,True,790
+ITEM01346,REST0036,Orchestrate Back-End Technologies,Breads,516.01,True,True,432
+ITEM01347,REST0149,Whiteboard Frictionless Niches,Rice,551.63,False,True,273
+ITEM01348,REST0084,Utilize Proactive Niches,Desserts,128.18,True,True,874
+ITEM01349,REST0164,Implement Value-Added Initiatives,Main Course,166.22,True,True,389
+ITEM01350,REST0026,Transform Synergistic Platforms,Rice,382.98,True,True,669
+ITEM01351,REST0175,Iterate Back-End Action-Items,Rice,325.96,False,False,890
+ITEM01352,REST0129,Drive Front-End E-Business,Main Course,214.18,True,False,244
+ITEM01353,REST0166,Engineer Extensible Methodologies,Starters,536.12,True,True,221
+ITEM01354,REST0142,Redefine Dynamic Channels,Desserts,545.76,True,False,126
+ITEM01355,REST0090,Re-Intermediate Intuitive Experiences,Desserts,210.43,True,False,165
+ITEM01356,REST0046,Strategize 24/365 Channels,Beverages,135.66,True,True,200
+ITEM01357,REST0042,Productize Viral Markets,Rice,132.0,True,True,487
+ITEM01358,REST0135,Engineer Magnetic Platforms,Main Course,316.43,True,False,193
+ITEM01359,REST0055,Whiteboard Sticky Interfaces,Beverages,123.11,True,True,166
+ITEM01360,REST0056,Brand Proactive Users,Combos,310.34,True,False,349
+ITEM01361,REST0118,Extend Revolutionary Communities,Combos,304.06,True,True,241
+ITEM01362,REST0076,Revolutionize Virtual Architectures,Breads,536.26,True,True,366
+ITEM01363,REST0063,Monetize E-Business Markets,Combos,212.92,False,False,651
+ITEM01364,REST0152,Re-Intermediate Real-Time Web Services,Combos,358.36,True,False,314
+ITEM01365,REST0083,Innovate World-Class Eyeballs,Starters,458.92,True,False,588
+ITEM01366,REST0099,Morph Global Vortals,Rice,377.75,True,False,595
+ITEM01367,REST0132,Syndicate Front-End E-Tailers,Starters,574.74,True,True,579
+ITEM01368,REST0042,Optimize Collaborative Initiatives,Rice,381.25,True,False,742
+ITEM01369,REST0096,Matrix B2B Bandwidth,Rice,546.02,True,False,589
+ITEM01370,REST0110,Seize Front-End Channels,Rice,184.78,True,False,100
+ITEM01371,REST0070,Unleash B2C Solutions,Starters,358.41,True,True,108
+ITEM01372,REST0028,Architect Extensible Partnerships,Desserts,348.82,True,True,479
+ITEM01373,REST0126,Re-Contextualize Leading-Edge Info-Mediaries,Breads,594.2,True,False,243
+ITEM01374,REST0092,Incubate Transparent Eyeballs,Desserts,162.48,True,False,401
+ITEM01375,REST0040,Re-Contextualize Visionary Content,Main Course,127.55,True,True,749
+ITEM01376,REST0179,Transform Cross-Platform Markets,Main Course,386.42,True,True,516
+ITEM01377,REST0157,Utilize Magnetic Platforms,Combos,173.03,True,False,278
+ITEM01378,REST0042,E-Enable Customized Synergies,Desserts,401.54,True,True,377
+ITEM01379,REST0118,Re-Intermediate Seamless E-Tailers,Breads,584.87,True,True,243
+ITEM01380,REST0197,Harness Ubiquitous Initiatives,Combos,570.58,True,False,438
+ITEM01381,REST0005,Re-Contextualize B2B Schemas,Breads,177.11,True,False,558
+ITEM01382,REST0101,Seize Sticky Paradigms,Rice,143.99,True,True,801
+ITEM01383,REST0169,Integrate Strategic Content,Rice,358.41,True,False,430
+ITEM01384,REST0061,Orchestrate Granular Markets,Main Course,372.73,True,False,369
+ITEM01385,REST0183,Engineer Interactive Users,Rice,414.24,True,False,286
+ITEM01386,REST0156,Embrace Enterprise E-Business,Combos,457.82,True,True,765
+ITEM01387,REST0041,Extend Virtual Web-Readiness,Rice,380.53,True,True,271
+ITEM01388,REST0111,Disintermediate Strategic Functionalities,Breads,111.46,True,True,503
+ITEM01389,REST0009,Engineer Distributed Technologies,Starters,484.59,True,True,567
+ITEM01390,REST0157,Cultivate Dot-Com Platforms,Desserts,93.73,True,True,346
+ITEM01391,REST0166,Seize Back-End Infrastructures,Beverages,61.0,True,True,622
+ITEM01392,REST0062,Incentivize Dot-Com Web-Readiness,Beverages,473.31,True,True,658
+ITEM01393,REST0054,Optimize Clicks-And-Mortar Web Services,Rice,351.6,True,True,877
+ITEM01394,REST0180,Drive Seamless Web Services,Rice,434.23,True,True,210
+ITEM01395,REST0104,Harness 24/365 E-Services,Desserts,260.51,True,True,402
+ITEM01396,REST0126,Integrate Impactful Interfaces,Beverages,56.1,True,False,572
+ITEM01397,REST0034,Incentivize Back-End Systems,Breads,232.06,True,True,890
+ITEM01398,REST0165,Iterate Customized Deliverables,Beverages,384.47,True,True,391
+ITEM01399,REST0177,Transform Best-Of-Breed Paradigms,Beverages,174.14,True,True,351
+ITEM01400,REST0042,Maximize Vertical Infrastructures,Combos,428.29,True,False,687
+ITEM01401,REST0014,Innovate B2B Architectures,Beverages,486.92,True,True,274
+ITEM01402,REST0033,Enable Sticky Partnerships,Rice,299.85,True,False,208
+ITEM01403,REST0118,Integrate Proactive Info-Mediaries,Combos,531.65,True,False,439
+ITEM01404,REST0098,Deliver Global Web Services,Rice,520.15,True,True,113
+ITEM01405,REST0092,Whiteboard Synergistic Architectures,Desserts,532.93,True,True,792
+ITEM01406,REST0100,Leverage Ubiquitous Synergies,Beverages,413.57,True,False,421
+ITEM01407,REST0087,Strategize Rich E-Markets,Rice,217.63,True,True,883
+ITEM01408,REST0145,Architect Open-Source Platforms,Desserts,314.69,True,True,142
+ITEM01409,REST0124,Iterate Enterprise E-Tailers,Beverages,440.78,True,True,560
+ITEM01410,REST0032,Matrix End-To-End E-Markets,Breads,165.81,True,False,201
+ITEM01411,REST0101,Transition Frictionless Models,Rice,456.36,True,True,724
+ITEM01412,REST0196,Harness End-To-End Portals,Starters,351.45,True,True,804
+ITEM01413,REST0039,Re-Intermediate B2C Applications,Desserts,102.81,True,True,108
+ITEM01414,REST0094,Disintermediate Dynamic Paradigms,Rice,356.51,True,False,248
+ITEM01415,REST0010,Deliver Proactive Functionalities,Breads,86.73,True,False,437
+ITEM01416,REST0152,Whiteboard Best-Of-Breed Schemas,Breads,57.87,True,True,323
+ITEM01417,REST0100,E-Enable Back-End Web-Readiness,Rice,539.3,True,False,209
+ITEM01418,REST0058,Incentivize Value-Added Models,Main Course,319.45,True,True,453
+ITEM01419,REST0197,E-Enable Mission-Critical Metrics,Desserts,348.81,True,False,183
+ITEM01420,REST0101,Strategize Ubiquitous E-Tailers,Beverages,203.97,False,True,654
+ITEM01421,REST0064,Implement 24/365 Eyeballs,Beverages,348.51,True,False,165
+ITEM01422,REST0019,Incubate Value-Added Infrastructures,Breads,142.88,True,False,487
+ITEM01423,REST0101,Iterate Interactive Portals,Rice,460.11,True,False,720
+ITEM01424,REST0117,Scale Interactive Niches,Main Course,502.84,True,True,713
+ITEM01425,REST0136,Orchestrate Front-End Vortals,Desserts,520.73,True,False,234
+ITEM01426,REST0071,Redefine Web-Enabled Architectures,Starters,108.66,True,True,185
+ITEM01427,REST0040,Revolutionize Front-End Info-Mediaries,Beverages,356.76,True,False,183
+ITEM01428,REST0013,Target Innovative Platforms,Combos,494.81,True,True,326
+ITEM01429,REST0101,Re-Intermediate Viral Communities,Desserts,120.52,True,False,359
+ITEM01430,REST0124,Syndicate Bleeding-Edge Architectures,Desserts,104.74,True,True,119
+ITEM01431,REST0155,Benchmark Bricks-And-Clicks Communities,Main Course,499.32,True,True,134
+ITEM01432,REST0082,Re-Contextualize Mission-Critical Systems,Desserts,488.2,True,True,854
+ITEM01433,REST0088,Harness Visionary Methodologies,Beverages,296.78,True,True,542
+ITEM01434,REST0105,Re-Intermediate World-Class Roi,Rice,110.34,True,True,369
+ITEM01435,REST0130,Facilitate Holistic E-Markets,Beverages,333.87,True,True,834
+ITEM01436,REST0016,Optimize Dot-Com Infrastructures,Starters,267.14,True,True,505
+ITEM01437,REST0014,Integrate Transparent Applications,Rice,335.2,True,False,607
+ITEM01438,REST0128,Repurpose Ubiquitous Experiences,Breads,291.94,True,True,403
+ITEM01439,REST0145,Synthesize Robust Methodologies,Main Course,362.68,True,False,769
+ITEM01440,REST0060,Synergize Out-Of-The-Box Bandwidth,Beverages,449.92,True,False,384
+ITEM01441,REST0198,Monetize Frictionless Roi,Rice,476.17,True,False,647
+ITEM01442,REST0017,Incubate Efficient Models,Desserts,406.94,True,True,128
+ITEM01443,REST0045,Incubate Impactful Action-Items,Rice,159.42,True,True,490
+ITEM01444,REST0038,Leverage Bricks-And-Clicks Functionalities,Beverages,268.42,True,False,515
+ITEM01445,REST0124,Cultivate Impactful Bandwidth,Breads,89.17,True,False,866
+ITEM01446,REST0104,Iterate Magnetic Niches,Beverages,298.42,True,False,241
+ITEM01447,REST0064,Monetize One-To-One Action-Items,Breads,583.69,False,False,745
+ITEM01448,REST0121,Benchmark Bleeding-Edge Mindshare,Desserts,402.95,True,False,755
+ITEM01449,REST0006,Innovate Seamless E-Business,Beverages,135.04,True,True,440
+ITEM01450,REST0188,Mesh Granular Deliverables,Rice,197.72,True,False,344
+ITEM01451,REST0112,Transform Back-End Initiatives,Starters,85.52,True,False,865
+ITEM01452,REST0102,Innovate Ubiquitous Interfaces,Starters,150.33,False,True,104
+ITEM01453,REST0049,Cultivate Collaborative E-Services,Desserts,318.31,True,True,548
+ITEM01454,REST0021,Transform Clicks-And-Mortar Initiatives,Combos,239.67,True,False,365
+ITEM01455,REST0023,Generate Sticky Architectures,Combos,162.18,True,False,590
+ITEM01456,REST0076,Grow Integrated Synergies,Rice,130.63,True,False,338
+ITEM01457,REST0185,Expedite Granular E-Business,Starters,410.84,True,True,349
+ITEM01458,REST0064,Iterate Cross-Platform Methodologies,Desserts,356.96,True,False,390
+ITEM01459,REST0157,Matrix Efficient Technologies,Breads,513.45,True,False,642
+ITEM01460,REST0027,Reinvent Ubiquitous E-Tailers,Rice,150.79,True,False,731
+ITEM01461,REST0134,Re-Contextualize Bleeding-Edge Web Services,Combos,516.39,True,True,178
+ITEM01462,REST0149,Maximize Compelling Experiences,Breads,367.85,False,True,620
+ITEM01463,REST0071,Maximize Global Users,Rice,196.42,True,False,549
+ITEM01464,REST0107,Enable Customized Architectures,Breads,200.45,True,True,655
+ITEM01465,REST0169,Deliver B2C Portals,Breads,264.71,True,False,833
+ITEM01466,REST0133,Redefine Strategic Web Services,Starters,303.07,True,True,243
+ITEM01467,REST0143,Target End-To-End Markets,Rice,95.38,True,False,219
+ITEM01468,REST0149,Target Integrated Networks,Beverages,513.1,True,True,664
+ITEM01469,REST0058,Evolve Virtual Bandwidth,Starters,116.85,True,True,676
+ITEM01470,REST0132,Syndicate Innovative E-Services,Breads,315.9,True,False,275
+ITEM01471,REST0197,Scale Robust Technologies,Breads,260.63,True,True,169
+ITEM01472,REST0135,Incentivize Leading-Edge Infrastructures,Combos,331.76,True,False,732
+ITEM01473,REST0035,Syndicate Best-Of-Breed Niches,Beverages,538.12,True,True,302
+ITEM01474,REST0164,Innovate Web-Enabled Functionalities,Combos,594.0,True,False,279
+ITEM01475,REST0121,Incubate Frictionless Deliverables,Beverages,61.15,True,True,692
+ITEM01476,REST0143,Orchestrate Bricks-And-Clicks Relationships,Breads,266.28,True,True,666
+ITEM01477,REST0130,Morph Cross-Platform Action-Items,Beverages,499.69,True,True,790
+ITEM01478,REST0120,Exploit Synergistic Web-Readiness,Main Course,229.63,True,False,709
+ITEM01479,REST0185,Streamline 24/365 Technologies,Combos,406.97,True,True,209
+ITEM01480,REST0005,Facilitate End-To-End Metrics,Combos,595.74,True,True,523
+ITEM01481,REST0071,Extend E-Business Web-Readiness,Starters,405.72,True,False,764
+ITEM01482,REST0086,Synthesize User-Centric Systems,Rice,111.16,True,True,602
+ITEM01483,REST0095,Orchestrate Plug-And-Play E-Business,Combos,513.61,True,False,505
+ITEM01484,REST0160,Brand Viral Users,Beverages,581.66,True,False,736
+ITEM01485,REST0200,Optimize Bleeding-Edge Web-Readiness,Beverages,441.88,True,True,190
+ITEM01486,REST0041,Extend Bricks-And-Clicks Paradigms,Main Course,280.49,True,True,393
+ITEM01487,REST0170,Scale Plug-And-Play Deliverables,Rice,571.62,True,False,492
+ITEM01488,REST0075,Maximize Cross-Platform Schemas,Main Course,582.71,True,True,136
+ITEM01489,REST0193,Visualize Proactive Web Services,Rice,564.31,True,True,616
+ITEM01490,REST0168,Redefine Holistic Initiatives,Combos,276.5,True,False,761
+ITEM01491,REST0083,Facilitate Efficient Solutions,Combos,484.34,True,True,415
+ITEM01492,REST0038,Integrate Global Content,Starters,409.8,True,True,271
+ITEM01493,REST0042,Synergize 24/7 Functionalities,Beverages,148.84,True,True,505
+ITEM01494,REST0165,Syndicate Magnetic Schemas,Starters,344.53,True,False,361
+ITEM01495,REST0056,Maximize Cross-Media Architectures,Rice,461.23,True,False,583
+ITEM01496,REST0071,Harness Innovative Eyeballs,Beverages,542.75,True,False,126
+ITEM01497,REST0055,Evolve Bricks-And-Clicks Mindshare,Combos,524.43,True,False,594
+ITEM01498,REST0182,Incubate Mission-Critical Models,Main Course,135.06,True,True,154
+ITEM01499,REST0022,Maximize Wireless Methodologies,Combos,318.42,True,True,348
+ITEM01500,REST0027,Benchmark Magnetic Solutions,Combos,313.05,True,True,372
