@@ -89,10 +89,6 @@ services:
         airflow webserver
       "
 
-volumes:
-  postgres_data:
-  airflow_db_data:
-
   # ── Metabase (BI Dashboard) ───────────────────────────────
   metabase:
     image: metabase/metabase:v0.50.14
@@ -130,5 +126,7 @@ volumes:
       retries: 5
 
 volumes:
+  postgres_data:
+  airflow_db_data:
   metabase_data:
   metabase_db_data:

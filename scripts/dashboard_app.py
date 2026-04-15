@@ -25,11 +25,153 @@ load_dotenv()
 
 # ── PAGE CONFIG ──────────────────────────────────────────────
 st.set_page_config(
-    page_title="FoodFlow Analytics Dashboard",
-    page_icon="🍔",
+    page_title="FoodFlow Analytics",
+    page_icon=":bar_chart:",
     layout="wide",
     initial_sidebar_state="expanded",
 )
+
+# ── NORD THEME CSS ──────────────────────────────────────────
+st.markdown("""
+<style>
+    /* Nord Palette Reference */
+    /* Polar Night:  nord0=#2e3440 nord1=#3b4252 nord2=#434c5e nord3=#4c566a */
+    /* Snow Storm:   nord4=#d8dee9 nord5=#e5e9f0 nord6=#eceff4 */
+    /* Frost:        nord7=#8fbcbb nord8=#88c0d0 nord9=#81a1c1 nord10=#5e81ac */
+    /* Aurora:       nord11=#bf616a nord12=#d08770 nord13=#ebcb8b nord14=#a3be8c nord15=#b48ead */
+
+    /* Hide Streamlit branding */
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+
+    /* Main content area */
+    .main .block-container {
+        background-color: #eceff4;
+        padding-top: 1.5rem;
+        padding-bottom: 3rem;
+    }
+
+    /* Sidebar - dark polar night */
+    section[data-testid="stSidebar"] {
+        background-color: #2e3440;
+        border-right: 1px solid #434c5e;
+    }
+    section[data-testid="stSidebar"] * {
+        color: #d8dee9 !important;
+    }
+    section[data-testid="stSidebar"] h1 {
+        color: #e5e9f0 !important;
+        font-size: 1.25rem;
+        font-weight: 600;
+    }
+    section[data-testid="stSidebar"] p,
+    section[data-testid="stSidebar"] label,
+    section[data-testid="stSidebar"] div {
+        color: #d8dee9 !important;
+    }
+    section[data-testid="stSidebar"] .stRadio > label {
+        color: #d8dee9 !important;
+        font-size: 0.875rem;
+    }
+    section[data-testid="stSidebar"] .stRadio > div[role="radiogroup"] > label {
+        color: #d8dee9 !important;
+    }
+    section[data-testid="stSidebar"] .stRadio > div[role="radiogroup"] > label:hover {
+        color: #88c0d0 !important;
+        background-color: #3b4252;
+    }
+    section[data-testid="stSidebar"] .stRadio > div[role="radiogroup"] > label[data-baseweb="radio"][aria-checked="true"] {
+        color: #88c0d0 !important;
+        font-weight: 500;
+    }
+    section[data-testid="stSidebar"] hr {
+        border-color: #4c566a;
+    }
+
+    /* Title */
+    h1 {
+        color: #2e3440 !important;
+        font-size: 2rem;
+        font-weight: 700;
+        margin-bottom: 0.5rem;
+        letter-spacing: -0.02em;
+    }
+
+    /* Subheading - nord10 frost blue */
+    h2 {
+        color: #5e81ac !important;
+        font-size: 1.375rem;
+        font-weight: 600;
+        margin-top: 2rem;
+        margin-bottom: 0.5rem;
+        padding-bottom: 0.25rem;
+        border-bottom: 2px solid #88c0d0;
+    }
+
+    /* Sub-subheading - nord9 */
+    h3 {
+        color: #81a1c1 !important;
+        font-size: 1.125rem;
+        font-weight: 600;
+        margin-top: 1.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    /* Horizontal rules */
+    hr {
+        border: none;
+        height: 1px;
+        background: linear-gradient(90deg, transparent, #4c566a, transparent);
+        margin: 1.5rem 0;
+    }
+
+    /* Metric cards */
+    div[data-testid="stMetric"] {
+        background-color: #e5e9f0;
+        border: 1px solid #d8dee9;
+        border-radius: 6px;
+        padding: 1rem;
+    }
+    div[data-testid="stMetric"] p {
+        color: #4c566a !important;
+        font-size: 0.75rem !important;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        font-weight: 600;
+    }
+    div[data-testid="stMetric"] [data-testid="stMetricValue"] {
+        color: #2e3440 !important;
+        font-size: 1.75rem !important;
+        font-weight: 700;
+    }
+    div[data-testid="stMetric"] [data-testid="stMetricDelta"] {
+        color: #5e81ac !important;
+    }
+
+    /* Markdown text */
+    .stMarkdown p {
+        color: #3b4252;
+        font-size: 0.9rem;
+        line-height: 1.6;
+    }
+    .stMarkdown strong {
+        color: #2e3440;
+        font-weight: 600;
+    }
+
+    /* Dataframe */
+    .stDataFrame {
+        border: 1px solid #d8dee9;
+        border-radius: 6px;
+    }
+
+    /* Sidebar captions */
+    [data-testid="stCaption"] {
+        color: #4c566a !important;
+        font-size: 0.75rem;
+    }
+</style>
+""", unsafe_allow_html=True)
 
 # ── DB CONNECTION ────────────────────────────────────────────
 @st.cache_resource
@@ -38,7 +180,7 @@ def get_engine():
         f"postgresql+psycopg2://{os.getenv('DB_USER', 'dw_user')}:"
         f"{os.getenv('DB_PASS', 'secret')}@"
         f"{os.getenv('DB_HOST', 'localhost')}:"
-        f"{os.getenv('DB_PORT', '5433')}/"
+        f"{os.getenv('DB_PORT', '5432')}/"
         f"{os.getenv('DB_NAME', 'foodflow_dw')}"
     )
     return create_engine(url)
@@ -52,19 +194,20 @@ def query(sql: str) -> pd.DataFrame:
 
 
 # ── SIDEBAR ──────────────────────────────────────────────────
-st.sidebar.title("🍔 FoodFlow Analytics")
+st.sidebar.markdown("### FoodFlow Analytics")
 st.sidebar.markdown("---")
 
 nav = st.sidebar.radio(
     "Navigate",
-    ["📊 Overview", "💰 Revenue", "🏆 Restaurants", "👥 Customers",
-     "🍔 Menu Items", "❌ Cancellations", "⏰ Demand Patterns",
-     "🚴 Delivery Agents", "📈 RFM Segmentation", "🔮 ML Forecast"],
+    ["Overview", "Revenue", "Restaurants", "Customers",
+     "Menu Items", "Cancellations", "Demand Patterns",
+     "Delivery Agents", "RFM Segmentation", "ML Forecast"],
+    label_visibility="collapsed"
 )
 
 st.sidebar.markdown("---")
-st.sidebar.caption("Data Warehouse: PostgreSQL 15")
-st.sidebar.caption("ETL: Airflow Daily Pipeline")
+st.sidebar.markdown("<p style='color:#4c566a;font-size:0.75rem;margin:0;'>Data Warehouse: PostgreSQL 15</p>", unsafe_allow_html=True)
+st.sidebar.markdown("<p style='color:#4c566a;font-size:0.75rem;margin:0.25rem 0 0 0;'>ETL: Airflow Daily Pipeline</p>", unsafe_allow_html=True)
 
 # ── TOP METRICS (always visible) ────────────────────────────
 def show_kpi_strip():
@@ -96,8 +239,16 @@ def show_kpi_strip():
 
 # ── PAGE: OVERVIEW ───────────────────────────────────────────
 def page_overview():
-    st.title("📊 FoodFlow Analytics — Dashboard")
-    st.markdown("Food delivery data warehouse with **80K+ orders**, **5 dimensions**, **2 fact tables**, and **ML forecasting**.")
+    st.title("FoodFlow Analytics Dashboard")
+    st.markdown("""
+    **About This Dashboard**: This dashboard provides a comprehensive view of FoodFlow's delivery operations, 
+    tracking over 80,000 orders across 200 restaurants and 5,000 customers. It combines data from 8 dimension 
+    tables and 2 fact tables to reveal patterns in revenue, customer behavior, and operational efficiency.
+    
+    **What to Look For**: Start with the order status distribution to understand fulfillment rates, then examine 
+    the monthly revenue trend to identify growth patterns. The platform split reveals which ordering channels 
+    drive the most business.
+    """)
     show_kpi_strip()
 
     st.markdown("---")
@@ -106,13 +257,21 @@ def page_overview():
 
     with col1:
         st.subheader("Order Status Distribution")
+        st.markdown("""
+        **What This Shows**: Breakdown of all orders by their final status — whether they were successfully 
+        delivered, cancelled by the customer or restaurant, or refunded. This is the most fundamental metric 
+        for understanding operational efficiency.
+        
+        **Key Insight**: A high delivery rate (>85%) indicates healthy operations. Look at the cancelled 
+        percentage — if it's above 10%, there may be systemic issues in those restaurants or customer segments.
+        """)
         status_data = query("""
             SELECT status, COUNT(*) AS orders
             FROM fact_orders GROUP BY status
         """)
         fig = px.pie(
             status_data, values="orders", names="status",
-            color_discrete_sequence=px.colors.qualitative.Set2,
+            color_discrete_sequence=["#88c0d0", "#a3be8c", "#ebcb8b", "#bf616a", "#81a1c1"],
             hole=0.4,
         )
         fig.update_traces(textposition="inside", textinfo="percent+label")
@@ -120,6 +279,14 @@ def page_overview():
 
     with col2:
         st.subheader("Platform Split")
+        st.markdown("""
+        **What This Shows**: Distribution of orders across different ordering platforms (web, iOS, Android) 
+        along with the revenue each platform generates. This helps identify which channels are most valuable 
+        for customer acquisition and retention.
+        
+        **Key Insight**: If one platform dominates, consider whether you're under-investing in others. A 
+        healthy multi-platform strategy reduces dependency risk and captures different user demographics.
+        """)
         platform_data = query("""
             SELECT platform, COUNT(*) AS orders,
                    ROUND(SUM(net_total)::numeric, 2) AS revenue
@@ -129,12 +296,21 @@ def page_overview():
         fig = px.bar(
             platform_data, x="platform", y="orders",
             color="platform", text_auto=",",
-            color_discrete_sequence=px.colors.qualitative.Bold,
+            color_discrete_sequence=["#81a1c1", "#88c0d0", "#8fbcbb"],
         )
         fig.update_layout(showlegend=False, yaxis_title="Orders")
         st.plotly_chart(fig, use_container_width=True)
 
     st.subheader("Monthly Revenue Trend")
+    st.markdown("""
+    **What This Shows**: Total revenue from delivered orders over time (line chart, left axis) overlaid with 
+    the number of orders per month (bar chart, right axis). The dual-axis view lets you see whether revenue 
+    growth is driven by more orders or higher average order values.
+    
+    **Key Insight**: If revenue increases but order count stays flat, growth is coming from larger orders 
+    (possibly good). If both rise, you have healthy volume-driven growth. Watch for seasonal dips — they 
+    often correlate with holidays or economic events.
+    """)
     revenue = query("""
         SELECT
             d.year, d.month, d.month_name,
@@ -152,13 +328,13 @@ def page_overview():
     fig.add_trace(go.Scatter(
         x=revenue["date_str"], y=revenue["net_revenue"],
         mode="lines+markers", name="Revenue",
-        line=dict(color="#1f77b4", width=2),
-        fill="tozeroy", fillcolor="rgba(31,119,180,0.1)",
+        line=dict(color="#5e81ac", width=2.5),
+        fill="tozeroy", fillcolor="rgba(94,129,172,0.08)",
     ))
     fig.add_trace(go.Bar(
         x=revenue["date_str"], y=revenue["orders"],
         name="Orders", yaxis="y2",
-        marker_color="rgba(255,165,0,0.6)",
+        marker_color="rgba(136,192,208,0.45)",
     ))
     fig.update_layout(
         yaxis_title="Revenue (₹)",
@@ -182,10 +358,26 @@ def page_overview():
 
 # ── PAGE: REVENUE ────────────────────────────────────────────
 def page_revenue():
-    st.title("💰 Revenue Analytics")
+    st.title("Revenue Analytics")
+    st.markdown("""
+    **About This Analysis**: Revenue is the most critical business metric. This page breaks down monthly 
+    revenue trends and calculates month-over-month (MoM) growth rates to identify acceleration or deceleration 
+    patterns.
+    
+    **What to Look For**: The revenue line shows your top-line trajectory. The MoM growth bar chart reveals 
+    whether growth is speeding up or slowing down. Green bars = positive growth, red bars = contraction. 
+    Consistent positive MoM growth indicates a healthy, scaling business.
+    """)
     show_kpi_strip()
 
     st.subheader("Monthly Revenue Trend with MoM Growth")
+    st.markdown("""
+    **Left Chart**: Monthly revenue over the entire dataset period. The line shows absolute revenue, helping 
+    you identify the overall trend direction and any seasonal patterns.
+    
+    **Right Chart**: Month-over-month growth rate as a percentage. This is more sensitive than absolute revenue 
+    for spotting turning points. A sequence of declining green bars often precedes a revenue dip.
+    """)
     revenue = query("""
         WITH monthly AS (
             SELECT
@@ -215,7 +407,7 @@ def page_revenue():
             revenue, x="date_str", y="net_revenue",
             markers=True, labels={"net_revenue": "Revenue (₹)", "date_str": "Month"},
         )
-        fig.update_traces(line_color="#2ecc71", line_width=2, marker_size=6)
+        fig.update_traces(line_color="#a3be8c", line_width=2.5, marker_size=6)
         st.plotly_chart(fig, use_container_width=True)
 
     with col2:
@@ -224,7 +416,7 @@ def page_revenue():
             x="date_str", y="mom_growth_pct",
             labels={"mom_growth_pct": "MoM Growth (%)", "date_str": "Month"},
             color="mom_growth_pct",
-            color_continuous_scale="RdYlGn",
+            color_continuous_scale=[[0, "#bf616a"], [0.5, "#d8dee9"], [1, "#a3be8c"]],
         )
         st.plotly_chart(fig, use_container_width=True)
 
@@ -233,10 +425,27 @@ def page_revenue():
 
 # ── PAGE: RESTAURANTS ────────────────────────────────────────
 def page_restaurants():
-    st.title("🏆 Restaurant Analytics")
+    st.title("Restaurant Analytics")
+    st.markdown("""
+    **About This Analysis**: Restaurants are the core supply-side of the platform. This page ranks restaurants 
+    by revenue and provides operational context — delivery times, order volumes, and success rates.
+    
+    **What to Look For**: The top 10 restaurants by revenue may not be the most efficient. Compare delivery 
+    success rates and average order values — a restaurant with fewer orders but higher values and faster 
+    delivery is often more profitable than a high-volume, low-margin one.
+    """)
     show_kpi_strip()
 
     st.subheader("Top 10 Restaurants by Revenue")
+    st.markdown("""
+    **What This Shows**: The highest-grossing restaurants ranked by total revenue. Hover over each bar to 
+    see the restaurant's rating, delivery success rate, and total order count. City coloring helps you spot 
+    geographic concentration.
+    
+    **Key Insight**: If one city dominates the top 10, your business may be geographically concentrated — 
+    which is a risk if that market becomes competitive. Look for restaurants with high ratings AND high 
+    delivery success rates — those are your sustainable performers.
+    """)
     restaurants = query("""
         SELECT
             r.restaurant_id,
@@ -262,6 +471,7 @@ def page_restaurants():
         color="city", text_auto=".2s",
         hover_data=["rating", "delivery_success_rate", "total_orders"],
         labels={"net_revenue": "Revenue (₹)", "restaurant_name": "Restaurant"},
+        color_discrete_sequence=["#88c0d0", "#81a1c1", "#5e81ac", "#a3be8c", "#ebcb8b", "#d08770", "#bf616a", "#b48ead", "#8fbcbb"],
     )
     fig.update_layout(xaxis_tickangle=-45)
     st.plotly_chart(fig, use_container_width=True)
@@ -271,13 +481,30 @@ def page_restaurants():
 
 # ── PAGE: CUSTOMERS ──────────────────────────────────────────
 def page_customers():
-    st.title("👥 Customer Analytics")
+    st.title("Customer Analytics")
+    st.markdown("""
+    **About This Analysis**: Understanding customer behavior is essential for retention and growth. This page 
+    shows customer segment distribution and Customer Lifetime Value (CLV) — the total revenue a customer 
+    generates over their relationship with the platform.
+    
+    **What to Look For**: The segment pie chart reveals your customer base composition. A healthy platform 
+    has a mix of new customers (growth), loyal customers (stability), and champions (advocates). The CLV 
+    chart shows who your most valuable customers are — and what segment they belong to.
+    """)
     show_kpi_strip()
 
     col1, col2 = st.columns(2)
 
     with col1:
         st.subheader("Customer Segments")
+        st.markdown("""
+        **What This Shows**: Distribution of customers across predefined segments based on behavior patterns 
+        — frequency of orders, recency of last order, and total spending. Each segment requires a different 
+        marketing strategy.
+        
+        **Key Insight**: If "Lost" or "At-Risk" segments are growing, you need re-engagement campaigns. If 
+        "New Customers" is the largest segment, you're acquiring but not retaining — which is unsustainable.
+        """)
         segments = query("""
             SELECT customer_segment, COUNT(*) AS cnt
             FROM dim_customer
@@ -286,7 +513,7 @@ def page_customers():
         """)
         fig = px.pie(
             segments, values="cnt", names="customer_segment",
-            color_discrete_sequence=px.colors.qualitative.Pastel,
+            color_discrete_sequence=["#88c0d0", "#81a1c1", "#5e81ac", "#a3be8c", "#ebcb8b", "#d08770", "#bf616a", "#b48ead", "#8fbcbb"],
             hole=0.4,
         )
         fig.update_traces(textinfo="percent+label")
@@ -294,6 +521,14 @@ def page_customers():
 
     with col2:
         st.subheader("Customer Lifetime Value (Top 20)")
+        st.markdown("""
+        **What This Shows**: The 20 customers who have generated the most revenue over their lifetime on the 
+        platform. Color-coded by segment to reveal which types of customers are most valuable.
+        
+        **Key Insight**: Champions and Loyal Customers should dominate the top 20. If you see mostly New 
+        Customers with high CLV, they may be one-time big spenders — retention strategy differs significantly. 
+        Track whether these top customers are growing or shrinking over time.
+        """)
         clv = query("""
             SELECT
                 c.customer_id, c.full_name, c.city, c.customer_segment,
@@ -312,20 +547,43 @@ def page_customers():
             color="customer_segment", text_auto=".2s",
             hover_data=["total_orders", "avg_order_value"],
             labels={"lifetime_value": "Lifetime Value (₹)", "full_name": "Customer"},
+            color_discrete_sequence=["#88c0d0", "#81a1c1", "#5e81ac", "#a3be8c", "#ebcb8b", "#d08770", "#bf616a", "#b48ead"],
         )
         fig.update_layout(xaxis_tickangle=-45, showlegend=False)
         st.plotly_chart(fig, use_container_width=True)
 
     st.subheader("CLV Distribution")
+    st.markdown("""
+    **Data Table**: Full breakdown of the top 20 customers by lifetime value. Use this to identify individual 
+    high-value customers and understand their ordering patterns — total orders, average order value, and 
+    segment classification.
+    """)
     st.dataframe(clv, use_container_width=True, hide_index=True)
 
 
 # ── PAGE: MENU ITEMS ─────────────────────────────────────────
 def page_menu_items():
-    st.title("🍔 Menu Item Analytics")
+    st.title("Menu Item Analytics")
+    st.markdown("""
+    **About This Analysis**: Individual menu items drive customer choice and restaurant differentiation. This 
+    page identifies the top-performing items by revenue, revealing which categories and cuisines resonate 
+    most with customers.
+    
+    **What to Look For**: Top items by revenue may be expensive but low-volume, or cheap but high-volume. 
+    Look at units sold alongside revenue — an item with moderate revenue but very high units sold is a 
+    volume driver that could be used in promotions.
+    """)
     show_kpi_strip()
 
     st.subheader("Top 10 Menu Items by Revenue")
+    st.markdown("""
+    **What This Shows**: The 10 menu items that generate the most total revenue, colored by food category. 
+    Hover data reveals total units sold, number of orders containing this item, and average price.
+    
+    **Key Insight**: Category diversity in the top 10 indicates broad appeal across customer preferences. If 
+    one category dominates, you may be over-reliant on a specific type of customer or occasion. Cuisine type 
+    coloring helps identify which culinary traditions perform best on the platform.
+    """)
     items = query("""
         SELECT
             m.item_id,
@@ -359,10 +617,32 @@ def page_menu_items():
 
 # ── PAGE: CANCELLATIONS ──────────────────────────────────────
 def page_cancellations():
-    st.title("❌ Cancellation Analysis")
+    st.title("Cancellation Analysis")
+    st.markdown("""
+    **About This Analysis**: Cancellations represent failed transactions — lost revenue for restaurants, 
+    frustrated customers, and wasted delivery capacity. Understanding where and why cancellations happen is 
+    critical for operational improvement.
+    
+    **What to Look For**: High cancellation rates in specific cities or cuisines indicate systemic problems — 
+    perhaps delivery agent shortages, restaurant preparation issues, or customer expectation mismatches. The 
+    scatter plot reveals whether high-volume areas have proportionally high or low cancellation rates.
+    """)
     show_kpi_strip()
 
     st.subheader("Cancellation Rate by City & Cuisine")
+    st.markdown("""
+    **Left Chart**: Top 15 city-cuisine combinations ranked by cancellation rate. The bar height shows the 
+    percentage of orders that were cancelled. Color indicates cuisine type, helping you spot cuisine-specific 
+    issues.
+    
+    **Right Chart**: Scatter plot of total orders vs cancellation rate. Bubble size = number of cancelled 
+    orders. Points in the upper-right (high volume, high cancellation rate) are your most critical problem 
+    areas — they affect the most customers. Points in the lower-right (high volume, low cancellation rate) 
+    are your healthy, scalable operations.
+    
+    **Key Insight**: A city with high cancellation rate and high volume should be your top priority for 
+    investigation. Low-volume, high-cancellation cells may be niche cases that don't warrant intervention.
+    """)
     cancellations = query("""
         SELECT
             r.city,
@@ -404,10 +684,33 @@ def page_cancellations():
 
 # ── PAGE: DEMAND PATTERNS ────────────────────────────────────
 def page_demand():
-    st.title("⏰ Hourly Demand Pattern")
+    st.title("Hourly Demand Pattern")
+    st.markdown("""
+    **About This Analysis**: Understanding when customers order is critical for staffing, delivery agent 
+    scheduling, and restaurant preparation. This heatmap reveals demand patterns across hours of the day 
+    and days of the week.
+    
+    **What to Look For**: Peak hours (typically lunch 12-2pm and dinner 6-9pm) show when you need maximum 
+    delivery agent availability. Weekend patterns often differ significantly from weekdays — higher volume 
+    but also higher variance. Off-peak demand represents opportunities for promotions to fill capacity.
+    """)
     show_kpi_strip()
 
     st.subheader("Orders by Day of Week & Hour")
+    st.markdown("""
+    **What This Shows**: A heatmap where darker red means more orders. Each cell shows the total number of 
+    delivered orders for that specific day-of-week and hour-of-day combination. The pattern reveals your 
+    demand rhythm.
+    
+    **Key Insights**:
+    - **Lunch peak**: Usually 11am-2pm — weaker than dinner in most markets
+    - **Dinner peak**: Usually 6pm-9pm — typically the largest demand window
+    - **Weekend effect**: Saturday and Sunday often have higher volume but shifted timing (later starts)
+    - **Late night**: Orders after 10pm may indicate underserved demand or delivery agent shortage
+    
+    **Operational Use**: Align delivery agent shifts with these patterns. If dinner peak is 7-9pm, agents 
+    should be on the road by 6:30pm, not arriving at 7pm when the rush has already started.
+    """)
     demand = query("""
         SELECT
             d.day_name,
@@ -432,7 +735,7 @@ def page_demand():
         labels=dict(x="Hour of Day", y="Day of Week", color="Orders"),
         x=list(range(24)),
         y=day_order,
-        color_continuous_scale="YlOrRd",
+        color_continuous_scale=[[0, "#eceff4"], [0.3, "#d08770"], [0.7, "#bf616a"], [1, "#4c566a"]],
     )
     fig.update_xaxes(side="bottom")
     st.plotly_chart(fig, use_container_width=True)
@@ -442,10 +745,32 @@ def page_demand():
 
 # ── PAGE: DELIVERY AGENTS ────────────────────────────────────
 def page_agents():
-    st.title("🚴 Delivery Agent Performance")
+    st.title("Delivery Agent Performance")
+    st.markdown("""
+    **About This Analysis**: Delivery agents are the face of the platform and the most operationally 
+    complex workforce. Their performance directly impacts customer satisfaction (delivery time) and 
+    unit economics (deliveries per shift). This page analyzes agent productivity and efficiency.
+    
+    **What to Look For**: Top agents by delivery count should also have competitive average delivery 
+    times. An agent with many deliveries but slow times may be overworked. Fast agents with few 
+    deliveries may be underutilized or new. Performance tier distribution reveals whether your 
+    tiering system is well-calibrated.
+    """)
     show_kpi_strip()
 
     st.subheader("Agent Leaderboard")
+    st.markdown("""
+    **Left Chart**: Top 15 agents by total deliveries, colored by performance tier. Hover to see average 
+    delivery time and total value of orders delivered. This reveals who your most productive agents are.
+    
+    **Right Chart**: Box plot showing delivery volume distribution by performance tier. The box shows the 
+    middle 50% of agents in each tier, the line is the median, and whiskers show the range. Overlap between 
+    tiers indicates that tier assignments may need recalibration — e.g., if some "Gold" agents have fewer 
+    deliveries than "Silver" agents, the criteria may include factors beyond pure volume.
+    
+    **Key Insight**: Look for agents in the top 15 who are not in the highest performance tier — they may 
+    be high-performers who should be promoted or rewarded to prevent churn.
+    """)
     agents = query("""
         SELECT
             a.agent_id,
@@ -488,7 +813,21 @@ def page_agents():
 
 # ── PAGE: RFM ────────────────────────────────────────────────
 def page_rfm():
-    st.title("📈 RFM Customer Segmentation")
+    st.title("RFM Customer Segmentation")
+    st.markdown("""
+    **About This Analysis**: RFM (Recency, Frequency, Monetary) analysis is a proven method for 
+    customer segmentation. It scores each customer on three dimensions: how recently they ordered (R), 
+    how frequently they order (F), and how much they spend (M). Each dimension is scored 1-5 using 
+    NTILE quintiles, then combined into segments with actionable labels.
+    
+    **Why RFM Matters**: Unlike simple demographics, RFM is behavioral — it tells you what customers 
+    actually do, not who they are. This makes it directly actionable for marketing, retention, and 
+    growth strategies.
+    
+    **What to Look For**: The bar chart shows how many customers fall into each segment. The scatter plot 
+    reveals the relationship between order frequency and monetary value — customers above the implicit 
+    trend line are more valuable than their frequency alone would predict.
+    """)
     st.markdown("Recency, Frequency, Monetary analysis with **NTILE(5) scoring** and actionable segment labels.")
     show_kpi_strip()
 
@@ -541,16 +880,37 @@ def page_rfm():
 
     col1, col2 = st.columns(2)
     with col1:
+        st.subheader("Segment Distribution")
+        st.markdown("""
+        **What This Shows**: Number of customers in each RFM segment. Champions are your best customers 
+        (high R, F, and M scores). Lost customers were once active but haven't ordered recently. The 
+        shape of this distribution tells you whether your customer base is healthy or at risk.
+        
+        **Healthy Distribution**: Champions and Loyal Customers are among the largest segments.
+        **Warning Signs**: Lost, At-Risk, or About to Sleep dominate — indicates retention problems.
+        **Growth Mode**: New Customers and Potential Loyalists are large — acquisition is working, but 
+        you need to ensure they convert to Loyal over time.
+        """)
         fig = px.bar(
             rfm, x="rfm_segment", y="customer_count",
             color="rfm_segment", text_auto=True,
             labels={"customer_count": "Customers", "rfm_segment": "Segment"},
-            color_discrete_sequence=px.colors.qualitative.Set3,
+            color_discrete_sequence=["#88c0d0", "#81a1c1", "#5e81ac", "#a3be8c", "#ebcb8b", "#d08770", "#bf616a", "#b48ead", "#8fbcbb"],
         )
         fig.update_layout(xaxis_tickangle=-45, showlegend=False)
         st.plotly_chart(fig, use_container_width=True)
 
     with col2:
+        st.subheader("Frequency vs Monetary Value")
+        st.markdown("""
+        **What This Shows**: Each bubble is an RFM segment, positioned by average order frequency (x-axis) 
+        and average monetary value (y-axis). Bubble size = number of customers in that segment. This reveals 
+        which segments are most profitable and whether frequency correlates with spending.
+        
+        **Key Insight**: Segments above the implicit diagonal are more valuable than their frequency alone 
+        would predict — they're your high-spenders. Segments below it order frequently but spend less — 
+        they're deal-driven or price-sensitive.
+        """)
         fig = px.scatter(
             rfm, x="avg_frequency", y="avg_monetary",
             size="customer_count", color="rfm_segment",
@@ -564,7 +924,20 @@ def page_rfm():
 
 # ── PAGE: ML FORECAST ────────────────────────────────────────
 def page_forecast():
-    st.title("🔮 ML Order Volume Forecast")
+    st.title("ML Order Volume Forecast")
+    st.markdown("""
+    **About This Forecast**: This page uses Facebook Prophet, a time-series forecasting model, to predict 
+    order volume for the next 30 days. Prophet accounts for weekly seasonality (weekdays vs weekends), 
+    yearly seasonality (monthly trends), and adds a weekend regressor to capture day-of-week effects.
+    
+    **Model Details**: Prophet fits an additive model where trend, seasonality, and holidays/regressors 
+    are combined. The confidence interval (shaded area) represents uncertainty — wider intervals mean less 
+    certainty, typically increasing as we forecast further into the future.
+    
+    **What to Look For**: The predicted order line (red) shows expected daily volume. The shaded confidence 
+    band tells you the range of plausible outcomes. Use the lower bound for conservative staffing and the 
+    upper bound for capacity planning.
+    """)
     st.markdown("**Model**: Facebook Prophet | **Horizon**: 30 days | **Features**: weekend regressor, weekly + yearly seasonality")
 
     # Try to load forecast
@@ -590,24 +963,33 @@ def page_forecast():
             pass
 
         st.subheader("30-Day Order Volume Forecast")
+        st.markdown("""
+        **What This Shows**: Predicted daily order volume for the next 30 days. The red line is the model's 
+        best estimate. The shaded band around it is the 80% confidence interval — the range where the actual 
+        value is expected to fall 80% of the time.
+        
+        **How to Use**: Plan delivery agent staffing based on the lower bound (conservative) or the prediction 
+        (optimistic). If the forecast shows a significant dip, investigate whether it's a real seasonal pattern 
+        or model uncertainty.
+        """)
         fig = go.Figure()
         fig.add_trace(go.Scatter(
             x=forecast["forecast_date"], y=forecast["predicted_orders"],
             mode="lines+markers", name="Predicted",
-            line=dict(color="#e74c3c", width=2), marker_size=4,
+            line=dict(color="#bf616a", width=2), marker_size=4,
         ))
         fig.add_trace(go.Scatter(
             x=forecast["forecast_date"], y=forecast["upper_bound"],
             mode="lines", name="Upper Bound",
-            line=dict(color="rgba(231,76,60,0.3)", width=1),
+            line=dict(color="rgba(191,97,106,0.25)", width=1),
             showlegend=False,
         ))
         fig.add_trace(go.Scatter(
             x=forecast["forecast_date"], y=forecast["lower_bound"],
             mode="lines", name="Lower Bound",
-            line=dict(color="rgba(231,76,60,0.3)", width=1),
+            line=dict(color="rgba(191,97,106,0.25)", width=1),
             fill="tonexty",
-            fillcolor="rgba(231,76,60,0.15)",
+            fillcolor="rgba(191,97,106,0.1)",
             showlegend=False,
         ))
         fig.update_layout(
@@ -627,16 +1009,16 @@ def page_forecast():
 
 # ── ROUTER ───────────────────────────────────────────────────
 pages = {
-    "📊 Overview": page_overview,
-    "💰 Revenue": page_revenue,
-    "🏆 Restaurants": page_restaurants,
-    "👥 Customers": page_customers,
-    "🍔 Menu Items": page_menu_items,
-    "❌ Cancellations": page_cancellations,
-    "⏰ Demand Patterns": page_demand,
-    "🚴 Delivery Agents": page_agents,
-    "📈 RFM Segmentation": page_rfm,
-    "🔮 ML Forecast": page_forecast,
+    "Overview": page_overview,
+    "Revenue": page_revenue,
+    "Restaurants": page_restaurants,
+    "Customers": page_customers,
+    "Menu Items": page_menu_items,
+    "Cancellations": page_cancellations,
+    "Demand Patterns": page_demand,
+    "Delivery Agents": page_agents,
+    "RFM Segmentation": page_rfm,
+    "ML Forecast": page_forecast,
 }
 
 pages[nav]()
