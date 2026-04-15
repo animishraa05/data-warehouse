@@ -1,6 +1,10 @@
 # FoodFlow Analytics — Python Dependencies
 # Install: pip install -r requirements.txt
 
+# ── Dashboard & Visualization ─────────────────────────────────
+streamlit==1.31.1
+plotly==5.20.0
+
 # ── Core Data Engineering ──────────────────────────────────────
 pandas==2.2.3
 numpy==1.26.4
